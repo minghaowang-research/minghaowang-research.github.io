@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Biography
-Minghao Wang is a first-year doctoral student in the Department of Marketing at Michigan State University's Broad College of Business. He brings a unique combination of academic credentials, having completed multiple degrees from top-ranked programs including an MS in Marketing Research from Michigan State University, an MS in Management Business Analytics and Intelligence from Case Western Reserve University, and prior degrees in Psychology and Supply Chain Management with economic minor from Michigan State University. 
+Minghao Wang is a first-year doctoral student in the Department of Marketing at Michigan State University's Broad College of Business. 
+He brings a unique combination of academic credentials, having completed multiple degrees from top-ranked programs including an MS in Marketing Research from Michigan State University, an MS in Management Business Analytics and Intelligence from Case Western Reserve University, and prior degrees in Psychology and Supply Chain Management with economic minor from Michigan State University. 
 
 ## Research Interests
 His research interests span digital marketing, customer satisfaction, modeling, and data-driven marketing decisions.

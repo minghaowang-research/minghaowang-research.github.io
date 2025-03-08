@@ -39,5 +39,3 @@ A current version of my CV is available for download [here](/assets/pdf/Minghao 
 * **Programming and Data Analysis**: Python, SQL, R, Stata, SPSS & SPSS Modeler, Tableau
 * **Business Analytics and Intelligence**: Arena, @Risk, Qualtrics, Mintel, Passport, Fitch, MarketLine
 * **Languages**: Mandarin (native), English (fluent)
-
-For more detailed information, please download my [complete CV](/assets/pdf/Minghao Wang_PhD_CV_2025_02.pdf).
