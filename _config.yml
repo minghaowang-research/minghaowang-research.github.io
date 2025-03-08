@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Minghao Wang 王铭浩/ Ph.D. Student"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Minghao Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://minghaowang-research.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "minghaowang-research/minghaowang-research.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Minghao Wang"
+  pronouns         : "He/His/Him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "East Lansing"
+  employer         : "Michigan State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangmi18@msu.edu / mxw774@case.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
