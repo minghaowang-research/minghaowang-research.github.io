@@ -14,11 +14,10 @@ Minghao Wang is a first-year doctoral student in the Department of Marketing at 
 His research interests span digital marketing, customer satisfaction, modeling, and data-driven marketing decisions.
 
 ## Education
-
-Prior to my PhD, I completed an M.S. in Marketing Research at Michigan State University and an M.S. in Management Business Analytics and Intelligence at Case Western Reserve University, building a strong foundation in both marketing theory and quantitative methods.
-Master of Science (M.S.) Management Business Analytics and Intelligence 2023, Weatherhead School of Management (WSOM), Case Western Reserve University
-Master of Science (M.S.) Marketing Research 2021, Eli Broad College of Business, Michigan State University
-Bachelor of Arts (B.A.) Psychology 2019, College of Social Science, Michigan State University
-Bachelor of Arts (B.A.) Supply Chain Management 2018, Eli Broad College of Business, Michigan State University
+* **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
+* **Master of Science (M.S.) in Management Business Analytics and Intelligence**, Case Western Reserve University, 2023
+* **Master of Science (M.S.) in Marketing Research**, Michigan State University, 2021
+* **Bachelor of Arts (B.A.) in Psychology**, Michigan State University, 2019
+* **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
 
 [View my full CV](/assets/pdf/Minghao Wang_PhD_CV_2025_02.pdf)
