@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="google-site-verification" content="wthFIOJW6qldEHEVajQrc23mvJ3bTUQ6CLN_zi6fqYU" />
 
 ## Biography
 Minghao Wang is a first-year doctoral student in the Department of Marketing at Michigan State University's Broad College of Business. 
