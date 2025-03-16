@@ -7,12 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-
 ## Teaching Experience
 
 * **MKT (Marketing) 327: Introduction to Marketing** - *Upcoming Summer 2025*
   * Undergraduate course covering fundamental marketing concepts.
 
+## Course Materials
+
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Technical Skills for Teaching
 
