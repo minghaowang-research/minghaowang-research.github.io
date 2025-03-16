@@ -9,6 +9,7 @@ excerpt: " "
 ---
 
 <!-- excerpt-end -->
+**Summer Session:** July 1 - August 15, 2025
 
 **Course Overview**
 MKT 327: Introduction to Marketing provides a comprehensive foundation in marketing principles and practices...
