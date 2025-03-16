@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wang, Minghao - PhD Student in Marketing"
+title: "Minghao Wang - PhD Student in Marketing"
 author_profile: true
 redirect_from: 
   - /about/

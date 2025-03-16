@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wang, Minghao (王,铭浩) - PhD Student in Marketing"
+title                    : "Minghao Wang (王铭浩) - PhD Student in Marketing"
 title_separator          : "-"
 name                     : &name "Minghao Wang"
 description              : &description "PhD Student in Marketing at Michigan State University"
