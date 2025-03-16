@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
 venue: "Michigan State University, July 1 - August 15, 2025"
+date: 2025-07-01
 location: "East Lansing, Michigan"
 ---
 
