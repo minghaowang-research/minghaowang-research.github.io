@@ -1,12 +1,13 @@
 ---
 title: "MKT 327: Introduction to Marketing"
 collection: teaching
-type: "Undergraduate course (Summer 2025: July 1 - August 15)"
+type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
-venue: "Michigan State University"
+venue: "Michigan State University, East Lansing, MI"
 date: 2025-07-01
-location: "East Lansing, Michigan"
 ---
+
+**Summer Session:** July 1 - August 15, 2025
 
 ## Course Overview
 
