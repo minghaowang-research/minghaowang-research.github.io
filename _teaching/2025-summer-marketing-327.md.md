@@ -5,9 +5,13 @@ type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
 venue: "Michigan State University, East Lansing, MI"
 date: 2025-07-01
+excerpt: " "
 ---
-## Course Overview
-MKT 327: Introduction to Marketing provides a comprehensive foundation in marketing principles and practices. This course covers essential marketing concepts including buyer behavior, market segmentation, positioning, demand analysis, marketing information systems, pricing strategies, promotion, distribution channels, product policies, and ethical considerations in marketing.
+
+<!-- excerpt-end -->
+
+**Course Overview**
+MKT 327: Introduction to Marketing provides a comprehensive foundation in marketing principles and practices...
 
 ## Course Structure
 
