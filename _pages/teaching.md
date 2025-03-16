@@ -9,8 +9,7 @@ author_profile: true
 
 ## Teaching Experience
 
-* **MKT (Marketing) 327: Introduction to Marketing** - *Upcoming Summer 2025*
-  * Undergraduate course covering fundamental marketing concepts.
+I will be teaching Introduction to Marketing (MKT 327) at Michigan State University in Summer 2025. This foundational course provides undergraduate students with core marketing concepts and applications.
 
 ## Course Materials
 
