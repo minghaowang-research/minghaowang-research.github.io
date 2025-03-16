@@ -11,7 +11,7 @@ author_profile: true
 ## Teaching Experience
 
 * **MKT (Marketing) 327: Introduction to Marketing** - *Upcoming Summer 2025*
-  * Undergraduate course covering fundamental marketing concepts, such as: Buyer behavior, segmentation, positioning, demand analysis, information, pricing, promotion, channels, product policies, and ethics in consumer, reseller, industrial, and service markets.
+  * Undergraduate course covering fundamental marketing concepts.
 
 
 ## Technical Skills for Teaching
