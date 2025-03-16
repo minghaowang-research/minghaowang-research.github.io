@@ -7,10 +7,8 @@ venue: "Michigan State University, East Lansing, MI"
 date: 2025-07-01
 ---
 
-**Summer Session:** July 1 - August 15, 2025
-
 ## Course Overview
-
+**Summer Session:** July 1 - August 15, 2025
 MKT 327: Introduction to Marketing provides a comprehensive foundation in marketing principles and practices. This course covers essential marketing concepts including buyer behavior, market segmentation, positioning, demand analysis, marketing information systems, pricing strategies, promotion, distribution channels, product policies, and ethical considerations in marketing.
 
 ## Course Structure
