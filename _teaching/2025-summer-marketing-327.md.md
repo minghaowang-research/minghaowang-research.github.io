@@ -1,12 +1,14 @@
 ---
-title: "MKT 327: Introduction to Marketing - Section 734"
+title: "MKT 327: Introduction to Marketing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
-venue: "Michigan State University, Department of Marketing"
-date: 2025-07-01 to 2025-08/15
+venue: "Michigan State University"
+date: 2025-07-01
 location: "East Lansing, Michigan"
 ---
+
+**Course Duration:** July 1 - August 15, 2025
 
 ## Course Overview
 
@@ -20,4 +22,5 @@ MKT 327: Introduction to Marketing provides a comprehensive foundation in market
 * **Application**: Marketing plan development and presentation
 
 ## Prerequisites
+
 Open to sophomores, juniors, and seniors not enrolled in business majors. Not open to students with credit in HB 375 or MKT 300.
