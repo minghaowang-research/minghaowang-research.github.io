@@ -18,9 +18,9 @@ author_profile: true
 *Sep 2024 - Present*
 
 ## Conference
-### Paper presentation
-* **Not Yet!*
+### Paper Presentation
+* **Not Yet!**
 
-### Poster presentation
+### Poster Presentation
 * **AMA Summer Academic Conference**, Chicago IL, United States, 2025
 
