@@ -24,4 +24,4 @@ His research interests span digital marketing, customer satisfaction, modeling, 
 ## Award
 * **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
 
-[View my full CV](/assets/pdf/Minghao Wang_PhD_CV_2025_02.pdf)
+[View my full CV](/assets/pdf/Minghao Wang_PhD_CV.pdf)
