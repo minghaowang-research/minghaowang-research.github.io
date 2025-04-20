@@ -17,10 +17,6 @@ author_profile: true
 ### Health Campaigns 
 *Sep 2024 - Present*
 
-## Conference
-### Paper Presentation
-* **Not Yet!**
-
-### Poster Presentation
-* **AMA Summer Academic Conference**, Chicago IL, United States, 2025
+## CONFERENCE PRESENTATION AND INVITED TALKS
+* Wang, Minghao*, “The Impact of Top Management Team Marketing Experience on Born-Global Firms”. 2025 AMA Summer Academic Conference – Poster, @Chicago, IL, USA
 
