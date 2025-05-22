@@ -56,7 +56,7 @@ Online learning has unique strengths that, when leveraged intentionally, can cre
 
 However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one to two business day, also offer meet as need appintment option.
 
-### Convergence and Divergence
+### Core Principles
 
 Both online and in-person learning share core principles: clear objectives, engaging content, meaningful assessment, and supportive instructor presence. Good teaching is good teaching, regardless of modality. My experiences at MSU, CWRU, and the University of Kent all reinforced these fundamentals.
 
