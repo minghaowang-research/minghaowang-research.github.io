@@ -40,8 +40,6 @@ I want to develop expertise in creating flexible learning environments that acco
 
 ## My Beliefs About Learning and Online Learning
 
-## My Beliefs About Learning and Online Learning
-
 ### Learning in General
 
 I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding. 
@@ -74,9 +72,7 @@ The key difference lies in implementation. Online learning requires more explici
 
 **Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. 
 
-**"Assessment is an act of interpretation not just measurement" (Bayne et al., 2020).** Following Bayne, I will look for evidence of student thinking and growth, not just correct answers. My survey-based feedback system allows me to understand student learning processes and adjust my teaching accordingly.
-
-**Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities that reward engagement.
+**Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, summer interns, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities that reward engagement.
 
 ## Moving Forward
 
