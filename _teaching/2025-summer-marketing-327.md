@@ -5,6 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
 venue: "Michigan State University, East Lansing, MI"
 date: 2025-07-01
+categories: [teaching-experience]
 excerpt: " "
 ---
 
