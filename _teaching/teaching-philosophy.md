@@ -8,5 +8,6 @@ categories: [teaching-philosophy]
 excerpt: " "
 ---
 
-## Coming Soon
+<!-- excerpt-end -->
 
+## Coming Soon
