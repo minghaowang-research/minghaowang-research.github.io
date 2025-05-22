@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Philosophy
-
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'teaching-philosophy' %}
     {% include archive-single.html %}
