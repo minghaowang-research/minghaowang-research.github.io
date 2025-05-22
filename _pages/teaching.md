@@ -11,7 +11,7 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'teaching-philosophy' %}
-[{{ post.title }}]({{ base_path }}{{ post.permalink }})
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**
   {% endif %}
 {% endfor %}
 
@@ -19,7 +19,8 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'teaching-experience' %}
-    {% include archive-single.html %}
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
+{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
   {% endif %}
 {% endfor %}
 
@@ -27,7 +28,8 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'classes-taken' %}
-    {% include archive-single.html %}
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
+{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
   {% endif %}
 {% endfor %}
 
