@@ -1,10 +1,9 @@
 ---
 title: "Teaching Philosophy (Updated May 2025)"
-collection: teaching
+layout: archive
 permalink: /teaching/teaching-philosophy
 categories: [teaching-philosophy]
 excerpt: " "
-layout: single
 author_profile: true
 ---
 
