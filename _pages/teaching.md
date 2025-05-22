@@ -23,7 +23,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Classes Have Taken
+## Professional Development in Teaching
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'classes-taken' %}
