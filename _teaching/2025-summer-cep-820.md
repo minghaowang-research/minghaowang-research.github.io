@@ -87,4 +87,4 @@ Through CEP 820, I am learning to see online education as an opportunity to reac
 As a first-time instructor with experience as both a domestic and international student, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone.
 
 ## References
-Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). The manifesto for teaching online. MIT Press.
+Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). *The manifesto for teaching online*. MIT Press.
