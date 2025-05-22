@@ -76,7 +76,7 @@ The key difference lies in implementation. Online learning requires more explici
 
 ## Moving Forward
 
-This manifesto represents my starting point as an online educator. I expect my beliefs to evolve as I gain experience and learn from my students. Teaching MKT 327 this summer will test these principles in practice. The three surveys I have built into the course will provide continuous feedback about what works and what needs improvement.
+This manifesto represents my starting point as an instructor. I expect my beliefs to evolve as I gain experience and learn from my students. Teaching MKT 327 this summer will test these principles in practice. The three surveys I have built into the course will provide continuous feedback about what works and what needs improvement.
 
 My diverse educational background - from MSU to CWRU to the University of Kent - has shown me that there are many effective ways to teach and learn. My goal is to create online learning experiences that draw from this diversity while serving my students' specific needs.
 
