@@ -1,9 +1,10 @@
 ---
 title: "Teaching Philosophy"
 collection: teaching
-type: "Teaching Philosophy"
+type: ""
 permalink: /teaching/teaching-philosophy
 categories: [teaching-philosophy]
+excerpt: " "
 ---
 
 <!-- excerpt-end -->
