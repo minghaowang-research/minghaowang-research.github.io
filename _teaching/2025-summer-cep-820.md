@@ -10,7 +10,7 @@ excerpt: " "
 ---
 
 <!-- excerpt-end -->
-**Summer Session:** Mat 15 - August 15, 2025
+**Summer Session:** May 15 - August 15, 2025
 
 # My Online Teaching Manifesto
 
