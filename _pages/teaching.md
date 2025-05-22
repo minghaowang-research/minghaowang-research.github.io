@@ -9,7 +9,7 @@ author_profile: true
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'teaching-philosophy' %}
-    {% include archive-single.html %}
+    <h3><a href="{{ base_path }}{{ post.permalink }}">{{ post.title }}</a></h3>
   {% endif %}
 {% endfor %}
 
