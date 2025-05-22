@@ -24,7 +24,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-## Professional Development in Teaching & My Teaching Manifesto
+## Professional Development in Teaching & Teaching Manifesto
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'classes-taken' %}
