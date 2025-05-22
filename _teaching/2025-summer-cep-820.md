@@ -16,21 +16,21 @@ excerpt: " "
 
 ## Who I Am: Personal and Professional Context
 
-I am Minghao Wang, a first-year PhD student in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and another in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
+I am Minghao Wang, a first-year PhD student in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
 
-My international experience includes studying abroad at the University of Kent in the United Kingdom for one semester during my psychology studies. As someone originally from China now studying in the United States, I bring multicultural perspectives to my teaching. This diverse background helps me understand how students from different cultures and educational systems approach learning.
+My international experience includes studying abroad at the University of Kent in the United Kingdom (Canterbury) for one semester during my psychology studies. As someone originally from China now studying in the United States, I bring multicultural perspectives to my teaching. This diverse background helps me understand how students from different cultures and educational systems approach learning.
 
 These varied educational experiences have given me multiple angles of understanding what students like and dislike. I have been an undergraduate student at MSU, experienced different teaching styles at CWRU, and adapted to British educational approaches during my semester abroad. I understand the challenges of navigating different academic systems and cultural expectations around learning.
 
 Before entering my doctoral program, I worked in procurement and data analysis at CWRU, where I learned how to solve complex problems and communicate findings clearly. My background in marketing research has taught me the importance of understanding your audience. Just as successful marketing campaigns require deep knowledge of consumer behavior, effective teaching requires understanding how students learn.
 
-This summer, I will teach MKT 327 (Introduction to Marketing) for the first time. My class is completely asynchronous, serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represents a new chapter in my professional development. I chose to take CEP 820 specifically to learn how to design effective online learning experiences.
+This summer, I will teach MKT 327 (Introduction to Marketing) for the first time. My class is completely asynchronous (July 1 - Aug 15, 2025), serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represents a new chapter in my professional development. I chose to take CEP 820 specifically to learn how to design effective online learning experiences.
 
 Unlike many instructors who assign numerous case studies, I have made intentional design choices for my course. I reduced the typical case study load and replaced some assignments with three surveys worth 10% of the final grade. These surveys serve dual purposes: they give students points while providing me with continuous feedback about their understanding and what I need to improve as an instructor.
 
 ## My Course for Development: Guiding Principles
 
-My manifesto will guide how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent, I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I will use student feedback and learning analytics to refine my teaching methods.
+My manifesto will guide how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent(UK), I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I will use student feedback and learning analytics to refine my teaching methods.
 
 The three surveys in my course design reflect this commitment. Rather than just measuring student satisfaction, these surveys help me understand what is working and what needs adjustment. This approach acknowledges that I am learning to teach just as my students are learning marketing concepts.
 
@@ -42,27 +42,23 @@ I want to develop expertise in creating flexible learning environments that acco
 
 ### Learning in General
 
-I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding. People learn best when they can see practical applications and when they feel supported in taking intellectual risks.
+I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding. 
 
 My semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
 
-Assessment should measure understanding, not just memorization. Students need opportunities to practice skills, receive feedback, and improve their work. Learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week to complete exams and allow them to drop their lowest exam score.
+Students need opportunities to practice skills, receive feedback, and improve their work. Learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week to open exams and allow them to drop their lowest exam score.
 
 ### Online Learning Specifically
 
-Online learning has unique strengths that, when leveraged intentionally, can create superior educational experiences. The asynchronous format allows students to engage with material when they are most focused and available. This flexibility particularly benefits working students and those with family responsibilities - something I understand from my own experience balancing multiple degrees and work responsibilities.
+Online learning has unique strengths that, when leveraged intentionally, can create superior educational experiences. The asynchronous format allows students to engage with material when they are most focused and available. This flexibility particularly benefits working students(Summer Interns) and those with family responsibilities - something I understand from my own experience balancing multiple degrees and work responsibilities.
 
-Digital platforms enable new forms of interaction and assessment. Students can collaborate across geographic boundaries, access diverse perspectives, and create multimedia projects that demonstrate learning in varied ways. Online discussions can be more thoughtful than in-person conversations because students have time to reflect before responding.
-
-However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one business day.
+However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one to two business day.
 
 ### Convergence and Divergence
 
 Both online and in-person learning share core principles: clear objectives, engaging content, meaningful assessment, and supportive instructor presence. Good teaching is good teaching, regardless of modality. My experiences at MSU, CWRU, and the University of Kent all reinforced these fundamentals.
 
-The key difference lies in implementation, not philosophy. Online learning requires more explicit structure and communication. Instructions must be clearer, expectations more detailed, and feedback more frequent. The instructor's role shifts from "sage on the stage" to "guide on the side" and "designer of experiences."
-
-Online learning also democratizes access in ways traditional classrooms cannot. Students who might struggle to speak up in person can participate more fully in written discussions. Course materials remain accessible for review. Geographic barriers disappear - something especially meaningful to me as an international student.
+The key difference lies in implementation. Online learning requires more explicit structure and communication. Instructions must be clearer, expectations more detailed, and feedback more frequent. Students who might struggle to speak up in person can participate more fully in written discussions. Course materials remain accessible for review. Geographic barriers disappear - something especially meaningful to me as an international student.
 
 ## My Specific Beliefs for Online Teaching
 
@@ -72,11 +68,9 @@ Online learning also democratizes access in ways traditional classrooms cannot. 
 
 **Cultural awareness enhances online learning.** My Chinese background and international study experience have taught me that students from different cultures may have different comfort levels with participation, different expectations about instructor-student relationships, and different approaches to collaborative work. Online environments can either amplify or reduce these differences, depending on how they are designed.
 
-**Accessibility must be intentional.** I will design courses that work for students with different devices, internet speeds, and technical skills. This means mobile-friendly content, clear navigation, and multiple ways to engage with material. Giving students a full week to complete exams accommodates different schedules and potential technical issues.
+**Accessibility must be intentional.**  Giving students a full week to complete exams accommodates different schedules and potential technical issues.
 
-**Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. I will use video messages when possible to add personal touches to the digital environment. My multicultural experience helps me recognize that some students may need more explicit encouragement to participate.
-
-**Assessment should interpret, not just measure.** Following the manifesto's wisdom, I will look for evidence of student thinking and growth, not just correct answers. My survey-based feedback system allows me to understand student learning processes and adjust my teaching accordingly.
+**Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. My multicultural experience helps me recognize that some students may need more explicit encouragement to participate.
 
 **Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities.
 
@@ -88,6 +82,6 @@ My diverse educational background - from MSU to CWRU to the University of Kent -
 
 My multicultural perspective reminds me that my students may come from backgrounds very different from my own. Some may be first-generation college students, others may be international students like I was, and still others may be returning to school after time in the workforce. Online learning should accommodate all of these paths.
 
-Through CEP 820, I am learning to see online education not as a compromise, but as an opportunity to reach students in new and powerful ways. My course design choices reflect this belief - from flexible exam scheduling to continuous feedback collection to extra credit opportunities that reward engagement.
+Through CEP 820, I am learning to see online education as an opportunity to reach students in new and powerful ways. My course design choices reflect this belief - from flexible exam scheduling to continuous feedback collection to extra credit opportunities that reward engagement.
 
 As a first-time instructor with experience as both a domestic and international student, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone.
