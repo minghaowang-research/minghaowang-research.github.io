@@ -16,7 +16,7 @@ excerpt: " "
 
 ## Who I Am: Personal and Professional Context
 
-I am Minghao Wang, a first-year PhD student in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
+I am Minghao Wang, a first-year PhD student (started in Fall 2024) in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
 
 My international experience includes studying abroad at the University of Kent in the United Kingdom (Canterbury) for one semester during my psychology studies. As someone originally from China now studying in the United States, I bring multicultural perspectives to my teaching. This diverse background helps me understand how students from different cultures and educational systems approach learning.
 
@@ -34,9 +34,11 @@ My manifesto will guide how I approach online course design and student interact
 
 The three surveys in my course design reflect this commitment. Rather than just measuring student satisfaction, these surveys help me understand what is working and what needs adjustment. This approach acknowledges that I am learning to teach just as my students are learning marketing concepts.
 
-My multicultural background helps me recognize that students come from diverse educational and cultural experiences. Some may be more comfortable with direct questioning, while others prefer written reflection. Some may expect highly structured guidance, while others thrive with independence. My course design must accommodate these differences.
+My multicultural background helps me recognize that students come from diverse educational and cultural experiences. Some may be more comfortable with direct questioning, while others prefer written reflection. Some may expect highly structured guidance, while others thrive with independence. My course design will try to accommodate these differences.
 
-I want to develop expertise in creating flexible learning environments that accommodate diverse student needs. My course structure provides multiple pathways to success: students can choose their best two exam scores out of three, earn extra credit through discussion boards, and have a full week to complete each exam to accommodate different schedules and time zones.
+I want to develop expertise in creating flexible learning environments that accommodate diverse student needs. My course structure provides multiple pathways to success: students can choose their best two exam scores out of three, earn extra credit through discussion boards, and have a full week to open each exam (Exam will close after 2 hours once student opened) to accommodate different schedules and time zones.
+
+## My Beliefs About Learning and Online Learning
 
 ## My Beliefs About Learning and Online Learning
 
@@ -44,15 +46,15 @@ I want to develop expertise in creating flexible learning environments that acco
 
 I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding. 
 
-My semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
+My Chinese background, studying in the US, and also a semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
 
-Students need opportunities to practice skills, receive feedback, and improve their work. Learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week to open exams and allow them to drop their lowest exam score.
+Students need opportunities to practice skills, receive feedback, and improve their work. As my CEP 820 instructor (Dr. Anne Heintz)  mentioned, learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
 
 ### Online Learning Specifically
 
 Online learning has unique strengths that, when leveraged intentionally, can create superior educational experiences. The asynchronous format allows students to engage with material when they are most focused and available. This flexibility particularly benefits working students(Summer Interns) and those with family responsibilities - something I understand from my own experience balancing multiple degrees and work responsibilities.
 
-However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one to two business day.
+However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one to two business day, also offer meet as need appintment option.
 
 ### Convergence and Divergence
 
@@ -62,17 +64,19 @@ The key difference lies in implementation. Online learning requires more explici
 
 ## My Specific Beliefs for Online Teaching
 
-**Online can be the privileged mode. Distance is a positive principle, not a deficit.** I reject the idea that online learning is second-best. When designed well, online courses can offer personalization and flexibility that enhances learning. My asynchronous MKT 327 course allows students to learn at their own pace while maintaining high academic standards.
+**"Online can be the privileged mode. Distance is a positive principle, not a deficit" (Bayne et al., 2020).** I reject the idea that online learning is second-best. When designed well, online courses can offer personalization and flexibility that enhances learning. My asynchronous MKT 327 course allows students to learn at their own pace while maintaining high academic standards.
 
-**Trust builds better learning than surveillance.** Rather than focusing on preventing cheating, I will design authentic assessments that make cheating irrelevant. Marketing case studies, real-world applications, and reflective assignments create more meaningful learning than traditional exams. My open-book exams focus on application rather than memorization.
+**Trust builds better learning than surveillance.** Rather than focusing on preventing cheating, I will design authentic assessments that make cheating irrelevant. Marketing case studies, and reflective assignments create more meaningful learning than traditional exams. As Bayne et al. (2020) warn, "a routine of plagiarism detection structures in distrust."
 
 **Cultural awareness enhances online learning.** My Chinese background and international study experience have taught me that students from different cultures may have different comfort levels with participation, different expectations about instructor-student relationships, and different approaches to collaborative work. Online environments can either amplify or reduce these differences, depending on how they are designed.
 
-**Accessibility must be intentional.**  Giving students a full week to complete exams accommodates different schedules and potential technical issues.
+**Accessibility must be intentional.** I will design courses that work for students with different devices, internet speeds, and technical skills. This means mobile-friendly content, clear navigation, and multiple ways to engage with material. Giving students a full week to complete exams accommodates different schedules and potential technical issues.
 
-**Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. My multicultural experience helps me recognize that some students may need more explicit encouragement to participate.
+**Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. 
 
-**Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities.
+**"Assessment is an act of interpretation not just measurement" (Bayne et al., 2020).** Following Bayne, I will look for evidence of student thinking and growth, not just correct answers. My survey-based feedback system allows me to understand student learning processes and adjust my teaching accordingly.
+
+**Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities that reward engagement.
 
 ## Moving Forward
 
@@ -85,3 +89,6 @@ My multicultural perspective reminds me that my students may come from backgroun
 Through CEP 820, I am learning to see online education as an opportunity to reach students in new and powerful ways. My course design choices reflect this belief - from flexible exam scheduling to continuous feedback collection to extra credit opportunities that reward engagement.
 
 As a first-time instructor with experience as both a domestic and international student, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone.
+
+## References
+Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). The manifesto for teaching online. MIT Press.
