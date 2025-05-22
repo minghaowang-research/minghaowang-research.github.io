@@ -4,6 +4,8 @@ collection: teaching
 permalink: /teaching/teaching-philosophy
 categories: [teaching-philosophy]
 excerpt: " "
+layout: single
+author_profile: true
 ---
 
 <!-- excerpt-end -->
