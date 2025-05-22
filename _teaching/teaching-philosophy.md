@@ -1,8 +1,10 @@
 ---
 title: "Teaching Philosophy"
 collection: teaching
-type: ""
+type: "Updated May 2025"
 permalink: /teaching/teaching-philosophy
+venue: ""
+date: 2025-05-01
 categories: [teaching-philosophy]
 excerpt: " "
 ---
