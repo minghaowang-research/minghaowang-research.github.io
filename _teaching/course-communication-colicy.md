@@ -119,8 +119,8 @@ This communication policy aligns with:
 
 ## Questions About This Policy?
 
-**First:** Check this policy, the syllabus, and D2L announcements
-**Then:** Email wangmi18@msu.edu with specific questions
+**First:** Check this policy, the syllabus, and D2L announcements  
+**Then:** Email [wangmi18@msu.edu](mailto:wangmi18@msu.edu) with specific questions  
 **For complex issues:** Schedule office hours appointment
 
 ---
