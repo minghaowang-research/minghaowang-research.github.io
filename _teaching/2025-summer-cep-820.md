@@ -12,7 +12,7 @@ excerpt: " "
 <!-- excerpt-end -->
 **Summer Session:** May 15 - August 15, 2025
 
-# My Online Teaching Manifesto
+# My Revisited Online Teaching Manifesto (Updated Aug 2025)
 
 ## Who I Am: Personal and Professional Context
 
@@ -24,67 +24,66 @@ These varied educational experiences have given me multiple angles of understand
 
 Before entering my doctoral program, I worked in procurement and data analysis at CWRU, where I learned how to solve complex problems and communicate findings clearly. My background in marketing research has taught me the importance of understanding your audience. Just as successful marketing campaigns require deep knowledge of consumer behavior, effective teaching requires understanding how students learn.
 
-This summer, I will teach MKT 327 (Introduction to Marketing) for the first time. My class is completely asynchronous (July 1 - Aug 15, 2025), serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represents a new chapter in my professional development. I chose to take CEP 820 specifically to learn how to design effective online learning experiences.
+This summer, I taught MKT 327 (Introduction to Marketing) for the first time. My class was completely asynchronous (July 1 - Aug 15, 2025), serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represented a new chapter in my professional development, and taking CEP 820 alongside teaching helped me apply what I was learning immediately.
 
-Unlike many instructors who assign numerous case studies, I have made intentional design choices for my course. I reduced the typical case study load and replaced some assignments with three surveys worth 10% of the final grade. These surveys serve dual purposes: they give students points while providing me with continuous feedback about their understanding and what I need to improve as an instructor.
+## My Course Design: Guided by Evidence and Student Voices
 
-## My Course for Development: Guiding Principles
+My manifesto guides how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent(UK), I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I use student feedback and learning analytics to refine my teaching methods.
 
-My manifesto will guide how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent(UK), I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I will use student feedback and learning analytics to refine my teaching methods.
+Through CEP 820, I learned about frameworks that helped me understand why this approach works. The TPACK framework (Mishra & Koehler, 2006) showed me that effective online teaching requires thoughtful integration of technology, pedagogy, and content knowledge within specific contexts. I can't just pick cool tech tools without considering whether they actually help students learn marketing concepts.
 
-The three surveys in my course design reflect this commitment. Rather than just measuring student satisfaction, these surveys help me understand what is working and what needs adjustment. This approach acknowledges that I am learning to teach just as my students are learning marketing concepts.
+The Design Justice principles also changed how I think about course design. Particularly powerful was the idea that "everyone is an expert based on their own lived experience" and that we should "center the voices of those who are directly impacted by the outcomes of the design process." Instead of just asking students about their tech skills, my surveys now ask questions like "What worries you most about taking this course?" and "What are your aspirations in life?" These aren't just feel-good questions—they give me actionable data.
 
-My multicultural background helps me recognize that students come from diverse educational and cultural experiences. Some may be more comfortable with direct questioning, while others prefer written reflection. Some may expect highly structured guidance, while others thrive with independence. My course design will try to accommodate these differences.
+When my MKT 327 students told me through surveys that they were managing internships, part-time jobs, full-time jobs, and some even had three jobs, I didn't just acknowledge these constraints—I redesigned around them. I restructured from individual assignments analyzing 12 companies to collaborative group work where each student analyzes approximately 2-3 companies total. This significantly reduced workload while maintaining learning objectives. I'm glad I made this change because it turned out most of my students were working while taking summer classes.
 
-I want to develop expertise in creating flexible learning environments that accommodate diverse student needs. My course structure provides multiple pathways to success: students can choose their best two exam scores out of three, earn extra credit through discussion boards, and have a full week to open each exam (Exam will close after 2 hours once student opened) to accommodate different schedules and time zones.
+My multicultural background helps me recognize that students come from diverse educational and cultural experiences. Some may be more comfortable with direct questioning, while others prefer written reflection. Some may expect highly structured guidance, while others thrive with independence. My course design tries to accommodate these differences through multiple format options for assignments—students can submit traditional written responses (200-300 words per company), create 3-4 minute video explanations, or design infographics with explanations—and flexible communication structures.
 
 ## My Beliefs About Learning and Online Learning
 
 ### Learning in General
 
-I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding. 
+I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding.
 
 My Chinese background, studying in the US, and also a semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
 
-Students need opportunities to practice skills, receive feedback, and improve their work. As my CEP 820 instructor (Dr. Anne Heintz)  mentioned, learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
+Students need opportunities to practice skills, receive feedback, and improve their work. Learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
 
 ### Online Learning Specifically
 
-Online learning has unique strengths that, when leveraged intentionally, can create superior educational experiences. The asynchronous format allows students to engage with material when they are most focused and available. This flexibility particularly benefits working students(Summer Interns) and those with family responsibilities - something I understand from my own experience balancing multiple degrees and work responsibilities.
+Online learning has unique challenges and opportunities. Bayne et al.'s (2020) "The Manifesto for Teaching Online" helped me understand that online education can be more human than many face-to-face experiences when designed thoughtfully. Their assertion that we should embrace the digital rather than see it as a poor substitute for in-person teaching resonated with my experience as an international student who often felt more comfortable participating in online discussions.
 
-However, online learning also presents challenges. Students may feel isolated or struggle with self-regulation. Technical issues can create barriers to access. Cultural differences in communication styles may be magnified online. The absence of physical presence requires more intentional relationship-building efforts from instructors. This is why I offer regular office hours and respond to emails within one to two business day, also offer meet as need appintment option.
+Through CEP 820, I learned about different types of communication that need to happen in online courses: content-related, planning of tasks, and social support (Haythornthwaite, 2008). In MKT 327, I design for all three through reflection prompts that help students process content ("Which company's marketing strategy is most sustainable?"), coordinate with peers ("How did working with your group help you understand these cases differently?"), and connect personally ("How will you use what you've learned in your future career?").
 
-### Core Principles
+## What I've Learned from Teaching and CEP 820
 
-Both online and in-person learning share core principles: clear objectives, engaging content, meaningful assessment, and supportive instructor presence. Good teaching is good teaching, regardless of modality. My experiences at MSU, CWRU, and the University of Kent all reinforced these fundamentals.
+### Mistakes I Made and How to Avoid Them
 
-The key difference lies in implementation. Online learning requires more explicit structure and communication. Instructions must be clearer, expectations more detailed, and feedback more frequent. Students who might struggle to speak up in person can participate more fully in written discussions. Course materials remain accessible for review. Geographic barriers disappear - something especially meaningful to me as an international student.
+**Confusing Activity with Engagement:** Early in my course planning, I thought elaborate online tools would make me a better teacher. CEP 820 taught me that the most powerful online learning experiences often use simple technologies in sophisticated ways. My students needed clear group coordination systems and straightforward collaboration tools, not complex platforms they had to learn on top of learning marketing.
 
-## My Specific Beliefs for Online Teaching
+**Overlooking Context:** Despite my multicultural background, I initially designed like everyone had perfect internet and quiet study spaces. The Design Justice principles made me actually build flexibility into my course structure, not just talk about it. This means multiple assignment formats, flexible deadlines when appropriate, and clear communication about requirements.
 
-**"Online can be the privileged mode. Distance is a positive principle, not a deficit" (Bayne et al., 2020).** I reject the idea that online learning is second-best. When designed well, online courses can offer personalization and flexibility that enhances learning. My asynchronous MKT 327 course allows students to learn at their own pace while maintaining high academic standards.
+**Treating Assessment as Measurement Rather Than Learning:** My quantitative background led me to focus on measurable outcomes without considering the learning process. Now I design assessments that help students learn while they're completing them. My reflection prompts ask students to connect marketing concepts to their professional goals, serving both formative and summative purposes.
 
-**Trust builds better learning than surveillance.** Rather than focusing on preventing cheating, I will design authentic assessments that make cheating irrelevant. Marketing case studies, and reflective assignments create more meaningful learning than traditional exams. As Bayne et al. (2020) warn, "a routine of plagiarism detection structures in distrust."
+### Key Insights
 
-**Cultural awareness enhances online learning.** My Chinese background and international study experience have taught me that students from different cultures may have different comfort levels with participation, different expectations about instructor-student relationships, and different approaches to collaborative work. Online environments can either amplify or reduce these differences, depending on how they are designed.
+I now understand that effective online instruction requires the same systematic approach I bring to my marketing research. I collect data about student needs through surveys, analyze what's working through feedback, and iterate based on evidence. This empirical approach helps me understand which strategies work for which students under what conditions.
 
-**Accessibility must be intentional.** I will design courses that work for students with different devices, internet speeds, and technical skills. This means mobile-friendly content, clear navigation, and multiple ways to engage with material. Giving students a full week to complete exams accommodates different schedules and potential technical issues.
+My goal is to create online learning experiences that draw from student diversity while serving their specific needs. My multicultural perspective reminds me that my students may come from backgrounds very different from my own. Some may be first-generation college students, others may be international students like I was, and still others may be returning to school after time in the workforce. Online learning should accommodate all of these paths.
 
-**Communication creates connection.** Regular announcements, prompt feedback, and virtual office hours help students feel supported. 
+## My Commitment Moving Forward
 
-**Flexibility shows respect for adult learners.** My students are junior-level college students with complex lives. They work part-time jobs, summer interns, have family responsibilities, and take multiple courses. My course design acknowledges these realities through flexible deadlines, multiple exam attempts, and extra credit opportunities that reward engagement.
+I commit to using technology to enhance rather than replace human connection in learning. This means designing opportunities for meaningful interaction, creating space for student voice and choice, and never losing sight of the individual learners behind the screens. In practice, this translates to responsive email communication, flexible office hours that accommodate different schedules, and group work structures that build community while respecting individual circumstances.
 
-## Moving Forward
+I will continue to approach teaching with the same rigor I bring to my research, but always remembering that my students are people with complex lives, valuable experiences, and important goals. My job is to create learning experiences that fit into those lives and help students achieve those goals.
 
-This manifesto represents my starting point as an instructor. I expect my beliefs to evolve as I gain experience and learn from my students. Teaching MKT 327 this summer will test these principles in practice. The three surveys I have built into the course will provide continuous feedback about what works and what needs improvement.
-
-My diverse educational background - from MSU to CWRU to the University of Kent - has shown me that there are many effective ways to teach and learn. My goal is to create online learning experiences that draw from this diversity while serving my students' specific needs.
-
-My multicultural perspective reminds me that my students may come from backgrounds very different from my own. Some may be first-generation college students, others may be international students like I was, and still others may be returning to school after time in the workforce. Online learning should accommodate all of these paths.
-
-Through CEP 820, I am learning to see online education as an opportunity to reach students in new and powerful ways. My course design choices reflect this belief - from flexible exam scheduling to continuous feedback collection to extra credit opportunities that reward engagement.
-
-As a first-time instructor with experience as both a domestic and international student, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone.
+As a first-time instructor who has now experienced both taking CEP 820 and teaching my first course simultaneously, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone. The frameworks and principles I've learned will continue to guide my practice, but they will always be applied through the lens of my students' actual needs and contexts.
 
 ## References
+
 Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). *The manifesto for teaching online*. MIT Press.
+
+Design Justice Network. (2020). *Design justice principles*. https://designjustice.org/
+
+Haythornthwaite, C. (2008). Learning relations and networks in web-based communities. *International Journal of Web Based Communities*, 4(2), 140-158.
+
+Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. *Teachers College Record*, 108(6), 1017-1054.
