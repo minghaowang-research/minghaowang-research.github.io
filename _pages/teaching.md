@@ -15,6 +15,15 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+## Course Communication Policy
+
+{% for post in site.teaching reversed %}
+  {% if post.categories contains 'course-communication-policy' %}
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**
+  {% endif %}
+{% endfor %}
+
+
 ## Teaching Experience
 
 {% for post in site.teaching reversed %}
