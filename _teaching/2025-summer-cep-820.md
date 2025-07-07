@@ -46,7 +46,7 @@ I believe learning is most effective when it connects to students' existing know
 
 My Chinese background, studying in the US, and also a semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
 
-Students need opportunities to practice skills, receive feedback, and improve their work. Learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
+Students need opportunities to practice skills, receive feedback, and improve their work. As my CEP 820 instructor (Dr. Anne Heintz) mentioned, learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
 
 ### Online Learning Specifically
 
