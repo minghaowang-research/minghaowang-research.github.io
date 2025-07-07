@@ -14,6 +14,7 @@ author_profile: true
 
 **Instructor:** Minghao Wang | **Email:** wangmi18@msu.edu  
 **Note:** This policy is designed for asynchronous online courses.
+**Important:** Always refer to the course syllabus first for the most current information. The syllabus may be updated throughout the semester, while this communication policy may not reflect the latest changes.
 
 ---
 
@@ -50,17 +51,15 @@ In group case study discussions, demonstrate productive communication by:
 
 Throughout this course, you'll collaborate on case study analyses. When working in groups:
 
-1. **Contact your group members via D2L group within 48 hours** of groups being assigned.
+1. **Contact your group members via D2L group/email within 48 hours** of groups being assigned.
 
 2. **Use initial time to assign company responsibilities** (each member analyzes one company), set timeline, and plan final submission.
 
 3. **Ensure equal contribution** from all group members through clear role assignments.
 
-4. **Coordinate via D2L group forums** with email backup for urgent issues.
+4. **Submit individual contributions on time** so the group can compile final analysis.
 
-5. **Submit individual contributions on time** so the group can compile final analysis.
-
-6. **Contact me if group communication problems arise** or if members aren't participating fairly.
+5. **Contact me if group communication problems arise** or if members aren't participating fairly.
 
 ## Peer Evaluation Process
 
@@ -114,8 +113,8 @@ These reflections help you process marketing concepts personally
 ## Institutional Policies
 
 This communication policy aligns with:
-- **MSU Academic Integrity Policy:** Honest individual and collaborative work
-- **Broad College Honor Code:** Professional business communication standards  
+- **MSU Academic Integrity Policy:** Honest individual and collaborative work (https://ossa.msu.edu/academic-integrity)
+- **Broad College Honor Code:** Eli Broad College of Business Undergraduate Honor Code  (https://broad.msu.edu/undergraduate/policies/honor-code/)
 
 ## Questions About This Policy?
 
