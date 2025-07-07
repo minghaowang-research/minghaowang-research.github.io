@@ -14,7 +14,6 @@ author_profile: true
 
 **Instructor:** Minghao Wang | **Email:** wangmi18@msu.edu  
 **Note:** This policy is designed for asynchronous online courses.
-
 **Important:** Always refer to the course syllabus first for the most current information. The syllabus may be updated throughout the semester, while this communication policy may not reflect the latest changes.
 
 ---
@@ -114,8 +113,8 @@ These reflections help you process marketing concepts personally
 ## Institutional Policies
 
 This communication policy aligns with:
-- **MSU Academic Integrity Policy:** Honest individual and collaborative work (https://ossa.msu.edu/academic-integrity)
-- **Broad College Honor Code:** Eli Broad College of Business Undergraduate Honor Code  (https://broad.msu.edu/undergraduate/policies/honor-code/)
+- **MSU Academic Integrity Policy:** [Honest individual and collaborative work](https://ossa.msu.edu/academic-integrity)
+- **Broad College Honor Code:** [Eli Broad College of Business Undergraduate Honor Code](https://broad.msu.edu/undergraduate/policies/honor-code/)
 
 ## Questions About This Policy?
 
