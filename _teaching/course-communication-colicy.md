@@ -14,6 +14,7 @@ author_profile: true
 
 **Instructor:** Minghao Wang | **Email:** wangmi18@msu.edu  
 **Note:** This policy is designed for asynchronous online courses.
+
 **Important:** Always refer to the course syllabus first for the most current information. The syllabus may be updated throughout the semester, while this communication policy may not reflect the latest changes.
 
 ---
