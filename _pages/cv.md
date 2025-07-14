@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A current version of my CV is available for download [here](/assets/pdf/Minghao Wang_PhD_CV.pdf).
+A current version of my CV is available for download [here](/assets/pdf/Minghao-Wang-PhD-CV.pdf).
 
 ## Education
 
