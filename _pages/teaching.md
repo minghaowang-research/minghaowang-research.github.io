@@ -33,13 +33,6 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-{% for post in site.teaching reversed %}
-  {% if post.categories contains 'professional-development' %}
-**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
-{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-  {% endif %}
-{% endfor %}
-
 ## Technical Skills for Teaching
 
 * **Data Analysis Tools**: R, Python, SPSS & SPSS Modeler, Stata, Tableau
