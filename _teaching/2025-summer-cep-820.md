@@ -5,7 +5,7 @@ type: "Graduate course"
 permalink: /teaching/2025-summer-cep-820
 venue: "Michigan State University"
 date: 2025-01-01
-categories: [classes-taken]
+categories: [professional-development]
 excerpt: " "
 ---
 

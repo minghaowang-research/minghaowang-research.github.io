@@ -22,7 +22,9 @@ His research interests span marketing strategy, digital marketing, customer sati
 * **Bachelor of Arts (B.A.) in Psychology**, Study Abroad, University of Kent, Canterbury, United Kingdom, Spring 2019
 * **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
 
-## Award
+## Awards & Fellowships
 * **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
+
+* **Michigan State University Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
 
 [View my full CV](/assets/pdf/Minghao Wang_PhD_CV.pdf)

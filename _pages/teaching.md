@@ -27,7 +27,14 @@ author_profile: true
 ## Professional Development in Teaching & Teaching Manifesto
 
 {% for post in site.teaching reversed %}
-  {% if post.categories contains 'classes-taken' %}
+  {% if post.categories contains 'professional-development' %}
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
+{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
+  {% endif %}
+{% endfor %}
+
+{% for post in site.teaching reversed %}
+  {% if post.categories contains 'professional-development' %}
 **[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
 {{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
   {% endif %}
