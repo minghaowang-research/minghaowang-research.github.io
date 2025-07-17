@@ -25,6 +25,6 @@ His research interests span marketing strategy, digital marketing, customer sati
 ## Awards & Fellowships
 * **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
 
-* **Michigan State University Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
+* **MSU Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
 
 [View my full CV](/assets/pdf/Minghao-Wang-PhD-CV.pdf)
