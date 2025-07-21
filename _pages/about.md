@@ -27,4 +27,4 @@ His research interests span marketing strategy, digital marketing, customer sati
 
 * **MSU Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
 
-[View my full CV](/assets/pdf/Minghao-Wang-PhD-CV.pdf)
+[View my full CV](/files/Minghao-Wang-PhD-CV.pdf)
