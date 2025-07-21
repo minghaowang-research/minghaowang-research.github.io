@@ -23,10 +23,10 @@ author:
   avatar           : "profile.png"
   name             : "Minghao Wang"
   pronouns         : "He/him/his" 
-  bio              : "PhD Student in Marketing at Michigan State University (MSU) | [MSU Profile](https://broad.msu.edu/profile/wangmi18/)"
+  bio              : "PhD Student in Marketing at Michigan State University (MSU)"
   location         : "East Lansing, Michigan"
   employer         : "Michigan State University"
-  uri              : # URL
+  uri              : "https://broad.msu.edu/profile/wangmi18/"
   email            : "wangmi18@msu.edu"
 
   # Academic websites
