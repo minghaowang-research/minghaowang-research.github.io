@@ -18,7 +18,7 @@ His research interests span marketing strategy, digital marketing, customer sati
 ## Education
 * **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
 * **Master of Science (M.S.) in Management Business Analytics and Intelligence**, Case Western Reserve University, 2023
-* **Master of Science (M.S.) in Marketing Research**, Michigan State University, 2021
+* **Master of Science (M.S.) in Marketing Research**, Michigan State University, 2020
 * **Bachelor of Arts (B.A.) in Psychology**, Michigan State University, 2019
 * **Bachelor of Arts (B.A.) in Psychology**, Study Abroad, University of Kent, Canterbury, United Kingdom, Spring 2019
 * **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
