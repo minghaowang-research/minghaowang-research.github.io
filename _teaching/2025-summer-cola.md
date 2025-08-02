@@ -11,6 +11,7 @@ excerpt: " "
 
 <!-- excerpt-end -->
 **Summer Session:** May 15 - August 15, 2025
+**View Certificate:** [Certificate of Completion: COLA](https://bip.brightspace.com/0c7527d1-0824-4144-af09-95f4c21e160d/d2l/awards/assertions/508875/view)
 
 # COLA Fellowship: Digital Teaching Excellence
 
