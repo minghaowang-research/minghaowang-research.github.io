@@ -1,5 +1,5 @@
 ---
-title: "MKT 327: Introduction to Marketing"
+title: "MKT 327: Introduction to Marketing (4.33/5)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-summer-marketing-327
