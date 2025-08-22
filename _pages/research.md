@@ -16,3 +16,6 @@ author_profile: true
 ## CONFERENCE PRESENTATION AND INVITED TALKS
 * Wang, Minghao*, “The Impact of Top Management Team Marketing Experience on Born-Global Firms”. 2025 AMA Summer Academic Conference – Poster, @Chicago, IL, USA
 
+## PROFESSIONAL SERVICE
+* Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, 2025
+
