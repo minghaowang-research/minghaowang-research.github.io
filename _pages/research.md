@@ -8,14 +8,17 @@ author_profile: true
 {% include base_path %}
 
 ## Working Papers
-### THE IMPACT OF TOP MANAGEMENT TEAM MARKETING EXPERIENCE ON BORN-GLOBAL FIRMS
-### TikTok (Submitting soon)
-### Blockchain in Luxury Markets: Consumer Behavior Effects Through Multiple Theoretical Pathways
 
+- **"The Impact of Top Management Team Marketing Experience on Born-Global Firms"** (2025).
 
-## CONFERENCE PRESENTATION AND INVITED TALKS
-* Wang, Minghao*, “The Impact of Top Management Team Marketing Experience on Born-Global Firms”. 2025 AMA Summer Academic Conference – Poster, @Chicago, IL, USA
+- **"Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans"** (2025) with Dr. Hang Nguyen and Dr. Ju-Yeon Lee. *Under review*.
 
-## PROFESSIONAL SERVICE
-* Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, 2025
+- **"Blockchain in Luxury Markets: Consumer Behavior Effects Through Multiple Theoretical Pathways"** (2025).
 
+## Conference Presentations and Invited Talks
+
+- Wang, Minghao*, **"The Impact of Top Management Team Marketing Experience on Born-Global Firms"**. *2025 AMA Summer Academic Conference* – Poster, Chicago, IL, USA.
+
+## Professional Service
+
+- Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, 2025.
