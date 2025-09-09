@@ -8,9 +8,6 @@ author_profile: true
 ---
 
 <!-- excerpt-end -->
-
-# Teaching Philosophy Statement
-
 ## Evidence-Based Marketing Education for Diverse Learners
 
 ## Core Teaching Philosophy
