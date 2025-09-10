@@ -31,7 +31,7 @@ The Colleges' Online Learning Academy (COLA) is a competitive summer fellowship 
 ## Fellowship Deliverables
 
 ### Course Syllabus (MKT 327 Introduction to Marketing)
-Designed evidence-based syllabus incorporating multimodal assessment strategies, student-centered design, and accessibility considerations. [View Syllabus](https://minghaowang-research.github.io/assets/pdf/2025-summer-mkt327-syllabus.pdf)
+Designed evidence-based syllabus incorporating multimodal assessment strategies, student-centered design, and accessibility considerations. [View Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)
 
 ### Enhanced Professional Digital Presence
 Strategically developed digital presence across multiple platforms:
