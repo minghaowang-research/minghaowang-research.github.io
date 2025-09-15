@@ -37,8 +37,9 @@ I successfully completed all required portfolio components:
 ### Competency 1: Disciplinary Course/Coursework on Teaching
 **Requirement:** Complete disciplinary course/coursework on teaching (varies by discipline)
 
+[My Course Reflection](/teaching/2025-summer-cep-820)
 
-**Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf) | [My Course Reflection](/teaching/2025-summer-cep-820)
+**Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
 
 **My Description:** I completed advanced coursework in educational psychology and learning theory, gaining foundational knowledge in evidence-based teaching practices and student development. CEP 820 focused on online teaching and learning, where I mastered frameworks such as TPACK (Technology, Pedagogy, Content Knowledge) and Design Justice principles.
 
@@ -112,6 +113,11 @@ I successfully completed all required portfolio components:
 **COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
 
 **Professional Digital Presence:** Developed comprehensive digital teaching portfolio including:
+
+- [Teaching Philosophy Statement](/files/CCTI/10_TEACHING_PHILOSOPHY_STATEMENT_Minghao.pdf)
+- [MKT 327: Introduction to Marketing (4.33/5)](/teaching/2025-summer-marketing-327)
+- [Mentored Teaching Project Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
+- [This CCTI Electronic Portfolio](/teaching/certification-college-teaching)
 
 ## My Key Outcomes
 
