@@ -34,10 +34,8 @@ I successfully completed all required portfolio components:
 - **Evidence of Development** on each of the five teaching competencies ✓
 ## My Five Teaching Competencies
 
-### Competency 1: Disciplinary Course/Coursework on Teaching
+### Competency 1: Disciplinary Course/Coursework on Teaching [My Course Reflection](/teaching/2025-summer-cep-820)
 **Requirement:** Complete disciplinary course/coursework on teaching (varies by discipline)
-
-[My Course Reflection](/teaching/2025-summer-cep-820)
 
 **Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
 
