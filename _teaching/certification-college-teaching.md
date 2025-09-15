@@ -32,6 +32,7 @@ I successfully completed all required portfolio components:
 - **A completed copy of the Certification in College Teaching Portfolio Checklist** ✓ [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
 - **A Teaching Philosophy Statement** ✓ [Teaching Philosophy](/files/CCTI/10_TEACHING_PHILOSOPHY_STATEMENT_Minghao.pdf)
 - **Evidence of Development** on each of the five teaching competencies ✓
+
 ## My Five Teaching Competencies
 
 ### Competency 1: Disciplinary Course/Coursework on Teaching [My Course Reflection](/teaching/2025-summer-cep-820)
