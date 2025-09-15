@@ -24,6 +24,8 @@ As a first-year PhD student in Marketing at Michigan State University, I success
 
 The Certification in College Teaching (CCT) Institute at Michigan State University is a comprehensive professional development program designed to enhance graduate students' and postdocs' teaching effectiveness. The certification requires demonstration of competency across five core teaching areas through coursework, workshops, reflective practice, and a mentored teaching project.
 
+Official program page: [Certification in College Teaching (CCT)](https://grad.msu.edu/CCTP)
+
 ## My Electronic Portfolio
 
 I successfully completed all required portfolio components:
