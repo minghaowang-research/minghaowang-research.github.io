@@ -33,6 +33,16 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<!-- Add concise entries for quick index visibility -->
+**[Certification in College Teaching Institute (CCTI)]({{ base_path }}/teaching/certification-college-teaching)**  
+Professional Development Certification, *Michigan State University*, 2025
+
+**[COLA: Colleges' Online Learning Academy Fellowship]({{ base_path }}/teaching/2025-summer-cola)**  
+Professional Development Fellowship, *Michigan State University*, 2025
+
+**[CEP 820: Teaching and Learning Online (My Teaching Manifesto)]({{ base_path }}/teaching/2025-summer-cep-820)**  
+Graduate course, *Michigan State University*, 2025
+
 ## Technical Skills for Teaching
 
 * **Data Analysis Tools**: R, Python, SPSS & SPSS Modeler, Stata, Tableau

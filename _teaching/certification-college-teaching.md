@@ -38,9 +38,7 @@ I successfully completed all required portfolio components:
 **Requirement:** Complete disciplinary course/coursework on teaching (varies by discipline)
 
 
-**Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
-
-[My Course Reflection](/teaching/2025-summer-cep-820)
+**Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf) | [My Course Reflection](/teaching/2025-summer-cep-820)
 
 **My Description:** I completed advanced coursework in educational psychology and learning theory, gaining foundational knowledge in evidence-based teaching practices and student development. CEP 820 focused on online teaching and learning, where I mastered frameworks such as TPACK (Technology, Pedagogy, Content Knowledge) and Design Justice principles.
 
