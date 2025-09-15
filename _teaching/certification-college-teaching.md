@@ -10,11 +10,9 @@ excerpt: " "
 ---
 
 <!-- excerpt-end -->
-**Program Duration:** May 2025 - August 2025
+**Program Duration:** May 2025 - September 2025
 
 **Certification Status:** Completed
-
-**View Portfolio:** [CCT Portfolio Documentation](/files/CCTI/)
 
 # Certification in College Teaching Institute
 
@@ -31,16 +29,15 @@ The Certification in College Teaching (CCT) Institute at Michigan State Universi
 I successfully completed all required portfolio components:
 
 ### My Documentation
-- **Completed Portfolio Checklist** ✓ [My CCT Portfolio Checklist](/files/CCTI/CCT_Portfolio_Checklist_Minghao_Wang.pdf)
-- **Teaching Philosophy Statement** ✓ [My Teaching Philosophy](/files/CCTI/TEACHING_PHILOSOPHY_STATEMENT_Minghao.docx)
+- **A completed copy of the Certification in College Teaching Portfolio Checklist** ✓ [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
+- **A Teaching Philosophy Statement** ✓ [Teaching Philosophy](/files/CCTI/10_TEACHING_PHILOSOPHY_STATEMENT_Minghao.pdf)
 - **Evidence of Development** on each of the five teaching competencies ✓
-
 ## My Five Teaching Competencies
 
 ### Competency 1: Disciplinary Course/Coursework on Teaching
 **Requirement:** Complete disciplinary course/coursework on teaching (varies by discipline)
 
-**My Achievement:** CEP 820 - GPA 4.0 ✓ [View My Documentation](/files/CCTI/Competency_1_CEP_820_GPA_4.0.pdf) | [My Course Reflection](/teaching/2025-summer-cep-820)
+**My Achievement:** CEP 820 - GPA 4.0 ✓ [View My Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf) | [My Course Reflection](/teaching/2025-summer-cep-820)
 
 **My Description:** I completed advanced coursework in educational psychology and learning theory, gaining foundational knowledge in evidence-based teaching practices and student development. CEP 820 focused on online teaching and learning, where I mastered frameworks such as TPACK (Technology, Pedagogy, Content Knowledge) and Design Justice principles.
 
@@ -51,7 +48,7 @@ I successfully completed all required portfolio components:
 ### Competency 2: Workshop/Session at CCT Institute
 **Requirement:** Attend workshop(s) or session at the CCT Institute
 
-**Completed:** ✓ [View Documentation](/files/CCTI/Competency_2_3.pdf)
+**Completed:** ✓ [View Documentation](/files/CCTI/4_Competency_2_and_3.pdf)
 
 **Description:** Participated in CCT Institute workshops focusing on active learning strategies, student engagement techniques, and inclusive pedagogy practices.
 
@@ -62,7 +59,7 @@ I successfully completed all required portfolio components:
 ### Competency 3: Workshop/Session at CCT Institute
 **Requirement:** Attend workshop(s) or session at the CCT Institute
 
-**Completed:** ✓ [View Documentation](/files/CCTI/Competency_2_3.pdf)
+**Completed:** ✓ [View Documentation](/files/CCTI/4_Competency_2_and_3.pdf)
 
 **Description:** Advanced workshops on assessment design, feedback strategies, and technology integration in teaching.
 
@@ -73,7 +70,7 @@ I successfully completed all required portfolio components:
 ### Competency 4: Workshop/Session at CCT Institute
 **Requirement:** Attend workshop(s) or session at the CCT Institute
 
-**Completed:** ✓ [View Documentation](/files/CCTI/Competency_4.pdf)
+**Completed:** ✓ [View Documentation](/files/CCTI/5_Competency_4.pdf)
 
 **Description:** Specialized workshop sessions on course design, learning objectives alignment, and pedagogical innovation in higher education.
 
@@ -90,14 +87,12 @@ I successfully completed all required portfolio components:
 
 #### Mentored Teaching Project Components
 
-**Project Summary:** ✓ [View Summary & Artifacts](/files/CCTI/Competency_5_Summary_Artifacts.pdf)
+**Project Summary:** ✓ [View Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
 
 **Artifacts Completed:**
-- **Assessment Instrument** and description/explanation ✓
-- **Data** collected from the assessment ✓
-- **Findings** from data analysis ✓
-- **Mentored Teaching Project Document** ✓ [Graduate Student Version](/files/CCTI/Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
-- **Project Worksheet** ✓ [Mentored Project Worksheet](/files/CCTI/Competency_5_Mentored_Project_Worksheet_Minghao.docx)
+ - [Signed Mentored Teaching Project Approval Document (signed)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao%28MZ_signed%29.pdf)
+ - [Pre-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
+ - [Mid-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
 **Evaluation:** Project assessed using the Mentored Teaching Project Evaluation Rubric
 
@@ -106,36 +101,21 @@ I successfully completed all required portfolio components:
 ## Progress Tracking
 
 ### Completed Components
-- [x] Portfolio Checklist ✓
-- [x] Teaching Philosophy Statement ✓
-- [x] Competency 1: Disciplinary Coursework (CEP 820 - GPA 4.0) ✓
-- [x] Competency 2: CCT Institute Workshop ✓
-- [x] Competency 3: CCT Institute Workshop ✓
-- [x] Competency 4: CCT Institute Workshop ✓
-- [x] Competency 5: Mentored Teaching Project ✓
 
 ### Program Registration
-**Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/CCT_Institute_2025_Receipt.pdf)
+**Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
 
 ### Recognition & Showcase
-**COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/Re_Sharing_your_professional_website.eml)
+**COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.eml)
 
 **COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
 
 **Professional Digital Presence:** Developed comprehensive digital teaching portfolio including:
-- **Personal Website**: [minghaowang-research.github.io](https://minghaowang-research.github.io/)
-- **MSU Commons Profile**: [commons.msu.edu/members/minghaowangresearch](https://commons.msu.edu/members/minghaowangresearch/)
 
 ## My Key Outcomes
 
 I successfully completed all five competencies of the Certification in College Teaching Institute, demonstrating my comprehensive pedagogical development through:
 
-- **My Theoretical Foundation:** I completed advanced coursework (CEP 820) with 4.0 GPA, developing my expertise in online teaching frameworks and Design Justice principles
-- **My Professional Development:** I attended multiple CCT Institute workshops on inclusive pedagogy, assessment design, and active learning
-- **My Practical Application:** I conducted my own mentored teaching project with systematic data collection and analysis
-- **My Portfolio Excellence:** I created comprehensive documentation of my learning journey and reflective practice
-- **My Recognition:** My work was selected for COLA showcase as an exemplar for future participants
-- **My Concurrent Fellowship:** I successfully completed the COLA Fellowship alongside my CCT certification, demonstrating my excellence in digital teaching practices
 
 **My Real-World Application:** I applied my CCT competencies directly to teaching MKT 327 (Introduction to Marketing) during Summer 2025, implementing my evidence-based course design with multimodal assessments and student-centered approaches. [My Course Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)
 
