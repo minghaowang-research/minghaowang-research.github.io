@@ -37,7 +37,10 @@ I successfully completed all required portfolio components:
 ### Competency 1: Disciplinary Course/Coursework on Teaching
 **Requirement:** Complete disciplinary course/coursework on teaching (varies by discipline)
 
-**My Achievement:** CEP 820 - GPA 4.0 ✓ [View My Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf) | [My Course Reflection](/teaching/2025-summer-cep-820)
+
+**Completed:** ✓ [View Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
+
+[My Course Reflection](/teaching/2025-summer-cep-820)
 
 **My Description:** I completed advanced coursework in educational psychology and learning theory, gaining foundational knowledge in evidence-based teaching practices and student development. CEP 820 focused on online teaching and learning, where I mastered frameworks such as TPACK (Technology, Pedagogy, Content Knowledge) and Design Justice principles.
 
@@ -106,7 +109,7 @@ I successfully completed all required portfolio components:
 **Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
 
 ### Recognition & Showcase
-**COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.eml)
+**COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.pdf)
 
 **COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
 
