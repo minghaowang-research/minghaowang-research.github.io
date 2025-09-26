@@ -11,7 +11,7 @@ Minghao Wang is a second-year doctoral student (started in Fall 2024) in the Dep
 He brings a unique combination of academic credentials, having completed multiple degrees from top-ranked programs including an MS in Marketing Research from Michigan State University, an MS in Management Business Analytics and Intelligence from Case Western Reserve University, and prior degrees in Psychology and Supply Chain Management with economic minor from Michigan State University. 
 
 ## Research Interests
-His research interests span marketing strategy, digital marketing, customer satisfaction, modeling, and data-driven marketing decisions.
+His research interests span marketing strategy, policy, customer satisfaction, modeling, and data-driven marketing decisions.
 
 ## Education
 * **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
