@@ -116,7 +116,7 @@ I successfully completed all required portfolio components, demonstrating my mas
 
 ## My Key Outcomes
 
-I successfully completed all five competencies of the Certification in College Teaching Institute, demonstrating my comprehensive pedagogical development through:
+I successfully completed all five competencies of the Certification in College Teaching Institute, demonstrating my comprehensive pedagogical development.
 
 
 **My Real-World Application:** I applied my CCT competencies directly to teaching MKT 327 (Introduction to Marketing) during Summer 2025, implementing my evidence-based course design with multimodal assessments and student-centered approaches. [My Course Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)
