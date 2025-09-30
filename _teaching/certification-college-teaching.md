@@ -87,7 +87,7 @@ I successfully completed all required portfolio components, demonstrating my mas
 **Project Summary:** ✓ [View Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
 
 **Artifacts Completed:**
- - [Signed Mentored Teaching Project Approval Document (signed)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
+ - [Signed Mentored Teaching Project Approval Document (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
  - [Pre-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
  - [Mid-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
