@@ -12,8 +12,6 @@ excerpt: " "
 <!-- excerpt-end -->
 **Certification Status:** Awating Final Review
 
-# Certification in College Teaching Institute
-
 ## My Certification Journey
 
 As a first-year PhD student in Marketing at Michigan State University, I successfully completed the comprehensive Certification in College Teaching (CCT) Institute program during Summer 2025. This rigorous certification required me to demonstrate mastery across five core teaching competencies through coursework, workshops, reflective practice, and an original mentored teaching project.
