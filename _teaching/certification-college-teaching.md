@@ -118,6 +118,8 @@ I successfully completed all required portfolio components, demonstrating my mas
 
 I successfully completed all five competencies of the Certification in College Teaching Institute, demonstrating my comprehensive pedagogical development.
 
+**Student Feedback from MKT 327 (Summer 2025):**
+> "Very organized and well put together... expectations to excel in the course were clearly outlined and feedback on the assignments allowed for improvement on future assignments... Teacher was amazing with communication... I like how it was extremely clear what we were responsible for each week, and that it had a fair workload."
 
 **My Real-World Application:** I applied my CCT competencies directly to teaching MKT 327 (Introduction to Marketing) during Summer 2025, implementing my evidence-based course design with multimodal assessments and student-centered approaches. [My Course Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)
 
