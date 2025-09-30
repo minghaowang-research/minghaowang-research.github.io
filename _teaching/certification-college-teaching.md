@@ -84,8 +84,6 @@ I successfully completed all required portfolio components, demonstrating my mas
 
 **Description:** Conducted a systematic investigation into teaching effectiveness through data collection, analysis, and reflection, focusing on evidence-based pedagogical improvements.
 
-#### Mentored Teaching Project Components
-
 **Project Summary:** ✓ [View Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
 
 **Artifacts Completed:**
