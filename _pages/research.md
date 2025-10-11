@@ -13,8 +13,6 @@ author_profile: true
 
 - **"Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans"** (2025) with Dr. Hang Nguyen and Dr. Ju-Yeon Lee. *Under review*.
 
-- **"Blockchain in Luxury Markets: Consumer Behavior Effects Through Multiple Theoretical Pathways"** (2025).
-
 ## Conference Presentations and Invited Talks
 
 - Wang, Minghao*, **"The Impact of Top Management Team Marketing Experience on Born-Global Firms"**. *2025 AMA Summer Academic Conference* – Poster, Chicago, IL, USA.
