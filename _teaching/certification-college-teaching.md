@@ -64,7 +64,7 @@ Marketing professionals must synthesize information from multiple sources, evalu
 
 This discipline-specific approach prepares students to think independently about emerging marketing challenges throughout their careers, transferring the critical reasoning skills they develop in my courses to novel contexts they'll encounter as marketing professionals.
 
-<details markdown="1">
+</details>
 
 ---
 
@@ -101,7 +101,7 @@ Beyond structural clarity, inclusive collaboration prepares students for profess
 
 This commitment to inclusion will remain central to my teaching regardless of institutional context. Whether teaching at a research university, teaching-focused institution, or community college, inclusive pedagogy is both ethically essential and pedagogically sound—research consistently shows that students learn better in psychologically safe environments where they feel valued.
 
-<details markdown="1">
+</details>
 
 ---
 
@@ -153,7 +153,7 @@ When I choose to use a tool, I consider:
 
 In my future marketing courses, I will continue to use technology strategically—for example, data analysis software helps students develop skills they'll use in their careers, while multimedia case study presentations offer communication practice. However, I'll remain cautious about technology that serves convenience over pedagogy, and I'll always build in support for students with varying technical backgrounds. The goal is not to be "tech-forward" but to be "learning-forward," using technology only when it demonstrably improves student outcomes.
 
-<details markdown="1">
+</details>
 
 ---
 
@@ -240,7 +240,7 @@ For example, my emphasis on systematic assessment and evidence-based pedagogical
 
 The integration of research, reflection, and continuous improvement makes my teaching practice a scholarly endeavor that contributes to both student success and the broader marketing education community, regardless of institutional context.
 
-<details markdown="1">
+</details>
 
 ---
 
@@ -292,7 +292,7 @@ In my future teaching, I will continue to prioritize assessment excellence. This
 
 This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry.
 
-<details markdown="1">
+</details>
 
 ---
 
