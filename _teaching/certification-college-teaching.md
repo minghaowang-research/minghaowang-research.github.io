@@ -244,12 +244,12 @@ Valid, reliable assessment is the foundation of evidence-based teaching. Assessm
 ### Artifact and Rationale
 
 - **Mentored Teaching Project: Evidence-Based Assessment Design** - Completed a comprehensive mentored teaching project examining how assessment design affects collaborative learning outcomes, specifically investigating whether student attitudes predict successful group work or whether assessment structure matters more. The project analyzed pre-survey and mid-survey data from MKT 327 students to understand changes in confidence, marketing familiarity, and their relationship to group performance. 
-- [View project summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
-- [View detailed worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
+  - [View project summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
+  - [View detailed worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
 
 - **Pre-Mid Survey Comparison Analysis** - Conducted systematic comparison of student attitudes and perceptions at the beginning and midpoint of the course, revealing significant changes in both group work confidence and marketing familiarity. This longitudinal data collection demonstrates my commitment to evidence-based teaching improvement. 
-- [Pre-survey](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
-- [Mid-survey](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
+  - [Pre-survey](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
+  - [Mid-survey](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
 - **Teaching Philosophy Assessment Framework** - My assessment-driven approach to course design is detailed in my [Teaching Philosophy statement](/teaching/teaching-philosophy), emphasizing that *how we assess collaborative work matters more than how we form groups*.
 
