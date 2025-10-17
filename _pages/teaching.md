@@ -9,11 +9,8 @@ author_profile: true
 
 ## Teaching Philosophy
 
-**[Teaching Philosophy (Updated September 2025)]({{ base_path }}/teaching/teaching-philosophy)**  
+**[y Teaching Philosophy Manifesto]({{ base_path }}/teaching/2025-summer-cep-820)**  
 Evidence-based marketing education that combines systematic assessment design with inclusive collaborative learning to prepare students for data-driven marketing practice.
-
-**[CEP 820: Teaching and Learning Online (My Teaching Philosophy Manifesto)]({{ base_path }}/teaching/2025-summer-cep-820)**  
-Advanced coursework in educational psychology and learning theory, developing evidence-based teaching frameworks and technology integration strategies.
 
 ---
 
@@ -34,6 +31,9 @@ Comprehensive certification demonstrating mastery across five core teaching comp
 **[MSU COLA 2025: Conference on Learning and Teaching (COLA)]({{ base_path }}/teaching/2025-summer-cola)**  
 Conference Presentation, *Michigan State University*, 2025  
 Presented research on evidence-based assessment design and collaborative learning outcomes.
+
+**[CEP 820: Teaching and Learning Online (My Teaching Philosophy Manifesto)]({{ base_path }}/teaching/2025-summer-cep-820)**  
+Advanced coursework in educational psychology and learning theory, developing evidence-based teaching frameworks and technology integration strategies.
 
 ---
 
