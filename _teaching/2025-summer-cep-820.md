@@ -1,5 +1,5 @@
 ---
-title: "CEP 820: Teaching and Learning Online (My Teaching Manifesto)"
+title: "CEP 820: Teaching and Learning Online (My Teaching Philosophy Manifesto)"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2025-summer-cep-820
