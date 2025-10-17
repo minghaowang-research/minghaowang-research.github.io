@@ -8,110 +8,77 @@ author_profile: true
 ---
 
 <!-- excerpt-end -->
-## Evidence-Based Marketing Education for Diverse Learners
+# My Revisited Online Teaching Manifesto (Updated Aug 2025)
 
-## Core Teaching Philosophy
+## Who I Am: Personal and Professional Context
 
-My teaching philosophy centers on **evidence-based marketing education** that combines systematic assessment design with inclusive collaborative learning. Rather than relying on assumptions about student capabilities or preferences, I use data to understand how students learn and continuously refine my pedagogical approaches based on empirical evidence.
+My name is Minghao Wang, a first-year PhD student (started in Fall 2024) in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
 
-This philosophy evolved significantly through my Mentored Teaching Project, which revealed that **how we assess collaborative work matters more than how we form groups**. This fundamental insight shifted my focus from student selection strategies to assessment design excellence, emphasizing that effective teaching requires rigorous evaluation of our own practices, not just our students' performance.
+My international experience includes studying abroad at the University of Kent in the United Kingdom (Canterbury) for one semester during my psychology studies. As someone originally from China now studying in the United States, I bring multicultural perspectives to my teaching. This diverse background helps me understand how students from different cultures and educational systems approach learning.
 
-## Principles of Effective Marketing Education
+These varied educational experiences have given me multiple angles of understanding what students like and dislike. I have been an undergraduate student at MSU, experienced different teaching styles at CWRU, and adapted to British educational approaches during my semester abroad. I understand the challenges of navigating different academic systems and cultural expectations around learning.
 
-### 1. Assessment-Driven Course Design
+Before entering my doctoral program, I worked in procurement and data analysis at CWRU, where I learned how to solve complex problems and communicate findings clearly. My background in marketing research has taught me the importance of understanding your audience. Just as successful marketing campaigns require deep knowledge of consumer behavior, effective teaching requires understanding how students learn.
 
-My approach prioritizes valid, reliable assessment that accurately measures student learning rather than administrative convenience. Through my research, I discovered that poorly designed rubrics can create ceiling effects that mask student differences and prevent meaningful feedback.
+This summer, I taught MKT 327 (Introduction to Marketing) for the first time. My class was completely asynchronous (July 1 - Aug 15, 2025), serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represented a new chapter in my professional development, and taking CEP 820 alongside teaching helped me apply what I was learning immediately.
 
-**In Practice**: I design assessments with appropriate discrimination levels, multiple measurement points, and clear alignment between learning objectives and evaluation methods. For group work, this means using random group formation (rather than attitude-based selection) while including individual accountability measures to preserve collaborative learning benefits.
+## My Course Design: Guided by Evidence and Student Voices
 
-### 2. Evidence-Based Pedagogical Decisions
+My manifesto guides how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent(UK), I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I use student feedback and learning analytics to refine my teaching methods.
 
-Every significant teaching decision should be supported by data about student learning outcomes. My Mentored Teaching Project demonstrated that common assumptions about group formation (matching students by attitudes) lack empirical support, leading to more effective random assignment strategies.
+Through CEP 820, I learned about frameworks that helped me understand why this approach works. The TPACK framework (Mishra & Koehler, 2006) showed me that effective online teaching requires thoughtful integration of technology, pedagogy, and content knowledge within specific contexts. I can't just pick cool tech tools without considering whether they actually help students learn marketing concepts.
 
-**In Practice**: I systematically collect student feedback, analyze performance patterns, and adjust course design based on evidence rather than tradition or convenience. This includes pre-course surveys, mid-semester evaluations, and post-course analysis of learning outcomes.
+The Design Justice principles also changed how I think about course design. Particularly powerful was the idea that "everyone is an expert based on their own lived experience" and that we should "center the voices of those who are directly impacted by the outcomes of the design process." Instead of just asking students about their tech skills, my surveys now ask questions like "What worries you most about taking this course?" and "What are your aspirations in life?" These aren't just feel-good questions—they give me actionable data.
 
-### 3. Inclusive Collaboration for Professional Preparation
+When my MKT 327 students told me through surveys that they were managing internships, part-time jobs, full-time jobs, and some even had three jobs, I didn't just acknowledge these constraints—I redesigned around them. I restructured from individual assignments analyzing 12 companies to collaborative group work where each student analyzes approximately 2-3 companies total. This significantly reduced workload while maintaining learning objectives. I'm glad I made this change because it turned out most of my students were working while taking summer classes.
 
-Marketing professionals work in diverse, cross-functional teams. My courses prepare students for this reality by creating inclusive collaborative environments that support learners from different academic backgrounds, cultural contexts, and comfort levels with business concepts.
+My multicultural background helps me recognize that students come from diverse educational and cultural experiences. Some may be more comfortable with direct questioning, while others prefer written reflection. Some may expect highly structured guidance, while others thrive with independence. My course design tries to accommodate these differences through multiple format options for assignments—students can submit traditional written responses (200-300 words per company), create 3-4 minute video explanations, or design infographics with explanations—and flexible communication structures.
 
-**In Practice**: I provide multiple format options for assignments (written analysis, video presentations, infographics), use structured discussion protocols that encourage all voices, and implement clear communication frameworks that support both native and non-native English speakers.
+## My Beliefs About Learning and Online Learning
 
-### 4. Systematic Organization Supporting Learning
+### Learning in General
 
-Students consistently recognize organization and clear communication as crucial for their success, as evidenced in their feedback: "very organized and well put together," "expectations to excel in the course were clearly outlined," and "I like how it was extremely clear what we were responsible for each week, and that it had a fair workload." This systematic approach reflects marketing's emphasis on clarity, strategic planning, and systematic execution - professional skills that mirror effective course design.
+I believe learning is most effective when it connects to students' existing knowledge and future goals. My experience studying psychology, supply chain management, marketing research, and business analytics has shown me that knowledge builds on previous understanding.
 
-**Evidence from Student Evaluations**: My MKT 327 course received high ratings for organization (4.33/5.0) and clear expectations (4.42/5.0), with students noting "Teacher was amazing with communication" and appreciating "the communication and how its format" supported their learning.
+My Chinese background, studying in the US, and also a semester in the UK taught me that different cultures approach learning differently. Some emphasize individual achievement, while others value collaborative knowledge building. Some prioritize theoretical understanding, while others focus on practical application. Effective teaching must recognize and accommodate these differences.
 
-**In Practice**: I provide detailed weekly schedules, transparent grading rubrics, timely feedback on assignments, and multiple communication channels. Students know what is expected each week and receive support for meeting those expectations.
+Students need opportunities to practice skills, receive feedback, and improve their work. As my CEP 820 instructor (Dr. Anne Heintz) mentioned, learning is iterative - we get better through repeated attempts and reflection. This is why I give students a full week for open exams and allow them to drop their lowest exam score.
 
-## Approach to Student Engagement
+### Online Learning Specifically
 
-### Three-Dimensional Engagement Strategy
+Online learning has unique challenges and opportunities. Bayne et al.'s (2020) "The Manifesto for Teaching Online" helped me understand that online education can be more human than many face-to-face experiences when designed thoughtfully. Their assertion that we should embrace the digital rather than see it as a poor substitute for in-person teaching resonated with my experience as an international student who often felt more comfortable participating in online discussions.
 
-Based on workshop learning about behavioral, emotional, and cognitive engagement, I design marketing courses that address all three dimensions:
+Through CEP 820, I learned about different types of communication that need to happen in online courses: content-related, planning of tasks, and social support (Haythornthwaite, 2008). In MKT 327, I design for all three through reflection prompts that help students process content ("Which company's marketing strategy is most sustainable?"), coordinate with peers ("How did working with your group help you understand these cases differently?"), and connect personally ("How will you use what you've learned in your future career?").
 
-**Behavioral Engagement**: Students actively participate through discussion boards, peer commentary on case analyses, and structured group roles (team leader, company analysts, editor/integrator).
+## What I've Learned from Teaching and CEP 820
 
-**Emotional Engagement**: I connect marketing concepts to students' personal interests through surveys and reflective activities, helping them see relevance to their career goals and current experiences.
+### Mistakes I Made and How to Avoid Them
 
-**Cognitive Engagement**: Case studies require students to apply marketing frameworks to real business problems, moving beyond memorization to analytical thinking and strategic reasoning.
+**Confusing Activity with Engagement:** Early in my course planning, I thought elaborate online tools would make me a better teacher. CEP 820 taught me that the most powerful online learning experiences often use simple technologies in sophisticated ways. My students needed clear group coordination systems and straightforward collaboration tools, not complex platforms they had to learn on top of learning marketing.
 
-### Technology Integration for Learning Enhancement
+**Overlooking Context:** Despite my multicultural background, I initially designed like everyone had perfect internet and quiet study spaces. The Design Justice principles made me actually build flexibility into my course structure, not just talk about it. This means multiple assignment formats, flexible deadlines when appropriate, and clear communication about requirements.
 
-Technology serves learning objectives rather than existing for its own sake. My multimodal approach provides synchronous collaboration opportunities while maintaining asynchronous accessibility for diverse schedules and time zones.
+**Treating Assessment as Measurement Rather Than Learning:** My quantitative background led me to focus on measurable outcomes without considering the learning process. Now I design assessments that help students learn while they're completing them. My reflection prompts ask students to connect marketing concepts to their professional goals, serving both formative and summative purposes.
 
-**Strategic Technology Use**: D2L discussion forums for peer learning, multiple digital format options for group presentations, and flexible collaboration tools that accommodate different technological comfort levels while building professional digital communication skills.
+### Key Insights
 
-## Creating Inclusive Learning Environments
+I now understand that effective online instruction requires the same systematic approach I bring to my marketing research. I collect data about student needs through surveys, analyze what's working through feedback, and iterate based on evidence. This empirical approach helps me understand which strategies work for which students under what conditions.
 
-### Supporting Diverse Student Backgrounds
+My goal is to create online learning experiences that draw from student diversity while serving their specific needs. My multicultural perspective reminds me that my students may come from backgrounds very different from my own. Some may be first-generation college students, others may be international students like I was, and still others may be returning to school after time in the workforce. Online learning should accommodate all of these paths.
 
-As an international instructor teaching diverse student populations, I recognize that marketing students arrive with varying levels of business knowledge, analytical preparation, and collaborative experience. My inclusive approach provides multiple entry points to challenging concepts.
+## My Commitment Moving Forward
 
-**Inclusive Practices**:
-- Multiple format options for demonstrating knowledge (accommodating different strengths)
-- Clear scaffolding from basic concepts to strategic application
-- Regular check-ins and feedback mechanisms to gauge classroom climate
-- International marketing examples that expose students to global perspectives
+I commit to using technology to enhance rather than replace human connection in learning. This means designing opportunities for meaningful interaction, creating space for student voice and choice, and never losing sight of the individual learners behind the screens. In practice, this translates to responsive email communication, flexible office hours that accommodate different schedules, and group work structures that build community while respecting individual circumstances.
 
-### Equity-Conscious Assessment
+I will continue to approach teaching with the same rigor I bring to my research, but always remembering that my students are people with complex lives, valuable experiences, and important goals. My job is to create learning experiences that fit into those lives and help students achieve those goals.
 
-My research revealed that assessment design significantly impacts which students appear successful. I work to create fair evaluation systems that measure learning rather than reflecting pre-existing advantages.
+As a first-time instructor who has now experienced both taking CEP 820 and teaching my first course simultaneously, I am committed to learning alongside my students and using that learning to create better educational experiences for everyone. The frameworks and principles I've learned will continue to guide my practice, but they will always be applied through the lens of my students' actual needs and contexts.
 
-**Equity Measures**: Individual accountability within group work, multiple opportunities to demonstrate mastery, transparent grading criteria, and assessment formats that don't penalize students for factors unrelated to marketing knowledge.
+## References
 
-## Professional Development and Growth Mindset
+Bayne, S., Evans, P., Ewins, R., Knox, J., Lamb, J., Macleod, H., O'Shea, C., Ross, J., Sheail, P., & Sinclair, C. (2020). *The manifesto for teaching online*. MIT Press.
 
-### Continuous Improvement Through Research
+Design Justice Network. (2020). *Design justice principles*. https://designjustice.org/
 
-My teaching practice integrates ongoing inquiry into student learning effectiveness. The Mentored Teaching Project exemplifies this commitment - when I observed unexpected patterns in group work, I designed systematic research to understand and improve my practices.
 
-**Research-Informed Teaching**: Regular analysis of student performance patterns, systematic collection of feedback data, and willingness to change proven ineffective practices based on evidence.
-
-### Institutional Mission Alignment
-
-My teaching aligns with MSU's land-grant mission by providing accessible, practical marketing education that serves diverse student populations. This means balancing theoretical frameworks with real-world applications while maintaining high academic standards.
-
-**Mission Integration**: Clear learning objectives connected to practical marketing skills, emphasis on collaborative problem-solving that mirrors professional environments, and accessible teaching methods that support student success regardless of background.
-
-## Future Teaching Applications
-
-### Short-Term Implementation (Current Academic Year)
-
-Based on my research findings and workshop learning:
-- Implement revised group work rubrics with appropriate discrimination levels
-- Continue using random group formation strategies (rather than attitude-based selection) supported by my research evidence
-- Add individual accountability measures within collaborative assignments
-- Continue systematic data collection on student learning outcomes
-
-### Long-Term Professional Development
-
-- Contribute to marketing education literature through publication of collaborative learning assessment research
-- Develop expertise in inclusive pedagogy that supports international students and diverse learners
-- Build connections between marketing education practice and broader scholarship of teaching and learning
-
-## Conclusion
-
-My teaching philosophy emphasizes evidence-based decision making, inclusive collaboration, and systematic assessment design in marketing education. This approach ensures that pedagogical choices serve student learning rather than instructor convenience, creates equitable opportunities for diverse learners to demonstrate knowledge, and prepares students for the collaborative, data-driven reality of modern marketing practice.
-
-The integration of research, reflection, and continuous improvement makes my teaching practice a scholarly endeavor that contributes to both student success and the broader marketing education community. This philosophy will continue evolving as I gather more evidence about effective teaching practices while maintaining its core commitment to inclusive, evidence-based marketing education.
+Mishra, P., & Koehler, M. J. (2006). Technological pedagogical content knowledge: A framework for teacher knowledge. *Teachers College Record*, 108(6), 1017-1054.

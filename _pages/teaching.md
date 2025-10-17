@@ -9,7 +9,7 @@ author_profile: true
 
 ## Teaching Philosophy
 
-**[y Teaching Philosophy Manifesto]({{ base_path }}/teaching/2025-summer-cep-820)**  
+**[Teaching Philosophy (Updated September 2025)]({{ base_path }}/teaching/teaching-philosophy)**  
 Evidence-based marketing education that combines systematic assessment design with inclusive collaborative learning to prepare students for data-driven marketing practice.
 
 ---
