@@ -8,8 +8,6 @@ author_profile: true
 ---
 
 <!-- excerpt-end -->
-# My Teaching Philosophy Manifesto (Updated Aug 2025)
-
 ## Who I Am: Personal and Professional Context
 
 My name is Minghao Wang, a first-year PhD student (started in Fall 2024) in Marketing at Michigan State University. My educational journey spans multiple institutions and countries, giving me diverse perspectives on learning and teaching. I earned two Bachelor's degrees from MSU - one in Supply Chain Management and in Psychology. I also hold two Master's degrees: an M.S. in Marketing Research from MSU and an M.S. in Management Business Analytics and Intelligence from Case Western Reserve University (CWRU).
