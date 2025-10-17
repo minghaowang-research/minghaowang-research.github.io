@@ -36,6 +36,8 @@ I successfully completed all required portfolio components, demonstrating my mas
 <details open>
 <summary><h2 style="display: inline;">Core Competency 1: Developing Discipline-Related Teaching Strategies</h2></summary>
 
+<br>
+
 ### Description
 
 Marketing education requires teaching strategies uniquely suited to how marketing professionals think and operate. Effective marketing instruction must develop students' abilities to analyze market problems systematically, integrate multiple data sources, and make evidence-based strategic recommendations—the core skills that distinguish successful marketing practitioners. This competency focuses on understanding the discipline's modes of inquiry and translating them into purposeful pedagogical approaches that prepare students for marketing careers.
@@ -68,6 +70,8 @@ This discipline-specific approach prepares students to think independently about
 
 <details>
 <summary><h2 style="display: inline;">Core Competency 2: Creating Effective and Inclusive Learning Environments</h2></summary>
+
+<br>
 
 ### Description
 
@@ -103,6 +107,8 @@ This commitment to inclusion will remain central to my teaching regardless of in
 
 <details>
 <summary><h2 style="display: inline;">Core Competency 3: Incorporating Technology Into Your Teaching</h2></summary>
+
+<br>
 
 ### Description
 
@@ -153,6 +159,8 @@ In my future marketing courses, I will continue to use technology strategically�
 
 <details>
 <summary><h2 style="display: inline;">Core Competency 4: Understanding the University Context</h2></summary>
+
+<br>
 
 ### Description
 
@@ -239,6 +247,8 @@ The integration of research, reflection, and continuous improvement makes my tea
 <details>
 <summary><h2 style="display: inline;">Core Competency 5: Assessing Student Learning</h2></summary>
 
+<br>
+
 ### Description
 
 Valid, reliable assessment is the foundation of evidence-based teaching. Assessment goes beyond grading—it's about understanding whether students are actually learning what we intend to teach them, and using that evidence to improve our courses. This competency involves designing assessments that accurately measure learning objectives, analyzing assessment data to identify where students struggle, and using those insights to refine teaching practices.
@@ -285,6 +295,7 @@ This commitment to assessment-driven teaching will make me a more effective inst
 </details>
 
 ---
+
 ## Progress Tracking
 
 ### Completed Components
@@ -320,8 +331,8 @@ This certification enhanced my pedagogical knowledge and teaching effectiveness,
 Additional supporting materials for each competency are available:
 - [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
 - Competency-specific artifacts and course materials (available upon request)
- - [Signed Mentored Teaching Project Approval Document (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
- - [Pre-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
- - [Mid-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
+- [Signed Mentored Teaching Project Approval Document (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
+- [Pre-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
+- [Mid-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
 For more on my teaching philosophy and pedagogical approach, see my [Teaching Philosophy statement](/teaching/teaching-philosophy) and [CEP 820 course reflection](/teaching/2025-summer-cep-820).
