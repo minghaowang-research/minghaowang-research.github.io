@@ -2,7 +2,7 @@
 title: "CCTI: Certification in College Teaching Institute"
 collection: teaching
 type: "Professional Development Certification"
-permalink: /teaching/certification-college-teaching
+permalink: /teaching/certification-college-teaching-old
 venue: "Michigan State University"
 date: 2025-09-15
 categories: [professional-development, certification]
