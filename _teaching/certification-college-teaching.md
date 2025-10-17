@@ -33,7 +33,7 @@ I successfully completed all required portfolio components, demonstrating my mas
 
 ---
 
-<details open markdown="1">
+<details markdown="1">
 <summary><h2 style="display: inline;">Core Competency 1: Developing Discipline-Related Teaching Strategies</h2></summary>
 
 <br>
