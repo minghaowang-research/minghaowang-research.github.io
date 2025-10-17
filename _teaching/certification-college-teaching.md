@@ -294,7 +294,7 @@ Through this project, I learned that:
 - Continuously analyzing assessment data to identify patterns in student performance
 - Employing rigorous statistical methods to test whether observed changes are meaningful or due to chance
 
-The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support, yet persists because it *seems* logical. Rigorous assessment of my own teaching practices, including pre-mid survey comparison with statistical analysis, revealed that random group formation combined with well-designed rubrics and individual accountability produces better learning outcomes.
+The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support.
 
 **Methodological Rigor in Teaching Assessment**: My mentored project employed research methods similar to those used in academic research:
 - Systematic data collection at multiple time points
