@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <!-- excerpt-end -->
-# My Revisited Online Teaching Manifesto (Updated Aug 2025)
+# My Teaching Philosophy Manifesto (Updated Aug 2025)
 
 ## Who I Am: Personal and Professional Context
 
