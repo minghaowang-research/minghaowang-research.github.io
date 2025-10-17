@@ -294,26 +294,25 @@ Through this project, I learned that:
 - Continuously analyzing assessment data to identify patterns in student performance
 - Employing rigorous statistical methods to test whether observed changes are meaningful or due to chance
 
-The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support.
+The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support. Rigorous assessment of my own teaching practices, including pre-mid survey comparison with statistical analysis, revealed that random group formation combined with well-designed rubrics and individual accountability produces better learning outcomes.
 
 **Methodological Rigor in Teaching Assessment**: My mentored project employed research methods similar to those used in academic research:
-- Systematic data collection at multiple time points
+- Systematic data collection at multiple time points (pre-survey, mid-survey)
 - Matched-pairs analysis to track individual student changes
 - Statistical hypothesis testing (paired t-tests) to determine significance
 - Effect size calculation (Cohen's d) to assess practical importance of observed changes
 - Triangulation of survey data with actual performance data (group grades, final grades)
 
-This rigorous approach to understanding student learning transforms teaching from an art based on intuition into a scholarly endeavor grounded in evidence.
+This rigorous approach to understanding student learning transforms teaching from intuition into a scholarly endeavor grounded in evidence.
 
 In my future teaching, I will continue to prioritize assessment excellence. This means:
 - Designing valid, reliable assessments before I design the rest of the course
-- Collecting data at multiple time points to track student learning trajectories
+- Collecting data at multiple time points to track student learning trajectories, maybe add final survey as well
 - Analyzing assessment results using appropriate statistical methods to identify gaps in student learning (not just assigning grades)
 - Using findings to improve course structure, instruction, and resources
 - Continuously refining assessments based on how well they actually measure what I intend
-- Sharing assessment insights with the broader teaching community through publications and presentations
 
-This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry. My experience conducting rigorous pre-mid survey analysis demonstrates that I treat teaching with the same methodological care I apply to my marketing research, continuously testing assumptions and refining practices based on empirical evidence.
+This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry. My experience conducting pre-mid survey analysis demonstrates that I treat teaching with the same methodological care I apply to my marketing research, continuously testing assumptions and refining practices based on empirical evidence.
 
 </details>
 
@@ -329,20 +328,9 @@ This commitment to assessment-driven teaching will make me a more effective inst
 
 **COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
 
-**Professional Digital Presence:** Developed comprehensive digital teaching portfolio including:
-
-- [Teaching Philosophy Statement](/files/CCTI/10_TEACHING_PHILOSOPHY_STATEMENT_Minghao.pdf)
-- [MKT 327: Introduction to Marketing (4.33/5)](/teaching/2025-summer-marketing-327)
-- [Mentored Teaching Project Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
-- [This CCTI Electronic Portfolio](/teaching/certification-college-teaching)
-
 ### More Supporting Documentation
 
 Additional supporting materials for each competency are available:
-- [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
 - Competency-specific artifacts and course materials (available upon request)
+- [MKT 327: Introduction to Marketing (4.33/5)](/teaching/2025-summer-marketing-327)
 - [Signed Mentored Teaching Project Approval Document (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)
-- [Pre-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/11_US25-MKT-327-734_Pre.pdf)
-- [Mid-survey for MKT 327 (US25-MKT-327-734)](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
-
-For more on my teaching philosophy and pedagogical approach, see my [Teaching Philosophy statement](/teaching/teaching-philosophy) and [CEP 820 course reflection](/teaching/2025-summer-cep-820).
