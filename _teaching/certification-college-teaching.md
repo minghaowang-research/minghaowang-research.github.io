@@ -128,7 +128,7 @@ My philosophy on technology is neither enthusiastic adoption nor resistance—I 
 
 Through my teaching experience, CEP 820 coursework, and CCTI participation, I've learned several crucial lessons about technology integration:
 
-**Understanding learner variability**: In designing my first online course, I discovered that assumptions about "basic" computer skills (saving files in specific formats, navigating learning management systems, using video conferencing) were incorrect for a significant portion of students. Some students had never used cloud storage, others struggled with video recording, and many were unfamiliar with collaborative editing tools. I now provide tutorial resources, anticipate common technical barriers, and build in time for troubleshooting without penalizing students who need this support.
+**Understanding learner variability**: In designing my first online course, I discovered that assumptions about "basic" computer skills (saving files in specific formats, navigating learning management systems, using video conferencing) were incorrect for a significant portion of students. Some students may have never used cloud storage, others struggled with video recording, and many were unfamiliar with collaborative editing tools, I should not assume every student knows how all of these works. Next, I will provide tutorial resources, anticipate common technical barriers, and build in time for troubleshooting without penalizing students who need this support.
 
 **Technology selection is pedagogy**: The TPACK framework taught me that effective technology integration requires simultaneous consideration of three domains:
 - **Content**: What marketing concepts am I teaching?
