@@ -121,7 +121,6 @@ While technology offers powerful opportunities for course delivery, assessment, 
 
 - **CEP 820 Course Experience: TPACK Framework Application** - Through CEP 820, I developed expertise in the TPACK (Technology, Pedagogy, Content Knowledge) framework, which provides a systematic approach to evaluating when and how technology enhances learning rather than simply adding complexity.
 
-- **Teaching Philosophy Technology Integration** - My teaching philosophy reflects careful consideration of when and why to use technology, available in my [Teaching Philosophy statement](/teaching/teaching-philosophy).
 
 ### Reflection
 
