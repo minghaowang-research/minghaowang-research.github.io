@@ -156,9 +156,9 @@ In my future marketing courses, I will continue to use technology strategically,
 
 ### Description
 
-Different types of colleges and universities have distinct missions, student populations, and institutional goals that fundamentally shape what effective teaching means in those contexts. An R1 research university, a teaching-focused liberal arts college, and a community college require different instructional priorities and course structures. Additionally, students arrive with different economic circumstances, work obligations, family responsibilities, and prior educational experiences.
+Different types of colleges and universities have distinct missions, student populations, and institutional goals that fundamentally shape what effective teaching means in those contexts. An R1 research university, a teaching-focused college, and a community college require different instructional priorities and course structures. Additionally, from my MKT 327 class survey, students arrive with different economic circumstances, work obligations, family responsibilities, and prior educational experiences.
 
-**Key Challenges**: Instructors often bring assumptions from their own educational experiences that may not apply to students from different backgrounds. Rigid course policies (mandatory attendance, strict deadlines without flexibility) can inadvertently disadvantage students from historically marginalized communities who disproportionately carry work and family responsibilities. Understanding institutional context requires recognizing how systemic inequities shape student experiences and adjusting teaching practices accordingly. As someone who has experienced education across multiple countries and institution types, I've learned that teaching approaches considered "standard" in one context may be inappropriate or ineffective in another.
+**Key Challenges**: Instructors often bring assumptions from their own educational experiences that may not apply to students from different backgrounds. Rigid course (Summer, for example, my mkt327 class required student finish 4 months class with in 2 months) policies (mandatory attendance, strict deadlines without flexibility) can inadvertently disadvantage students from historically marginalized communities who disproportionately carry work and family responsibilities. Understanding institutional context requires recognizing how systemic inequities shape student experiences and adjusting teaching practices accordingly. As someone who has experienced education across multiple countries and institution types, I've learned that teaching approaches considered "standard" in one context may be inappropriate or ineffective in another.
 
 ### Artifact and Rationale
 
@@ -219,9 +219,8 @@ Each context requires different teaching priorities. Student success at MSU migh
 When seeking teaching positions at different institutional types, I will:
 1. Research institutional mission, student demographics, and program goals before interviews
 2. Ask deliberately about institutional priorities: "What do you hope students gain from this program?" "What are the student populations we serve?"
-3. Consult with current faculty and staff about actual (not just stated) institutional values
-4. Review student support services available to understand what resources students can access
-5. Examine course policies and schedules at the institution to understand cultural norms around flexibility and accessibility
+3. Review student support services available to understand what resources students can access
+4. Examine course policies and schedules at the institution to understand cultural norms around flexibility and accessibility
 
 **Future Application**:
 
@@ -244,11 +243,11 @@ Valid, reliable assessment is the foundation of evidence-based teaching. Assessm
 
 ### Artifact and Rationale
 
-- **Mentored Teaching Project: Evidence-Based Assessment Design** - Completed a comprehensive mentored teaching project examining how assessment design affects collaborative learning outcomes, specifically investigating whether student attitudes predict successful group work or whether assessment structure matters more. The project analyzed pre-survey and mid-survey data from MKT 327 students to understand changes in confidence, marketing familiarity, and their relationship to group performance. [View project summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) | [View detailed worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
+**Mentored Teaching Project: Evidence-Based Assessment Design** - Completed a comprehensive mentored teaching project examining how assessment design affects collaborative learning outcomes, specifically investigating whether student attitudes predict successful group work or whether assessment structure matters more. The project analyzed pre-survey and mid-survey data from MKT 327 students to understand changes in confidence, marketing familiarity, and their relationship to group performance. [View project summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) | [View detailed worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
 
-- **Pre-Mid Survey Comparison Analysis** - Conducted systematic comparison of student attitudes and perceptions at the beginning and midpoint of the course, revealing significant changes in both group work confidence and marketing familiarity. This longitudinal data collection demonstrates my commitment to evidence-based teaching improvement. [Pre-survey](/files/CCTI/11_US25-MKT-327-734_Pre.pdf) | [Mid-survey](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
+**Pre-Mid Survey Comparison Analysis** - Conducted systematic comparison of student attitudes and perceptions at the beginning and midpoint of the course, revealing significant changes in both group work confidence and marketing familiarity. This longitudinal data collection demonstrates my commitment to evidence-based teaching improvement. [Pre-survey](/files/CCTI/11_US25-MKT-327-734_Pre.pdf) | [Mid-survey](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
-- **Teaching Philosophy Assessment Framework** - My assessment-driven approach to course design is detailed in my [Teaching Philosophy statement](/teaching/teaching-philosophy), emphasizing that *how we assess collaborative work matters more than how we form groups*.
+**Teaching Philosophy Assessment Framework** - My assessment-driven approach to course design is detailed in my [Teaching Philosophy statement](/teaching/teaching-philosophy), emphasizing that *how we assess collaborative work matters more than how we form groups*.
 
 ### Reflection
 
