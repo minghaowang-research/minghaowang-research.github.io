@@ -9,29 +9,33 @@ author_profile: true
 
 ## Teaching Philosophy
 
-{% for post in site.teaching reversed %}
-  {% if post.categories contains 'teaching-philosophy' %}
-**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**
-  {% endif %}
-{% endfor %}
+**[Teaching Philosophy (Updated September 2025)]({{ base_path }}/teaching/teaching-philosophy)**  
+Evidence-based marketing education that combines systematic assessment design with inclusive collaborative learning to prepare students for data-driven marketing practice.
+
+**[CEP 820: Teaching and Learning Online (My Teaching Philosophy Manifesto)]({{ base_path }}/teaching/2025-summer-cep-820)**  
+Advanced coursework in educational psychology and learning theory, developing evidence-based teaching frameworks and technology integration strategies.
+
+---
 
 ## Teaching Experience
 
-{% for post in site.teaching reversed %}
-  {% if post.categories contains 'teaching-experience' %}
-**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
-{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-  {% endif %}
-{% endfor %}
+**[MKT 327: Introduction to Marketing (Summer 2025)]({{ base_path }}/teaching/2025-summer-marketing-327)**  
+Online Course (First-Time Instructor), *Michigan State University*, 2025  
+Designed and delivered comprehensive online marketing course with focus on evidence-based assessment and inclusive collaborative learning.
 
-## Professional Development in Teaching & Teaching Manifesto
+---
 
-{% for post in site.teaching reversed %}
-  {% if post.categories contains 'professional-development' %}
-**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**  
-{{ post.type }}, *{{ post.venue }}*, {{ post.date | date: "%Y" }}
-  {% endif %}
-{% endfor %}
+## Professional Development in Teaching
+
+**[CCTI: Certification in College Teaching Institute]({{ base_path }}/teaching/certification-college-teaching)**  
+Professional Development Certification, *Michigan State University*, 2025  
+Comprehensive certification demonstrating mastery across five core teaching competencies through coursework, workshops, and mentored teaching project.
+
+**[MSU COLA 2025: Conference on Learning and Teaching (COLA)]({{ base_path }}/teaching/2025-summer-cola)**  
+Conference Presentation, *Michigan State University*, 2025  
+Presented research on evidence-based assessment design and collaborative learning outcomes.
+
+---
 
 ## Technical Skills for Teaching
 
