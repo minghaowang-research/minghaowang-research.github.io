@@ -58,7 +58,6 @@ In my future marketing courses, I will continue to apply learner-centered strate
 
 Marketing professionals must synthesize information from multiple sources, evaluate competing strategies, and make recommendations under uncertainty. My discipline-specific teaching approach develops these capabilities by:
 - Using case-based instruction that requires students to analyze real marketing problems with incomplete information
-- Designing assignments that mirror professional marketing deliverables (strategy memos, campaign proposals, market analysis reports)
 - Emphasizing the "why" behind marketing frameworks rather than memorizing tactics
 - Creating opportunities for students to practice professional communication skills (written, visual, oral presentations)
 
@@ -89,7 +88,7 @@ Through CCTI workshops and my teaching practice, I've learned that inclusive env
 
 My approach to creating inclusive learning environments in marketing courses includes:
 
-- **Diverse representation in case studies and examples**: I deliberately select cases featuring companies led by women, people of color, and entrepreneurs from different countries, reflecting the diversity of marketing professionals and validating students from underrepresented backgrounds.
+- **Diverse representation in case studies and examples**: I deliberately select cases featuring companies that entrepreneurs from different countries, reflecting the diversity of marketing professionals.
 
 - **Multiple engagement formats**: Rather than relying solely on written analysis, I offer options for video presentations, infographics, and group discussions, recognizing that students have different communication strengths.
 
@@ -99,7 +98,7 @@ My approach to creating inclusive learning environments in marketing courses inc
 
 Beyond structural clarity, inclusive collaboration prepares students for professional reality. Marketing professionals work in diverse, cross-functional teams where successful campaigns emerge from integrating perspectives from different cultural backgrounds, analytical approaches, and creative traditions. My courses intentionally create these collaborative experiences, using random group formation combined with individual accountability measures to ensure all students contribute meaningfully while developing teamwork skills essential for their careers.
 
-This commitment to inclusion will remain central to my teaching regardless of institutional context. Whether teaching at a research university, teaching-focused institution, or community college, inclusive pedagogy is both ethically essential and pedagogically sound—research consistently shows that students learn better in psychologically safe environments where they feel valued.
+This commitment to inclusion will remain central to my teaching regardless of institutional context. Whether teaching at a research university, teaching-focused institution, or community college, inclusive pedagogy is both ethically essential.
 
 </details>
 
@@ -114,7 +113,7 @@ This commitment to inclusion will remain central to my teaching regardless of in
 
 While technology offers powerful opportunities for course delivery, assessment, and student engagement, poor implementation can create barriers rather than support learning. The critical question is not *whether* to use technology, but *when* and *how* it serves specific learning objectives. This competency requires understanding that students have variable technological experience and access, and that technology choices should be justified by pedagogical benefit, not novelty.
 
-**Key Challenges**: Many instructors assume students possess technical skills they may not have. First-time online or hybrid course design often attempts to do too much with technology at once. Additionally, unequal access to technology disproportionately affects low-income students, requiring thoughtful consideration of equity implications in technology selection. As a first-time instructor designing an online course, I faced the challenge of integrating multiple technologies (learning management systems, video conferencing, collaborative tools) while ensuring accessibility for students with varying technical backgrounds and equipment access.
+**Key Challenges**: Many instructors assume students possess technical skills they may not have. First-time online or hybrid course design often attempts to do too much with technology at once. Additionally, unequal access to technology disproportionately affects low-income students, requiring thoughtful consideration of equity implications in technology selection. As a first-time instructor designing an online course, I faced the challenge of integrating multiple technologies (learning management systems (D2L), video conferencing (ZOOM,Teams), collaborative tools(Google sheet, etc.)) while ensuring accessibility for students with varying technical backgrounds and equipment access.
 
 ### Artifact and Rationale
 
@@ -143,15 +142,9 @@ When I choose to use a tool, I consider:
 - What barriers might it create for students with disabilities or limited connectivity?
 - How will I support students who are unfamiliar with it?
 
-**Questioning the "upgrade" mentality**: Just because a new educational technology exists doesn't mean my course needs it. A well-designed spreadsheet assignment with clear instructions and tutorial videos may serve students better than implementing specialized software they'll never use again. This principle of "appropriate technology" means selecting tools that students will genuinely use in their professional careers (Excel, PowerPoint, data visualization software) over novelty tools that require extensive learning for minimal benefit.
+**Questioning the "upgrade" mentality**: Just because a new educational technology exists doesn't mean my course needs it. Now days, there are many "fancy" tools can do many things, but they often add unnecessary complexity. A well-designed spreadsheet assignment with clear instructions and tutorial videos may serve students better than implementing specialized software they'll never use again. This principle of "appropriate technology" means selecting tools that students will genuinely use in their professional careers (Excel, PowerPoint, data visualization software (Tableau, etc.)) over novelty tools that require extensive learning for minimal benefit.
 
-**Design Justice principles in technology selection**: CEP 820 introduced me to Design Justice—the recognition that technology design reflects values and can either support or exclude learners. This framework shapes how I evaluate educational technology:
-- Does this tool work for students with visual impairments, hearing impairments, or motor disabilities?
-- Does it require high-speed internet that some students may not have reliable access to?
-- Does it assume cultural knowledge or language proficiency that may exclude international students?
-- Are there free or low-cost alternatives to expensive proprietary software?
-
-In my future marketing courses, I will continue to use technology strategically—for example, data analysis software helps students develop skills they'll use in their careers, while multimedia case study presentations offer communication practice. However, I'll remain cautious about technology that serves convenience over pedagogy, and I'll always build in support for students with varying technical backgrounds. The goal is not to be "tech-forward" but to be "learning-forward," using technology only when it demonstrably improves student outcomes.
+In my future marketing courses, I will continue to use technology strategically, for example, data analysis software helps students develop skills they'll use in their careers, while multimedia case study presentations offer communication practice. However, I'll remain cautious about technology that serves convenience over pedagogy, and I'll always build in support for students with varying technical backgrounds. The goal is not to be "tech-forward" but to be "learning-forward," using technology only when it demonstrably improves student outcomes.
 
 </details>
 
@@ -181,9 +174,9 @@ Understanding university context is essential for effective teaching because wha
 **My Experience Across Institutional Types**:
 
 I have attended and studied in diverse educational contexts:
-- **Community college in the United States**: Emphasized practical, immediately applicable skills
-- **Comprehensive state university**: Balanced research and teaching with strong disciplinary depth
-- **Research-intensive R1 university (MSU)**: Emphasized research training and graduate preparation
+- **Community college in the United States (Lansing Community College (LCC))**: Emphasized practical, immediately applicable skills
+- **Comprehensive State University (University of Kent, UK) **: Balanced research and teaching with strong disciplinary depth
+- **Research-intensive R1 university (MSU) (CWRU)**: Emphasized research training and graduate preparation
 - **International educational systems**: During my time as an international student, I experienced how educational approaches and student support systems vary significantly across countries
 
 These experiences have taught me that:
@@ -196,9 +189,9 @@ These experiences have taught me that:
 
 **Applying This Understanding to Teaching**:
 
-As an MSU instructor for MKT 327 (a non-majors marketing course), I emphasized *how marketing operates and why it matters for informed citizenship* over specific tactics. Most students will not become marketing professionals, but all will encounter marketing messages, make purchasing decisions, and potentially vote on marketing-related policy questions. I structured the course around consumer decision-making, ethical marketing practices, and critical analysis of marketing claims.
+As an MSU instructor for MKT 327 (a non-majors marketing course), I emphasized *how marketing operates and why it matters*. Most students will not become marketing professionals, but all will encounter marketing messages, make purchasing decisions, and potentially vote on marketing-related policy questions. I structured the course around consumer decision-making, ethical marketing practices, and critical analysis of marketing claims.
 
-If I were teaching the same course at a community college, I would likely emphasize practical skills students could use in entry-level marketing positions, while still maintaining critical analysis. At a teaching-focused liberal arts college, I might deepen the ethical and philosophical dimensions of marketing's role in society.
+If I were teaching the same course at a community college, I would likely emphasize practical skills students could use in entry-level marketing positions, while still maintaining critical analysis.
 
 **Equity-Centered Course Policies**:
 
@@ -210,15 +203,15 @@ Understanding university context also means recognizing systemic inequities and 
 
 Rigid attendance policies and strict deadlines without flexibility implicitly privilege students who don't carry these responsibilities. This is why my courses include:
 - Flexible deadline policies with late submission options
-- Asynchronous participation options in addition to synchronous classes
 - Clear, advance notice of due dates
 - Recognition that technology access varies
+- Appointment based office hours to accommodate different schedules
+- 24 hours response time for student inquiries. (Normally respond within few hours)
 
 **Learning from CCTI Workshops**: The CCTI sessions on understanding university context emphasized examining institutional mission statements to understand what different colleges and universities prioritize. Through these workshops, I learned to identify key differences:
 - **R1 research universities** like MSU emphasize preparing students for research careers and contributing to knowledge creation
 - **Regional comprehensive universities** often serve first-generation college students and emphasize workforce preparation alongside intellectual development
 - **Community colleges** prioritize accessible, affordable education and direct pathways to employment or transfer to four-year institutions
-- **Liberal arts colleges** emphasize broad intellectual development and close mentoring relationships
 
 Each context requires different teaching priorities. Student success at MSU might mean publishing research or gaining admission to graduate school, while at a community college it might mean securing employment or transferring to complete a bachelor's degree.
 
@@ -230,15 +223,12 @@ When seeking teaching positions at different institutional types, I will:
 3. Consult with current faculty and staff about actual (not just stated) institutional values
 4. Review student support services available to understand what resources students can access
 5. Examine course policies and schedules at the institution to understand cultural norms around flexibility and accessibility
-6. Connect with teaching and learning centers or faculty development offices to understand institutional expectations for teaching excellence
 
 **Future Application**:
 
 Whether I teach at an R1 research university, a regional comprehensive university, a liberal arts college, or a community college, I will ground my teaching in understanding that institution's mission and students' needs. My core commitment to evidence-based, inclusive teaching translates across contexts, but the specific implementation will shift based on institutional goals and student populations I serve.
 
 For example, my emphasis on systematic assessment and evidence-based pedagogical decisions applies universally, but the specific learning outcomes I prioritize and the types of assignments I design will vary significantly. At a research university, I might emphasize research skills and engagement with academic literature; at a community college, I might prioritize immediately applicable professional skills and clear pathways to employment.
-
-The integration of research, reflection, and continuous improvement makes my teaching practice a scholarly endeavor that contributes to both student success and the broader marketing education community, regardless of institutional context.
 
 </details>
 
