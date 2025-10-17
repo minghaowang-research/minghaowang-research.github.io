@@ -319,8 +319,6 @@ This commitment to assessment-driven teaching will make me a more effective inst
 
 ## Progress Tracking
 
-### Completed Components
-
 ### Program Registration
 **Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
 
@@ -336,18 +334,7 @@ This commitment to assessment-driven teaching will make me a more effective inst
 - [Mentored Teaching Project Summary & Artifacts](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)
 - [This CCTI Electronic Portfolio](/teaching/certification-college-teaching)
 
-## My Key Outcomes
-
-I successfully completed all five competencies of the Certification in College Teaching Institute, demonstrating my comprehensive pedagogical development.
-
-**Student Feedback from MKT 327 (Summer 2025):**
-> "Very organized and well put together... expectations to excel in the course were clearly outlined and feedback on the assignments allowed for improvement on future assignments... Teacher was amazing with communication... I like how it was extremely clear what we were responsible for each week, and that it had a fair workload."
-
-**My Real-World Application:** I applied my CCT competencies directly to teaching MKT 327 (Introduction to Marketing) during Summer 2025, implementing my evidence-based course design with multimodal assessments and student-centered approaches. [My Course Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)
-
-This certification enhanced my pedagogical knowledge and teaching effectiveness, preparing me for my academic career with evidence-based teaching practices and reflective professional development. The program directly influenced my evidence-based approaches to course design and student engagement strategies, with immediate application in my actual teaching practice.
-
-## More Supporting Documentation
+### More Supporting Documentation
 
 Additional supporting materials for each competency are available:
 - [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
