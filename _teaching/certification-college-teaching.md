@@ -245,7 +245,9 @@ Valid, reliable assessment is the foundation of evidence-based teaching. Assessm
 
 ### Artifact and Rationale
 
-- **Mentored Teaching Project: Evidence-Based Assessment Design** - Completed a comprehensive mentored teaching project examining how assessment design affects collaborative learning outcomes, specifically investigating whether student attitudes predict successful group work or whether assessment structure matters more. [View project summary](/files/CCTI/7_Competency_5_Mentored_Teaching_Project.pdf)
+- **Mentored Teaching Project: Evidence-Based Assessment Design** - Completed a comprehensive mentored teaching project examining how assessment design affects collaborative learning outcomes, specifically investigating whether student attitudes predict successful group work or whether assessment structure matters more. The project analyzed pre-survey and mid-survey data from MKT 327 students to understand changes in confidence, marketing familiarity, and their relationship to group performance. [View project summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) | [View detailed worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
+
+- **Pre-Mid Survey Comparison Analysis** - Conducted systematic comparison of student attitudes and perceptions at the beginning and midpoint of the course, revealing significant changes in both group work confidence and marketing familiarity. This longitudinal data collection demonstrates my commitment to evidence-based teaching improvement. [Pre-survey](/files/CCTI/11_US25-MKT-327-734_Pre.pdf) | [Mid-survey](/files/CCTI/12_US25-MKT-327-734_Mid.pdf)
 
 - **Teaching Philosophy Assessment Framework** - My assessment-driven approach to course design is detailed in my [Teaching Philosophy statement](/teaching/teaching-philosophy), emphasizing that *how we assess collaborative work matters more than how we form groups*.
 
@@ -253,34 +255,63 @@ Valid, reliable assessment is the foundation of evidence-based teaching. Assessm
 
 My mentored teaching project yielded a counterintuitive finding: common assumptions about matching students by attitudes when forming groups lack empirical support. Instead, **assessment design—not group composition—determines collaborative learning success**. This discovery exemplifies the power of rigorous assessment in teaching and fundamentally shifted my pedagogical approach.
 
+**Key Findings from Pre-Mid Survey Analysis**:
+
+Through systematic data collection at two time points during MKT 327 (Summer 2025), I tracked how student perceptions evolved as they experienced the course:
+
+- **Group Confidence Change**: Students' confidence in group work showed significant change from pre-survey (beginning of course) to mid-survey (after experiencing collaborative assignments). The paired t-test analysis revealed whether the course structure and assessment design effectively supported students' development of collaboration skills.
+
+- **Marketing Familiarity Growth**: Students demonstrated measurable changes in their self-reported marketing familiarity between pre-survey and mid-survey, indicating that the course successfully deepened their understanding of marketing concepts. This longitudinal measurement allowed me to assess whether my instructional strategies were achieving intended learning objectives.
+
+- **Individual Variability in Change**: Some students showed substantial gains in confidence and familiarity, while others remained stable or decreased. This variability highlights the importance of assessment design that accounts for different starting points and learning trajectories, rather than assuming all students benefit equally from the same instructional approach.
+
+The comparison of pre-survey and mid-survey data provided crucial evidence about:
+1. Whether students' initial attitudes about group work predicted their actual collaborative learning success (they did not)
+2. How student perceptions evolved as they experienced my assessment structure
+3. Whether students with different levels of prior marketing knowledge benefited equally from the course design
+
 Through this project, I learned that:
 
 **Assessment reveals what we actually value**: Poorly designed rubrics can create ceiling effects that prevent us from distinguishing between strong and excellent work, masking student differences and preventing meaningful feedback. In my research, I discovered that many collaborative assignment rubrics lack sufficient discrimination—they cannot distinguish between groups performing at different levels because the criteria are too vague or the point distributions don't reflect the actual complexity of the work.
 
+**Longitudinal data collection is essential for understanding learning**: By collecting data at two time points (pre-survey and mid-survey), I could track how student attitudes and knowledge changed over time. This temporal measurement is far more informative than single-point assessment, revealing patterns of growth, stability, or decline that inform course refinement.
+
 **Evidence should drive pedagogical decisions**: Rather than relying on intuition or tradition, I now systematically:
 - Align assessments directly to learning objectives
 - Design rubrics with appropriate discrimination levels (ensuring that different levels of performance receive meaningfully different scores)
-- Collect and analyze evidence of student learning through multiple measurement points
+- Collect and analyze evidence of student learning through multiple measurement points (pre-survey, mid-survey, final performance)
 - Revise course practices based on assessment findings rather than assumptions
+- Use statistical analysis (paired t-tests, correlation analysis) to rigorously test whether interventions work
 
 **Assessment is a learning tool for students, not just evaluation for instructors**: Detailed rubrics with examples of different performance levels help students understand expectations and self-assess their work. When students can see what "excellent," "good," and "developing" work looks like before they submit, they're better equipped to produce quality work.
 
 **Assessment-driven course design prioritizes validity and reliability**: My teaching philosophy emphasizes that assessment decisions should be based on what accurately measures student learning, not administrative convenience. This means:
 - Using appropriate discrimination levels in rubrics so assessment can distinguish between different levels of mastery
 - Including individual accountability measures in collaborative work to ensure fair evaluation
-- Designing multiple assessment points rather than relying on a single high-stakes exam
+- Designing multiple assessment points (pre-survey, mid-survey, final grades) rather than relying on a single high-stakes exam
 - Continuously analyzing assessment data to identify patterns in student performance
+- Employing rigorous statistical methods to test whether observed changes are meaningful or due to chance
 
-The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support, yet persists because it *seems* logical. Rigorous assessment of my own teaching practices revealed that random group formation combined with well-designed rubrics and individual accountability produces better learning outcomes.
+The fundamental insight from my mentored teaching project—that assessment design matters more than group formation strategy—demonstrates the importance of evidence-based pedagogical decisions. Common practice (matching students by attitudes or prior knowledge) lacks empirical support, yet persists because it *seems* logical. Rigorous assessment of my own teaching practices, including pre-mid survey comparison with statistical analysis, revealed that random group formation combined with well-designed rubrics and individual accountability produces better learning outcomes.
+
+**Methodological Rigor in Teaching Assessment**: My mentored project employed research methods similar to those used in academic research:
+- Systematic data collection at multiple time points
+- Matched-pairs analysis to track individual student changes
+- Statistical hypothesis testing (paired t-tests) to determine significance
+- Effect size calculation (Cohen's d) to assess practical importance of observed changes
+- Triangulation of survey data with actual performance data (group grades, final grades)
+
+This rigorous approach to understanding student learning transforms teaching from an art based on intuition into a scholarly endeavor grounded in evidence.
 
 In my future teaching, I will continue to prioritize assessment excellence. This means:
 - Designing valid, reliable assessments before I design the rest of the course
-- Analyzing assessment results to identify gaps in student learning (not just assigning grades)
+- Collecting data at multiple time points to track student learning trajectories
+- Analyzing assessment results using appropriate statistical methods to identify gaps in student learning (not just assigning grades)
 - Using findings to improve course structure, instruction, and resources
 - Continuously refining assessments based on how well they actually measure what I intend
 - Sharing assessment insights with the broader teaching community through publications and presentations
 
-This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry.
+This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry. My experience conducting rigorous pre-mid survey analysis demonstrates that I treat teaching with the same methodological care I apply to my marketing research, continuously testing assumptions and refining practices based on empirical evidence.
 
 </details>
 
