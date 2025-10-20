@@ -47,6 +47,8 @@ Marketing education requires teaching strategies uniquely suited to how marketin
 - **Course Completion: CEP 820 (Teaching and Learning Online)** - Completed with 4.0 GPA, this advanced coursework in educational psychology and learning theory provided foundational knowledge in evidence-based teaching practices. I mastered frameworks such as TPACK (Technology, Pedagogy, Content Knowledge) and Design Justice principles, which directly inform my approach to integrating technology meaningfully into marketing curriculum.
 
 - **Teaching Philosophy Manifesto** - [View my CEP 820 Teaching and Learning Online course reflection](/teaching/2025-summer-cep-820), which documents my pedagogical framework and how I translate educational theory into marketing instruction.
+- 
+- **Support Document & Syllabus** - [View documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
 
 ### Reflection
 
@@ -79,6 +81,8 @@ College students arrive with diverse academic backgrounds, cultural experiences,
 ### Artifact and Rationale
 
 - **CCTI Workshop Materials and Session Participation** - Active participation in the Certification in College Teaching Institute's workshop sessions on creating effective learning environments provided direct instruction on evidence-based practices for student engagement, inclusive course design, and addressing microaggressions and bias in academic spaces.
+
+- **CCTI Workshop Documentation** - [View workshop participation materials for Competencies 2 & 3](/files/CCTI/4_Competency_2_and_3.pdf)
 
 - **Teaching Philosophy Engagement Framework** - My teaching philosophy outlines three-dimensional engagement strategies (behavioral, emotional, and cognitive) and inclusive collaborative practices, detailed in my [Teaching Philosophy statement](/teaching/teaching-philosophy).
 
@@ -119,6 +123,8 @@ While technology offers powerful opportunities for course delivery, assessment, 
 
 - **CCTI Workshop: Incorporating Technology Into Teaching** - Participated in MSU's Certification in College Teaching Institute workshop that emphasized matching technology to learning objectives rather than adopting technology for its own sake.
 
+- **CCTI Workshop Documentation** - [View workshop participation materials for Competencies 2 & 3](/files/CCTI/4_Competency_2_and_3.pdf)
+
 - **CEP 820 Course Experience: TPACK Framework Application** - Through CEP 820, I developed expertise in the TPACK (Technology, Pedagogy, Content Knowledge) framework, which provides a systematic approach to evaluating when and how technology enhances learning rather than simply adding complexity.
 
 
@@ -158,11 +164,13 @@ In my future marketing courses, I will continue to use technology strategically,
 
 Different types of colleges and universities have distinct missions, student populations, and institutional goals that fundamentally shape what effective teaching means in those contexts. An R1 research university, a teaching-focused college, and a community college require different instructional priorities and course structures. Additionally, from my MKT 327 class survey, students arrive with different economic circumstances, work obligations, family responsibilities, and prior educational experiences.
 
-**Key Challenges**: Instructors often bring assumptions from their own educational experiences that may not apply to students from different backgrounds. Rigid and Rapid course (Summer, for example, my mkt327 class required student finish 4 months class with in 2 months) policies (mandatory attendance, strict deadlines without flexibility) can inadvertently disadvantage students from historically marginalized communities who disproportionately carry work and family responsibilities. Understanding institutional context requires recognizing how systemic inequities shape student experiences and adjusting teaching practices accordingly. As someone who has experienced education across multiple countries and institution types, I've learned that teaching approaches considered "standard" in one context may be inappropriate or ineffective in another.
+**Key Challenges**: Instructors often bring assumptions from their own educational experiences that may not apply to students from different backgrounds. Rigid and rapid course policies (mandatory attendance, strict deadlines without flexibility) can inadvertently disadvantage students from historically marginalized communities who disproportionately carry work and family responsibilities. Understanding institutional context requires recognizing how systemic inequities shape student experiences and adjusting teaching practices accordingly. As someone who has experienced education across multiple countries and institution types, I've learned that teaching approaches considered "standard" in one context may be inappropriate or ineffective in another.
 
 ### Artifact and Rationale
 
 - **CCTI Workshop: Understanding the University Context** - Participated in workshops discussing mission statements from different institutional types and how to align teaching practices with specific institutional goals and student populations.
+
+- **CCTI Workshop Documentation** - [View workshop participation materials for Competency 4](/files/CCTI/5_Competency_4.pdf)
 
 - **Teaching Philosophy Statement** - My philosophy reflects attention to different institutional contexts and student needs, available in my [Teaching Philosophy statement](/teaching/teaching-philosophy).
 
