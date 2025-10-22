@@ -1,5 +1,5 @@
 ---
-title: "CCT Certification ePortfolio"
+title: "CCT ePortfolio: Certification in College Teaching"
 collection: teaching
 type: "Professional Development Certification"
 permalink: /teaching/certification-college-teaching
@@ -15,11 +15,11 @@ excerpt: "Evidence-based marketing education certification demonstrating mastery
 
 ## My Certification Journey
 
-As a first-year PhD student in Marketing at Michigan State University, I successfully completed the comprehensive Certification in College Teaching (CCT) Institute program during Summer 2025. This rigorous certification required me to demonstrate mastery across five core teaching competencies through coursework, workshops, reflective practice, and an original mentored teaching project.
+As a first-year PhD student in Marketing at Michigan State University, I successfully completed the comprehensive Certification in College Teaching (CCT) program during Summer 2025. This rigorous certification required me to demonstrate mastery across five core teaching competencies through coursework, workshops, reflective practice, and an original mentored teaching project.
 
 ## Program Overview
 
-The Certification in College Teaching (CCT) Institute at Michigan State University is a comprehensive professional development program designed to enhance graduate students' and postdocs' teaching effectiveness. The certification requires demonstration of competency across five core teaching areas through coursework, workshops, reflective practice, and a mentored teaching project.
+The Certification in College Teaching (CCT) program at Michigan State University is a comprehensive professional development program designed to enhance graduate students' and postdocs' teaching effectiveness. The certification requires demonstration of competency across five core teaching areas through coursework, workshops, reflective practice, and a mentored teaching project.
 
 > "The University Graduate Certification in College Teaching (CCT) ... helps graduate students and postdocs organize, develop, and document their teaching experiences." **AND** "The Certification in College Teaching is the only formal program in the state of Michigan, and one of only a handful in the United States, that provides graduate students a comprehensive preparation for teaching at the college level."— The Graduate School, Michigan State University ([CCT Program](https://grad.msu.edu/CCTP))
 
@@ -28,6 +28,9 @@ The Certification in College Teaching (CCT) Institute at Michigan State Universi
 I successfully completed all required portfolio components, demonstrating my mastery of the five teaching competencies. My electronic portfolio includes:
 
 - **A completed copy of the Certification in College Teaching Portfolio Checklist** ✓ [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
+- - **CCTI Workshops**: Certification in College Teaching Institute workshop series participation ✓ [CCTI Workshop Documentation](/files/CCTI/4_Competency_2_and_3.pdf) ✓ [CCTI Workshop Documentation](/files/CCTI/5_Competency_4.pdf) ✓ [CCTI Workshop Documentation](/files/CCTI/7_Competency_5.pdf)
+- **CEP 820: Teaching and Learning Online Course Completion** with a 4.0 GPA ✓ [CEP 820 Course Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
+- **A Mentored Teaching Project** examining evidence-based assessment design ✓ [Mentored Teaching Project Summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) ✓ [Mentored Teaching Project Worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
 - **A Teaching Philosophy Statement** ✓ [Teaching Philosophy](/teaching/teaching-philosophy)
 - **Evidence of Development** on each of the five teaching competencies ✓
 
