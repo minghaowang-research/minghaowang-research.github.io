@@ -24,7 +24,7 @@ Designed and delivered comprehensive online marketing course with focus on evide
 
 ## Professional Development in Teaching
 
-**[CCTI: Certification in College Teaching Institute]({{ base_path }}/teaching/certification-college-teaching)**  
+**[CCT Certification ePortfolio]({{ base_path }}/teaching/certification-college-teaching)**  
 Professional Development Certification, *Michigan State University*, 2025  
 Comprehensive certification demonstrating mastery across five core teaching competencies through coursework, workshops, and mentored teaching project.
 

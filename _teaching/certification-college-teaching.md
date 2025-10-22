@@ -1,5 +1,5 @@
 ---
-title: "CCTI: Certification in College Teaching Institute"
+title: "CCT Certification ePortfolio"
 collection: teaching
 type: "Professional Development Certification"
 permalink: /teaching/certification-college-teaching
