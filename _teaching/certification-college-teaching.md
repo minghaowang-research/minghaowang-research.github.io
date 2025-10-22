@@ -27,12 +27,45 @@ The Certification in College Teaching (CCT) program at Michigan State University
 
 I successfully completed all required portfolio components, demonstrating my mastery of the five teaching competencies. My electronic portfolio includes:
 
-- **A completed copy of the Certification in College Teaching Portfolio Checklist** ✓ [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
-- **CCTI Workshops**: Certification in College Teaching Institute workshop series participation ✓ [CCTI Workshop Documentation 1](/files/CCTI/4_Competency_2_and_3.pdf) ✓ [CCTI Workshop Documentation 2](/files/CCTI/5_Competency_4.pdf) ✓ [CCTI Workshop Documentation 3](/files/CCTI/7_Competency_5.pdf)
-- **CEP 820: Teaching and Learning Online Course Completion** with a 4.0 GPA ✓ [CEP 820 Course Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
-- **A Mentored Teaching Project** examining evidence-based assessment design ✓ [Mentored Teaching Project Summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) ✓ [Mentored Teaching Project Worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
-- **A Teaching Philosophy Statement** ✓ [Teaching Philosophy](/teaching/teaching-philosophy)
-- **Evidence of Development** on each of the five teaching competencies ✓
+### Core Certification Requirements
+
+- **Program Registration**  
+  ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
+
+- **Portfolio Checklist**  
+  ✓ [Completed CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
+
+- **Teaching Philosophy Statement**  
+  ✓ [Teaching Philosophy](/teaching/teaching-philosophy)
+
+- **Graduate Coursework**  
+  ✓ [CEP 820: Teaching and Learning Online (4.0 GPA)](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
+
+- **Mentored Teaching Project**  
+  ✓ [Project Summary & Findings](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf)  
+  ✓ [Complete Project Worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)  
+  ✓ [Faculty Approval Document](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf) (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)
+
+- **Evidence of Development on Five Teaching Competencies** ✓
+  - Core Competency 1: [Developing Discipline-Related Teaching Strategies](#core-competency-1-developing-discipline-related-teaching-strategies)
+  - Core Competency 2: [Creating Effective and Inclusive Learning Environments](#core-competency-2-creating-effective-and-inclusive-learning-environments)
+  - Core Competency 3: [Incorporating Technology Into Your Teaching](#core-competency-3-incorporating-technology-into-your-teaching)
+  - Core Competency 4: [Understanding the University Context](#core-competency-4-understanding-the-university-context)
+  - Core Competency 5: [Assessing Student Learning](#core-competency-5-assessing-student-learning)
+
+### Recognition & Professional Development
+
+- **COLA Showcase Selection**  
+  Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students.  
+  ✓ [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.pdf)
+
+- **COLA Fellowship Completion**  
+  Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices.  
+  ✓ [View COLA Fellowship](/teaching/2025-summer-cola)
+
+- **Teaching Experience**  
+  ✓ [MKT 327: Introduction to Marketing (Student Rating: 4.33/5)](/teaching/2025-summer-marketing-327)
+  
 
 ---
 
@@ -329,7 +362,7 @@ This commitment to assessment-driven teaching will make me a more effective inst
 
 ---
 
-## Progress Tracking
+## More Supporting Documentations
 
 ### Program Registration
 **Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
@@ -338,8 +371,6 @@ This commitment to assessment-driven teaching will make me a more effective inst
 **COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.pdf)
 
 **COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
-
-### More Supporting Documentation
 
 Additional supporting materials for each competency are available:
 - Competency-specific artifacts and course materials (available upon request)
