@@ -46,12 +46,7 @@ I successfully completed all required portfolio components, demonstrating my mas
   ✓ [Complete Project Worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)  
   ✓ [Faculty Approval Document](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf) (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)
 
-- **Evidence of Development on Five Teaching Competencies** ✓
-  - Core Competency 1: [Developing Discipline-Related Teaching Strategies](#core-competency-1-developing-discipline-related-teaching-strategies)
-  - Core Competency 2: [Creating Effective and Inclusive Learning Environments](#core-competency-2-creating-effective-and-inclusive-learning-environments)
-  - Core Competency 3: [Incorporating Technology Into Your Teaching](#core-competency-3-incorporating-technology-into-your-teaching)
-  - Core Competency 4: [Understanding the University Context](#core-competency-4-understanding-the-university-context)
-  - Core Competency 5: [Assessing Student Learning](#core-competency-5-assessing-student-learning)
+- **Evidence of Development on Five Teaching Competencies** ✓ (detailed below)
 
 ### Recognition & Professional Development
 
@@ -65,7 +60,7 @@ I successfully completed all required portfolio components, demonstrating my mas
 
 - **Teaching Experience**  
   ✓ [MKT 327: Introduction to Marketing (Student Rating: 4.33/5)](/teaching/2025-summer-marketing-327)
-  
+
 
 ---
 
@@ -359,20 +354,3 @@ In my future teaching, I will continue to prioritize assessment excellence. This
 This commitment to assessment-driven teaching will make me a more effective instructor regardless of institutional context or discipline specialization. The systematic approach to understanding student learning—collecting evidence, analyzing patterns, revising practices—mirrors the scientific method and makes teaching itself a form of scholarly inquiry. My experience conducting pre-mid survey analysis demonstrates that I treat teaching with the same methodological care I apply to my marketing research, continuously testing assumptions and refining practices based on empirical evidence.
 
 </details>
-
----
-
-## More Supporting Documentations
-
-### Program Registration
-**Registration Confirmed:** ✓ [CCT Institute 2025 Receipt](/files/CCTI/1_CCT_Institute_2025_Receipt.pdf)
-
-### Recognition & Showcase
-**COLA Showcase Selection:** Selected by Dr. Caitlin Kirby (Associate Director of Research & Interim Co-Director, COLA) to showcase completed work as an exemplar for future students. [Email Confirmation](/files/CCTI/9_Re_Sharing_your_professional_website.pdf)
-
-**COLA Fellowship Completion:** Successfully completed the Colleges' Online Learning Academy Fellowship concurrent with CCT certification, demonstrating excellence in digital teaching practices. [View COLA Fellowship](/teaching/2025-summer-cola)
-
-Additional supporting materials for each competency are available:
-- Competency-specific artifacts and course materials (available upon request)
-- [MKT 327: Introduction to Marketing (4.33/5)](/teaching/2025-summer-marketing-327)
-- [Signed Mentored Teaching Project Approval Document (signed by Dr. Min Zhuang, Dr. Natalie Vandepol, and Dr. Forrest Morgeson)](/files/CCTI/7_Competency_5_Mentored_Teaching_Project_Document_Graduate_Student_Minghao.pdf)

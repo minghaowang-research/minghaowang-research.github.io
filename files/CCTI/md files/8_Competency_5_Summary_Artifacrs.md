@@ -17,18 +17,27 @@ This competency requires designing and implementing systematic inquiry into teac
 Sample: 50 students who completed both pre-course (Week 1) and mid-course (Week 4) surveys
 Design: Matched-student repeated measures with comprehensive outcome assessment
 
-## Research Question
+## Research Question and Expectations
 
-## Primary Question:
+### Primary Research Question
 
-"How does participation in collaborative marketing case studies affect students' marketing concept familiarity, analytical confidence, and collaborative skills development over a 6-week intensive course?"
+"How does participation in collaborative marketing case studies affect students' self-reported marketing concept familiarity, analytical confidence, and collaborative skills development over a 6-week intensive course?"
 
-## Specific Research Questions:
+### What I Expected to Find
 
-1. Do students show significant improvement in marketing concept familiarity from Week 1 to Week 4?
-2. How do students' initial contribution expectations compare to their actual contribution patterns?
-3. What are the perceived benefits and challenges of collaborative case study learning?
-4. How does collaborative learning impact students' confidence in analyzing marketing cases?
+By Week 1, I had already formed expectations based on my observations and prior research on collaborative learning:
+
+**Expected Outcome 1: Improved Self-Reported Familiarity**  
+I expected students would report significant improvement in their marketing concept familiarity from Week 1 to Week 4. The initial survey responses showed most students felt not very familiar with marketing concepts, leaving substantial room for growth through collaborative case analysis.
+
+**Expected Outcome 2: Contribution Pattern Adjustment**  
+I anticipated students would initially overestimate their contributions relative to groupmates—a common pattern in group work. After actual collaborative experience, I expected they'd adjust toward more realistic self-assessments of contributing "about equally."
+
+**Expected Outcome 3: Benefits and Challenges Coexisting**  
+I expected students would identify both logistical challenges (scheduling, communication) and learning benefits (diverse perspectives, knowledge sharing, error detection).
+
+**Expected Outcome 4: Widespread Confidence Growth**  
+I predicted most students would report increased confidence in analyzing marketing cases after collaborative work.
 
 ## Pedagogical Context
 

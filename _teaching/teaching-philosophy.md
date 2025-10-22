@@ -20,6 +20,18 @@ Before entering my doctoral program, I worked in procurement and data analysis a
 
 This summer, I taught MKT 327 (Introduction to Marketing) for the first time. My class was completely asynchronous (July 1 - Aug 15, 2025), serving third-year college students who juggle coursework with jobs and other responsibilities. This teaching opportunity represented a new chapter in my professional development, and taking CEP 820 alongside teaching helped me apply what I was learning immediately.
 
+## Why I Teach Marketing
+
+I teach marketing because I genuinely find it fascinating how marketing sits at the intersection of everything I've studied—psychology explains how people make decisions, supply chain shows how businesses actually operate, and data analysis reveals what's really happening versus what we assume. When I can show students these connections, that's when teaching feels most meaningful.
+
+What really drives me is seeing students realize that marketing isn't just advertising or manipulation. It's systematic problem-solving. When a student analyzes why their favorite brand succeeded or failed, or suddenly recognizes a persuasion technique they encounter daily on social media, that "aha moment" is why I do this. They're not just memorizing frameworks—they're developing a new way of seeing the world around them!!!
+
+I also teach because I remember what it felt like to navigate unfamiliar educational systems. Moving between China, the UK, and the US taught me that what seems "obvious" in one context can be completely confusing in another. Some students in my MKT 327 class were working multiple jobs, some were first-generation college students, some were international students like I was. If my teaching can make marketing education more accessible to students who might otherwise feel overwhelmed, that matters to me.
+
+There's a practical side too. My research training taught me to trust data over intuition, and that applies to teaching. When I designed my mentored teaching project to test whether collaborative learning actually works, I wasn't just checking a box. That's what motivates me: constantly asking "Is this actually helping students learn?" and being willing to change my approach based on the answer.
+
+Ultimately, I teach because marketing education prepares students for more than just marketing careers. Understanding how segmentation works helps them analyze data. Recognizing positioning strategies makes them more critical consumers. These skills transfer to whatever path students choose, and that's what makes teaching marketing worthwhile.
+
 ## My Course Design: Guided by Evidence and Student Voices
 
 My manifesto guides how I approach online course design and student interaction. Drawing from my experiences at MSU, CWRU, and the University of Kent(UK), I understand that different educational environments create different learning experiences. I am committed to continuous improvement through evidence-based teaching practices. Just as I use data to understand market trends, I use student feedback and learning analytics to refine my teaching methods.
