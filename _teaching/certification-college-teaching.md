@@ -28,7 +28,7 @@ The Certification in College Teaching (CCT) program at Michigan State University
 I successfully completed all required portfolio components, demonstrating my mastery of the five teaching competencies. My electronic portfolio includes:
 
 - **A completed copy of the Certification in College Teaching Portfolio Checklist** ✓ [CCT Portfolio Checklist](/files/CCTI/2_CCT_Portfolio_Checklist_Minghao_Wang.pdf)
-- **CCTI Workshops**: Certification in College Teaching Institute workshop series participation ✓ [CCTI Workshop Documentation](/files/CCTI/4_Competency_2_and_3.pdf) ✓ [CCTI Workshop Documentation](/files/CCTI/5_Competency_4.pdf) ✓ [CCTI Workshop Documentation](/files/CCTI/7_Competency_5.pdf)
+- **CCTI Workshops**: Certification in College Teaching Institute workshop series participation ✓ [CCTI Workshop Documentation 1](/files/CCTI/4_Competency_2_and_3.pdf) ✓ [CCTI Workshop Documentation 2](/files/CCTI/5_Competency_4.pdf) ✓ [CCTI Workshop Documentation 3](/files/CCTI/7_Competency_5.pdf)
 - **CEP 820: Teaching and Learning Online Course Completion** with a 4.0 GPA ✓ [CEP 820 Course Documentation](/files/CCTI/3_Competency_1_CEP_820_4_0.pdf)
 - **A Mentored Teaching Project** examining evidence-based assessment design ✓ [Mentored Teaching Project Summary](/files/CCTI/8_Competency_5_Summary_Artifacrs.pdf) ✓ [Mentored Teaching Project Worksheet](/files/CCTI/6_Competency_5_Mentored_Project_Worksheet_Minghao.pdf)
 - **A Teaching Philosophy Statement** ✓ [Teaching Philosophy](/teaching/teaching-philosophy)
