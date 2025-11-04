@@ -9,13 +9,15 @@ author_profile: true
 
 ## Working Papers
 
-- **"The Impact of Top Management Team Marketing Experience on Born-Global Firms"** (2025).
+- "The Impact of Top Management Team Marketing Experience on Born-Global Firms" (2025).
 
-- **"Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans"** (2025) with Dr. Hang Nguyen and Dr. Ju-Yeon Lee. *Under review*.
+- "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans" (2025) with Dr. Hang Nguyen and Dr. Ju-Yeon Lee. *Under review*.
 
 ## Conference Presentations and Invited Talks
 
-- Wang, Minghao*, **"The Impact of Top Management Team Marketing Experience on Born-Global Firms"**. *2025 AMA Summer Academic Conference* – Poster, Chicago, IL, USA.
+- Hang, Nguyen, Lee, Ju-Yeon, & **Wang, Minghao**. "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans". Special Session, 2026 AMA Winter Academic Conference - Madrid, Spain.
+
+- **Wang, Minghao**, "The Impact of Top Management Team Marketing Experience on Born-Global Firms". Poster, 2025 AMA Summer Academic Conference – Chicago, IL, USA.
 
 ## Professional Service
 
