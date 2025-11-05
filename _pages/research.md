@@ -15,9 +15,9 @@ author_profile: true
 
 ## Conference Presentations and Invited Talks
 
-- Hang, Nguyen, Lee, Ju-Yeon, & **Wang, Minghao**. "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans". Special Session, *2026 AMA Winter Academic Conference* - Madrid, Spain.
+- Hang Nguyen, Ju-Yeon Lee, & **Minghao Wang**. "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans". Special Session, *2026 AMA Winter Academic Conference* - Madrid, Spain.
 
-- **Wang, Minghao**, "The Impact of Top Management Team Marketing Experience on Born-Global Firms". Poster, *2025 AMA Summer Academic Conference* – Chicago, IL, USA.
+- **Minghao Wang**, "The Impact of Top Management Team Marketing Experience on Born-Global Firms". Poster, *2025 AMA Summer Academic Conference* – Chicago, IL, USA.
 
 ## Professional Service
 
