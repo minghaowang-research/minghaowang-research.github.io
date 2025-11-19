@@ -11,7 +11,7 @@ excerpt: "Evidence-based marketing education certification demonstrating mastery
 
 <!-- excerpt-end -->
 
-**Certification Status:** Awaiting Final Review
+**Certification Status:** Completed November 2025.
 
 ## My Certification Journey
 
