@@ -11,7 +11,7 @@ excerpt: "Evidence-based marketing education certification demonstrating mastery
 
 <!-- excerpt-end -->
 
-**Certification Status:** Completed November 2025.
+**Certification Status:** Completed December 2025. [View Certificate](/files/CCTI/MSU_CCT_Certification_2025.pdf)
 
 ## My Certification Journey
 

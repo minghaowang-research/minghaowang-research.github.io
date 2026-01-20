@@ -22,10 +22,13 @@ His research interests span marketing strategy, policy, customer satisfaction, m
 * **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
 
 ## Awards & Fellowships
-* **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
 * **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
 * **MSU Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
 * **Broad College of Business Doctoral Fellowship**, Michigan State University, 2024-2029
+
+## Certifications & Professional Development
+* **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
+* **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
 
 
 [View my full CV](/files/Minghao-Wang-PhD-CV.pdf)
