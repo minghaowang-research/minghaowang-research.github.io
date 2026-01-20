@@ -9,9 +9,11 @@ author_profile: true
 
 ## Working Papers
 
-- **Wang, Minghao** (2025), "The Impact of Top Management Team Marketing Experience on Born-Global Firms."
+- **Wang, Minghao**, Hang Nguyen, Forrest V. Morgeson III (2026), "Privacy Regulation's Unintended Consequences: Evidence from California Consumer Privacy Act"
 
 - Nguyen, Hang, Ju-Yeon Lee, and **Minghao Wang** (2025), "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans." *Under review*.
+
+- **Wang, Minghao**, Ahmet Kirca (2025), "The Impact of Top Management Team Marketing Experience on Born-Global Firms."
 
 ## Conference Presentations and Invited Talks
 
