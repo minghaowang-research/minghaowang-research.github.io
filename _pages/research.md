@@ -21,7 +21,7 @@ author_profile: true
 
 - **Wang, Minghao** (2025), "The Impact of Top Management Team Marketing Experience on Born-Global Firms." Poster, *2025 AMA Summer Academic Conference*, Chicago, IL, USA.
 
-## Doctoral Symposia & Pre-Conferences
+## Doctoral Symposium & Pre-Conferences
 
 - Discussant, *Mittelstaedt & Gentry Doctoral Symposium*, University of Nebraska–Lincoln, College of Business, Lincoln, NE, USA, April 2–4, 2026.
 
