@@ -22,6 +22,7 @@ His research interests span marketing strategy, policy, customer satisfaction, m
 * **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
 
 ## Awards & Fellowships
+* **Mittelstaedt & Gentry Doctoral Symposium Fellow**, University of Nebraska-Lincoln, discussant, 2026
 * **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
 * **MSU Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
 * **Broad College of Business Doctoral Fellowship**, Michigan State University, 2024-2029
