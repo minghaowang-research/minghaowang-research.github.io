@@ -11,7 +11,7 @@ Minghao Wang is a second-year doctoral student (started in Fall 2024) in the Dep
 He brings a unique combination of academic credentials, having completed multiple degrees from top-ranked programs including an MS in Marketing Research from Michigan State University, an MS in Management Business Analytics and Intelligence from Case Western Reserve University, and prior degrees in Psychology and Supply Chain Management with economic minor from Michigan State University. 
 
 ## Research Interests
-His research interests span marketing strategy, policy, customer satisfaction, modeling, and data-driven marketing decisions.
+His research interests span marketing strategy, digital marketing, policy, and data-driven decision-making.
 
 ## Education
 * **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
@@ -27,7 +27,7 @@ His research interests span marketing strategy, policy, customer satisfaction, m
 * **Broad College of Business Doctoral Fellowship**, Michigan State University, 2024-2029
 
 ## Certifications & Professional Development
-* **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, Atlanta, GA, May 2026
+* **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center,May 2026
 * **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
 * **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
 
