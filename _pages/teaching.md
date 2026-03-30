@@ -36,6 +36,9 @@ Presented research on evidence-based assessment design and collaborative learnin
 Advanced coursework in educational psychology and learning theory, developing evidence-based teaching frameworks and technology integration strategies.
 
 ---
+## Certifications & Workshops in Teaching
+* **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, Atlanta, GA, May 2026
+* **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
 
 ## Technical Skills for Teaching
 

@@ -27,8 +27,8 @@ His research interests span marketing strategy, policy, customer satisfaction, m
 * **Broad College of Business Doctoral Fellowship**, Michigan State University, 2024-2029
 
 ## Certifications & Professional Development
-* **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
+* **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, Atlanta, GA, May 2026
 * **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
-
+* **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
 
 [View my full CV](/files/Minghao-Wang-PhD-CV.pdf)
