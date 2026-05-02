@@ -49,16 +49,18 @@ Jekyll site using collections. All content is Markdown with YAML front matter.
 
 **Collections** (defined in `_config.yml`):
 - `_teaching/` - course pages, teaching philosophy, certifications
-- `_publications/` - publication entries (mostly unused; research content lives in `_pages/research.md` instead)
-- `_talks/` - conference presentations (template defaults, not actively used)
-- `_portfolio/` - portfolio items (template defaults, not actively used)
+- Note: `_publications`, `_talks`, `_portfolio` collections are defined in `_config.yml` but their directories were removed (2026-05-02 cleanup). Recreate the directory if you need to use them.
 
 **Static files**:
 - `files/` - PDFs (CV, syllabi, CCTI portfolio documents)
 - `images/` - site images, favicons, profile photo
-- `appendix/` - HTML appendices for coursework (MKT 902/912)
 - `assets/css/` - stylesheets including academicons
 - `assets/js/` - bundled JS
+
+**Web appendices** (convention for future use):
+- When you need to host supplementary HTML/PDF for a paper or course, create `appendix/<project-name>/` and place files there.
+- URL pattern: `minghaowang-research.github.io/appendix/<project-name>/filename.htm`
+- This separates web-viewable appendices from downloadable documents in `files/`.
 
 **Theming**: `_sass/` contains SCSS. Theme variants in `_sass/theme/` (default, dark). Site theme set via `site_theme` in `_config.yml`.
 

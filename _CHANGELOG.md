@@ -25,3 +25,6 @@
 | 2026-05-02 | _FOLDER_MAP.md | updated | (none) | Cleaned version after template removal |
 | 2026-05-02 | files/CCTI/md files/ (14 .md files) | deleted | (none) | Markdown conversions of PDFs, not linked from site, PDFs kept |
 | 2026-05-02 | _pages/404.md | created | (none) | Custom 404 page |
+| 2026-05-02 | appendix/mkt-902-912-spring2025/ (7 files) | deleted | (none) | Not linked from site; recoverable from git history. appendix/ convention documented for future use. |
+| 2026-05-02 | CLAUDE.md | updated | (none) | Fixed Architecture section: removed deleted collections (_publications, _talks, _portfolio), removed appendix from static files, added web appendix convention |
+| 2026-05-02 | _FOLDER_MAP.md | updated | (none) | Removed appendix file listing, added appendix convention note, final state after all cleanup |

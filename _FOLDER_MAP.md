@@ -104,17 +104,12 @@ Last updated: 2026-05-02
 
 ---
 
-## appendix/mkt-902-912-spring2025/
+## appendix/ (convention - currently empty)
 
-| File | Purpose |
-|---|---|
-| 1-data-overview.htm | Data overview appendix |
-| 2-auth-risk-model.htm | Auth risk model appendix |
-| 3-investment-model.htm | Investment model appendix |
-| 4-causality-model.htm | Causality model appendix |
-| MKT-912-Analysis.htm | MKT 912 analysis appendix |
-| mkt-912-Data-Preparation-Documentation.pdf | Data prep documentation |
-| Blockchain-Verification-in-Luxury-Markets-Survey-Design-Qualtric.pdf | Survey design PDF |
+Not currently on disk. When needed, create `appendix/<project-name>/` for web-viewable supplementary content (HTML appendices, survey PDFs, etc.).
+URL pattern: `minghaowang-research.github.io/appendix/<project-name>/filename.htm`
+
+Previous content (mkt-902-912-spring2025, 7 files) removed 2026-05-02; recoverable from git history.
 
 ---
 
