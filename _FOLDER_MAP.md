@@ -33,6 +33,7 @@ Last updated: 2026-05-02
 | teaching.md | Teaching page - courses, philosophy, certifications |
 | cv.md | CV page with PDF download link |
 | travel.md | Photography & travel page (not in nav yet) |
+| 404.md | Custom 404 page |
 
 ---
 
@@ -65,7 +66,7 @@ Last updated: 2026-05-02
 | Minghao-Wang-PhD-CV.pdf | Current CV |
 | 2025-summer-mkt327-syllabus.pdf | MKT 327 syllabus |
 
-### files/CCTI/ (13 PDFs + 14 md notes)
+### files/CCTI/ (13 PDFs)
 
 | File | Purpose |
 |---|---|
@@ -82,7 +83,6 @@ Last updated: 2026-05-02
 | 10_TEACHING_PHILOSOPHY_STATEMENT_Minghao.pdf | Teaching philosophy PDF |
 | 11_US25-MKT-327-734_Pre.pdf | Pre-evaluation |
 | 12_US25-MKT-327-734_Mid.pdf | Mid-evaluation |
-| md files/ (14 .md files) | Markdown conversions of PDFs above + rubric + reference CCTP |
 
 ---
 

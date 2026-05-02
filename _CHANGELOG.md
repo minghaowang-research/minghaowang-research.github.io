@@ -23,3 +23,5 @@
 | 2026-05-02 | .github/ (4 files) | deleted | (none) | Template issue templates + scrape_talks workflow |
 | 2026-05-02 | CONTRIBUTING.md, README.md | deleted | (none) | Academic Pages template docs |
 | 2026-05-02 | _FOLDER_MAP.md | updated | (none) | Cleaned version after template removal |
+| 2026-05-02 | files/CCTI/md files/ (14 .md files) | deleted | (none) | Markdown conversions of PDFs, not linked from site, PDFs kept |
+| 2026-05-02 | _pages/404.md | created | (none) | Custom 404 page |
