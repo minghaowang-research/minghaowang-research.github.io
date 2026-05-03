@@ -28,10 +28,9 @@ Last updated: 2026-05-02
 
 | File | Purpose |
 |---|---|
-| about.md | Homepage (permalink: /) - biography, education, awards |
+| about.md | Homepage (permalink: /) - biography, education, awards, CV download link |
 | research.md | Research page - working papers, conferences, service |
 | teaching.md | Teaching page - courses, philosophy, certifications |
-| cv.md | CV page with PDF download link |
 | travel.md | Photography & travel page (not in nav yet) |
 | 404.md | Custom 404 page |
 
@@ -41,7 +40,8 @@ Last updated: 2026-05-02
 
 | File | Purpose |
 |---|---|
-| 2025-summer-marketing-327.md | MKT 327 course page |
+| 2025-summer-marketing-327.md | MKT 327 Summer 2025 course page |
+| 2026-summer-marketing-327.md | MKT 327 Summer 2026 course page |
 | 2025-summer-cep-820.md | CEP 820 course page |
 | 2025-summer-cola.md | COLA 2025 conference presentation |
 | certification-college-teaching.md | CCT ePortfolio page |
@@ -160,6 +160,23 @@ Template partials: analytics, author-profile, comments, footer, head, masthead, 
 | splash.html | Splash page |
 | talk.html | Talk page |
 | compress.html | HTML compression |
+
+---
+
+## _Archive/_pages/
+
+| File | Purpose |
+|---|---|
+| cv_2026-05-02_v1.md | Snapshot before graduation year fix |
+| cv_2026-05-02_v2.md | Final version before removal |
+| travel_2026-05-02_v1.md | Snapshot before country/park lists added |
+| teaching_2026-05-02_v1.md | Snapshot before 2026 MKT 327 added |
+
+## _Archive/_teaching/
+
+| File | Purpose |
+|---|---|
+| 2025-summer-marketing-327_2026-05-02_v1.md | Snapshot before rating moved from title to body |
 
 ---
 

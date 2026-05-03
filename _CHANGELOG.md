@@ -28,3 +28,15 @@
 | 2026-05-02 | appendix/mkt-902-912-spring2025/ (7 files) | deleted | (none) | Not linked from site; recoverable from git history. appendix/ convention documented for future use. |
 | 2026-05-02 | CLAUDE.md | updated | (none) | Fixed Architecture section: removed deleted collections (_publications, _talks, _portfolio), removed appendix from static files, added web appendix convention |
 | 2026-05-02 | _FOLDER_MAP.md | updated | (none) | Removed appendix file listing, added appendix convention note, final state after all cleanup |
+| 2026-05-02 | _pages/cv.md | edited | cv_2026-05-02_v1.md | Fixed M.S. Marketing Research graduation year: 2021 -> 2020 (matching about.md) |
+| 2026-05-02 | _pages/about.md | edited | (none) | Updated research interests to: marketing strategy, digital marketing, public policy, customer satisfaction, causal inference |
+| 2026-05-02 | _pages/cv.md | edited | (none) | Updated research interests to match about.md (replaced Modeling, Pricing with Marketing Strategy, Public Policy, Customer Satisfaction, Causal Inference) |
+| 2026-05-02 | files/Minghao-Wang-PhD-CV.pdf | replaced | (none) | Copied updated CV PDF from Dropbox source |
+| 2026-05-02 | _pages/cv.md | deleted | cv_2026-05-02_v2.md | Removed - homepage serves as CV, PDF link at bottom of about.md is sufficient |
+| 2026-05-02 | _pages/travel.md | edited | travel_2026-05-02_v1.md | Rewrote: added 49 countries/territories by region, 45 national parks by state, removed "coming soon" line, fixed "Cayman Islands" |
+| 2026-05-02 | _data/navigation.yml | edited | (none) | Added Travel to nav bar |
+| 2026-05-02 | _pages/about.md | edited | (none) | Fixed typo: missing space after comma in CIBER certification line |
+| 2026-05-02 | _Archive/mapchartSave__world_advanced__2026-05-02.txt | created | (none) | Mapchart save file with all 49 countries/territories, kept as record |
+| 2026-05-02 | _teaching/2025-summer-marketing-327.md | edited | 2025-summer-marketing-327_2026-05-02_v1.md | Moved rating from title to body, renamed title to include "(Summer 2025)" |
+| 2026-05-02 | _teaching/2026-summer-marketing-327.md | created | (none) | New page for Summer 2026 MKT 327 offering |
+| 2026-05-02 | _pages/teaching.md | edited | teaching_2026-05-02_v1.md | Added Summer 2026 MKT 327 entry, showed rating on 2025 entry |
