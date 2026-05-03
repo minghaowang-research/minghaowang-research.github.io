@@ -40,8 +40,7 @@ Last updated: 2026-05-02
 
 | File | Purpose |
 |---|---|
-| 2025-summer-marketing-327.md | MKT 327 Summer 2025 course page |
-| 2026-summer-marketing-327.md | MKT 327 Summer 2026 course page |
+| marketing-327.md | MKT 327 course page (all years) |
 | 2025-summer-cep-820.md | CEP 820 course page |
 | 2025-summer-cola.md | COLA 2025 conference presentation |
 | certification-college-teaching.md | CCT ePortfolio page |
@@ -177,6 +176,8 @@ Template partials: analytics, author-profile, comments, footer, head, masthead, 
 | File | Purpose |
 |---|---|
 | 2025-summer-marketing-327_2026-05-02_v1.md | Snapshot before rating moved from title to body |
+| 2025-summer-marketing-327_2026-05-02_v2.md | Final version before merge into marketing-327.md |
+| 2026-summer-marketing-327_2026-05-02_v1.md | Final version before merge into marketing-327.md |
 
 ---
 

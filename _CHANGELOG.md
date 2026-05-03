@@ -40,3 +40,7 @@
 | 2026-05-02 | _teaching/2025-summer-marketing-327.md | edited | 2025-summer-marketing-327_2026-05-02_v1.md | Moved rating from title to body, renamed title to include "(Summer 2025)" |
 | 2026-05-02 | _teaching/2026-summer-marketing-327.md | created | (none) | New page for Summer 2026 MKT 327 offering |
 | 2026-05-02 | _pages/teaching.md | edited | teaching_2026-05-02_v1.md | Added Summer 2026 MKT 327 entry, showed rating on 2025 entry |
+| 2026-05-02 | _teaching/marketing-327.md | created | (none) | Merged 2025 and 2026 MKT 327 into single page with year sections |
+| 2026-05-02 | _teaching/2025-summer-marketing-327.md | deleted | 2025-summer-marketing-327_2026-05-02_v2.md | Merged into marketing-327.md |
+| 2026-05-02 | _teaching/2026-summer-marketing-327.md | deleted | 2026-summer-marketing-327_2026-05-02_v1.md | Merged into marketing-327.md |
+| 2026-05-02 | _pages/teaching.md | edited | teaching_2026-05-02_v2.md | Updated listing to single MKT 327 link with (2025, 2026) |
