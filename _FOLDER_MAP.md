@@ -31,7 +31,7 @@ Last updated: 2026-05-02
 | about.md | Homepage (permalink: /) - biography, education, awards, CV download link |
 | research.md | Research page - working papers, conferences, service |
 | teaching.md | Teaching page - courses, philosophy, certifications |
-| travel.md | Photography & travel page (not in nav yet) |
+| travel.md | Photography & travel page |
 | 404.md | Custom 404 page |
 
 ---
@@ -53,7 +53,7 @@ Last updated: 2026-05-02
 
 | File | Purpose |
 |---|---|
-| navigation.yml | Top nav links (Research, Teaching) |
+| navigation.yml | Top nav links (Research, Teaching, Travel) |
 | ui-text.yml | UI string translations (theme file) |
 
 ---
@@ -170,6 +170,13 @@ Template partials: analytics, author-profile, comments, footer, head, masthead, 
 | cv_2026-05-02_v2.md | Final version before removal |
 | travel_2026-05-02_v1.md | Snapshot before country/park lists added |
 | teaching_2026-05-02_v1.md | Snapshot before 2026 MKT 327 added |
+| teaching_2026-05-02_v2.md | Snapshot before MKT 327 merge to single page |
+
+## _Archive/ (other)
+
+| File | Purpose |
+|---|---|
+| mapchartSave__world_advanced__2026-05-02.txt | Mapchart.net save file with 49 countries/territories |
 
 ## _Archive/_teaching/
 

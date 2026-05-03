@@ -44,3 +44,5 @@
 | 2026-05-02 | _teaching/2025-summer-marketing-327.md | deleted | 2025-summer-marketing-327_2026-05-02_v2.md | Merged into marketing-327.md |
 | 2026-05-02 | _teaching/2026-summer-marketing-327.md | deleted | 2026-summer-marketing-327_2026-05-02_v1.md | Merged into marketing-327.md |
 | 2026-05-02 | _pages/teaching.md | edited | teaching_2026-05-02_v2.md | Updated listing to single MKT 327 link with (2025, 2026) |
+| 2026-05-02 | _FOLDER_MAP.md | updated | (none) | Fixed stale descriptions: travel.md nav status, navigation.yml links; added missing archive entries (teaching_v2, mapchart file) |
+| 2026-05-02 | (note) | -- | -- | about.md and navigation.yml were edited this session without archiving first. Pre-edit states recoverable from git commit ab130d9. |
