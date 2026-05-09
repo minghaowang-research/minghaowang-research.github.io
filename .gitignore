@@ -14,3 +14,8 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Local-only project docs (never publish)
+CLAUDE.md
+_CHANGELOG.md
+_FOLDER_MAP.md
