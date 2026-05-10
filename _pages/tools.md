@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Small tools I built for personal use and for fun.
+
 ## Scholar Journal Highlighter
 
 A Chrome extension for business school researchers that highlights top-tier academic journals directly on Google Scholar search results and author profile pages.
