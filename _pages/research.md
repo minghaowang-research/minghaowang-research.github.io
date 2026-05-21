@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+description: "Working papers, conference presentations, and professional service by Minghao Wang. Topics include privacy regulation, platform disruption, and marketing strategy."
 permalink: /research/
 author_profile: true
 ---

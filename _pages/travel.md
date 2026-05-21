@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Photography & Travel"
+description: "Photography and travel experiences by Minghao Wang. 49 countries and territories visited, 45 US National Parks explored. Aurora, night sky, and landscape photography."
 permalink: /travel/
 author_profile: true
 ---

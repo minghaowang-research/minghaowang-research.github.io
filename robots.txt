@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://minghaowang-research.github.io/sitemap.xml

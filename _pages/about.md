@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Minghao Wang - PhD Student in Marketing"
+description: "Minghao Wang is a PhD student in Marketing at Michigan State University. Research interests include marketing strategy, digital marketing, public policy, customer satisfaction, and causal inference."
 author_profile: true
 redirect_from: 
   - /about/

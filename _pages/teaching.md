@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Teaching Philosophy"
+description: "Teaching philosophy and course information for Minghao Wang. Instructor for MKT 327 Introduction to Marketing at Michigan State University."
 permalink: /teaching/
 author_profile: true
 ---

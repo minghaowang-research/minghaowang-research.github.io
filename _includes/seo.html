@@ -48,7 +48,7 @@
   <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
 {% endif %}
 
-{% if page.excerpt %}
+{% if seo_description %}
   <meta property="og:description" name="description" content="{{ seo_description }}">
 {% endif %}
 
@@ -123,6 +123,69 @@
     }
   </script>
 {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
+      "url": {{ seo_url | jsonify }},
+      "description": {{ site.description | jsonify }}
+    },
+    {
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ seo_url | jsonify }},
+      "jobTitle": "PhD Student in Marketing",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Michigan State University"
+      },
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Broad College of Business, Michigan State University"
+      },
+      "alumniOf": [
+        {
+          "@type": "Organization",
+          "name": "Michigan State University"
+        },
+        {
+          "@type": "Organization",
+          "name": "Case Western Reserve University"
+        }
+      ]{% if site.author.orcid %},
+      "sameAs": [
+        {{ site.author.orcid | jsonify }}{% if site.author.linkedin %},
+        {{ site.author.linkedin | prepend: "https://www.linkedin.com/in/" | jsonify }}{% endif %}{% if site.author.uri %},
+        {{ site.author.uri | jsonify }}{% endif %}
+      ]{% endif %}
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "Research",
+      "url": "{{ seo_url }}/research/"
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "Teaching",
+      "url": "{{ seo_url }}/teaching/"
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "Tools",
+      "url": "{{ seo_url }}/tools/"
+    },
+    {
+      "@type": "SiteNavigationElement",
+      "name": "Travel",
+      "url": "{{ seo_url }}/travel/"
+    }
+  ]
+}
+</script>
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
