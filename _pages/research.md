@@ -32,4 +32,6 @@ author_profile: true
 
 ## Professional Service
 
+- Reviewer, International Conference on Information Systems (ICIS), Lisbon, Portugal, 2026.
+
 - Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, 2025.
