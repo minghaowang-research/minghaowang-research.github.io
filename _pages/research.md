@@ -14,8 +14,6 @@ author_profile: true
 
 - Nguyen, Hang, Ju-Yeon Lee, and **Minghao Wang** (2026), "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans." *Under review*.
 
-- **Wang, Minghao**, Ahmet Kirca (2026), "The Impact of Top Management Team Marketing Experience on Firm Multinationality"
-
 ## Conference Presentations and Invited Talks
 
 - **Wang, Minghao**, Hang Nguyen, Forrest V. Morgeson III (2026), "Privacy Regulation's Unintended Consequences: Evidence from California Consumer Privacy Act", Contributed Presentation, *2026 ISMS Marketing Science Academic Conference*, Carcavelos, Portugal
