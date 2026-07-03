@@ -15,18 +15,18 @@ excerpt: " "
 **Summer Session:** June 30 - August 14, 2026  
 **Students:** 94
 
-{% for post in site.teaching reversed %}
-  {% if post.categories contains 'course-communication-policy' %}
-**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**
-  {% endif %}
-{% endfor %}
-
 **[View Syllabus](https://minghaowang-research.github.io/files/2026-summer-mkt327-syllabus.pdf)**
 
 ## 2025
 **Summer Session:** July 1 - August 15, 2025  
 **Students:** 66  
 **Student Rating:** 4.33/5
+
+{% for post in site.teaching reversed %}
+  {% if post.categories contains 'course-communication-policy' %}
+**[{{ post.title }}]({{ base_path }}{{ post.permalink }})**
+  {% endif %}
+{% endfor %}
 
 **[View Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)**
 
