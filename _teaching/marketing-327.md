@@ -13,7 +13,7 @@ excerpt: " "
 
 ## 2026
 **Summer Session:** June 30 - August 14, 2026  
-**Students:** 94
+**Students:** 88
 
 **[View Syllabus](https://minghaowang-research.github.io/files/2026-summer-mkt327-syllabus.pdf)**
 
