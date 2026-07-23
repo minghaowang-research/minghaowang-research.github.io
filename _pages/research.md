@@ -32,8 +32,8 @@ author_profile: true
 
 ## Professional Service
 
-- Reviewer, American Marketing Association (AMA) Winter Academic Conference, New Orleans, LA, 2027.
+- Reviewer, American Marketing Association (AMA) Winter Academic Conference, New Orleans, LA, USA, 2027.
 
 - Reviewer, International Conference on Information Systems (ICIS), Lisbon, Portugal, 2026.
 
-- Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, 2025.
+- Reviewer, Society for Marketing Advances (SMA) Conference, Las Vegas, NV, USA, 2025.
