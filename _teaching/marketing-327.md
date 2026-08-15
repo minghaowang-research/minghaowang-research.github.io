@@ -13,16 +13,15 @@ excerpt: " "
 
 ## 2026
 **Summer Session:** June 30 - August 14, 2026  
-**Students:** 88  
-**Evaluation Responses:** 20/87 (22.99%)
+**Students:** 87  
+**Evaluation Response Rate:** 22.99% (20/87)
 
 **[View Syllabus](https://minghaowang-research.github.io/files/2026-summer-mkt327-syllabus.pdf)**
 
 ## 2025
 **Summer Session:** July 1 - August 15, 2025  
-**Students:** 66  
-**Student Rating:** 4.33/5  
-**Evaluation Responses:** 12/67 (17.91%)
+**Students:** 67  
+**Student Rating:** 4.33/5 (12 responses, 17.91% response rate)
 
 {% for post in site.teaching reversed %}
   {% if post.categories contains 'course-communication-policy' %}
