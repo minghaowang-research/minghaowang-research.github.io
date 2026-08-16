@@ -14,7 +14,7 @@ excerpt: " "
 ## 2026
 **Summer Session:** June 30 - August 14, 2026  
 **Students:** 87  
-**Student Rating:** N/A (20 responses, 22.99% response rate)
+**Student Rating:** 4.30/5 (20 responses, 22.99% response rate)
 
 **[View Syllabus](https://minghaowang-research.github.io/files/2026-summer-mkt327-syllabus.pdf)**
 
