@@ -17,6 +17,9 @@ Evidence-based marketing education that combines systematic assessment design wi
 
 ## Teaching Experience
 
+**[MKT 355: Entrepreneurial Marketing (Fall 2026)]({{ base_path }}/teaching/marketing-355)**  
+Teaching Assistant, *Michigan State University*
+
 **[MKT 327: Introduction to Marketing (2025, 2026)]({{ base_path }}/teaching/marketing-327)**  
 Online Course, *Michigan State University*
 
