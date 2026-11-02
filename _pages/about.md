@@ -14,6 +14,10 @@ He brings a unique combination of academic credentials, having completed multipl
 ## Research Interests
 His research interests span marketing strategy, digital marketing, public policy, customer satisfaction, and causal inference.
 
+## Recent Work
+
+{% include recent.html %}
+
 ## Education
 * **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
 * **Master of Science (M.S.) in Management Business Analytics and Intelligence**, Case Western Reserve University, 2023
@@ -31,5 +35,3 @@ His research interests span marketing strategy, digital marketing, public policy
 * **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, May 2026
 * **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
 * **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
-
-[View my full CV](/files/Minghao-Wang-PhD-CV.pdf)

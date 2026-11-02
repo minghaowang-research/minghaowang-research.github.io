@@ -59,7 +59,7 @@ I successfully completed all required portfolio components, demonstrating my mas
   ✓ [View COLA Fellowship](/teaching/2025-summer-cola)
 
 - **Teaching Experience**  
-  ✓ [MKT 327: Introduction to Marketing (Student Rating: 4.33/5)](/teaching/2025-summer-marketing-327)
+  ✓ [MKT 327: Introduction to Marketing (Student Rating: 4.33/5)](/teaching/marketing-327)
 
 
 ---

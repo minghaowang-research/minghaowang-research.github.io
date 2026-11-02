@@ -1,0 +1,12 @@
+{% for p in site.data.papers %}
+<div class="pub">
+  <span class="pub-tag">{{ p.status }}</span>
+  <h3 class="pub-title">{{ p.title }}</h3>
+  <p class="pub-authors">{{ p.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }} ({{ p.year }})</p>
+  {% if p.links and p.links.size > 0 %}
+  <ul class="pub-links">
+    {% for l in p.links %}<li><a class="btn" href="{{ l.url }}" target="_blank" rel="noopener">{{ l.label }}</a></li>{% endfor %}
+  </ul>
+  {% endif %}
+</div>
+{% endfor %}

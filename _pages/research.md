@@ -10,9 +10,7 @@ author_profile: true
 
 ## Working Papers
 
-- **Wang, Minghao**, Hang Nguyen, Forrest V. Morgeson III (2026), "Data Privacy Regulation, Constrained Promotional Targeting, and Consumer Retail Spending"
-
-- Nguyen, Hang, Ju-Yeon Lee, and **Minghao Wang** (2026), "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans." *Under review*.
+{% include papers.html %}
 
 ## Conference Presentations and Invited Talks
 

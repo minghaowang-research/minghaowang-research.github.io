@@ -13,8 +13,6 @@ author_profile: true
 **[Teaching Philosophy (Updated September 2025)]({{ base_path }}/teaching/teaching-philosophy)**  
 Evidence-based marketing education that combines systematic assessment design with inclusive collaborative learning to prepare students for data-driven marketing practice.
 
----
-
 ## Teaching Experience
 
 **[MKT 355: Entrepreneurial Marketing (Fall 2026)]({{ base_path }}/teaching/marketing-355)**  
@@ -22,8 +20,6 @@ Teaching Assistant, In Person, *Michigan State University*
 
 **[MKT 327: Introduction to Marketing (2025, 2026)]({{ base_path }}/teaching/marketing-327)**  
 Online Course, *Michigan State University*
-
----
 
 ## Professional Development in Teaching
 
@@ -38,7 +34,6 @@ Presented research on evidence-based assessment design and collaborative learnin
 **[CEP 820: Teaching and Learning Online (My Teaching Philosophy Manifesto)]({{ base_path }}/teaching/2025-summer-cep-820)**  
 Advanced coursework in educational psychology and learning theory, developing evidence-based teaching frameworks and technology integration strategies.
 
----
 ## Certifications & Workshops in Teaching
 * **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, Atlanta, GA, May 2026
 * **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025

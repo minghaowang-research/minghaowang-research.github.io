@@ -1,0 +1,12 @@
+main:
+  - title: "Research"
+    url: /research/
+    
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Tools"
+    url: /tools/
+
+  - title: "Travel"
+    url: /travel/

@@ -31,8 +31,6 @@ excerpt: " "
 
 **[View Syllabus](https://minghaowang-research.github.io/files/2025-summer-mkt327-syllabus.pdf)**
 
----
-
 ## Course Overview
 MKT 327: Introduction to Marketing provides a comprehensive foundation in marketing principles and practices. This course covers essential marketing concepts including buyer behavior, market segmentation, positioning, demand analysis, marketing information systems, pricing strategies, promotion, distribution channels, product policies, and ethical considerations in marketing.
 

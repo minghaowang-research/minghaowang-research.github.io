@@ -19,3 +19,9 @@ package-lock.json
 CLAUDE.md
 _CHANGELOG.md
 _FOLDER_MAP.md
+# Audit output (screenshots) from _tools/site.py
+_audit/
+
+# Private or machine-local
+.claude/
+_Archive/CLAUDE_*

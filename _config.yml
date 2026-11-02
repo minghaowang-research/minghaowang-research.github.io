@@ -159,6 +159,9 @@ include:
   - _pages
   - files
 exclude:
+  - CLAUDE.md
+  - README.md
+  - docker-compose.yaml
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -301,6 +304,7 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
   - jekyll-redirect-from
@@ -309,6 +313,7 @@ plugins:
 # Mimic GitHub Pages with --safe
 whitelist:
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
   - jekyll-redirect-from
