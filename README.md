@@ -24,7 +24,7 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | What you want to change | Edit this | Notes |
 |---|---|---|
 | Biography, research interests, education, awards, certifications | `_pages/about.md` | Homepage body. Markdown only. `## Heading` becomes a section label. The "Recent Work" section is `{% include recent.html %}` (first 3 entries of `papers.yml`). |
-| Name, tagline, hero links (email, MSU profile, LinkedIn) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar and ORCID buttons exist in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD); remove the comment markers to show them. Chinese name is hardcoded there too. |
+| Name, tagline, hero links (email, MSU profile, LinkedIn, GitHub) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar and ORCID buttons exist in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD); remove the comment markers to show them. Chinese name is hardcoded there too. |
 | Nav greeting words (top left, cycles every 2.4 s) | `_layouts/default.html`, the `words` list in the script at the bottom | Keep "Hello" first. |
 | Working papers (list with status and, when present, link buttons) | `_data/papers.yml` | One entry per paper. See section 4. |
 | Conference presentations, symposia, professional service | `_pages/research.md` | Markdown bullets. Working papers are NOT here; the page includes the cards from `papers.yml`. |
@@ -64,7 +64,7 @@ One stylesheet, `assets/css/site.css`, plain CSS, no build step. Everything hang
 | `--font-body` | Inter (Google Fonts) | everything |
 | `--font-serif` | Source Serif 4 (Google Fonts) | name in the hero, page titles, nav brand |
 
-Layout: one centered column, max width 860 px, sticky top nav. No sidebar.
+Layout: one centered column, max width 860 px, sticky top nav with small uppercase links (same style as the section labels). No sidebar.
 
 Components and how markdown maps to them:
 

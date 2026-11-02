@@ -1,0 +1,126 @@
+/* Site stylesheet. One file, plain CSS. Change --accent to move to a new school's color. */
+:root {
+  --bg: #faf9f6;                     /* warm ivory */
+  --surface: #ffffff;
+  --text: #1f1f1d;                   /* charcoal */
+  --muted: #5f5f58;                  /* 6.1:1 on ivory (WCAG AA) */
+  --faint: #73736b;                  /* 4.5:1 on ivory (WCAG AA), footer */
+  --line: rgba(20, 20, 15, 0.12);
+  --line-strong: rgba(20, 20, 15, 0.22);
+  --accent: #18453B;                 /* MSU Spartan green */
+  --accent-soft: rgba(24, 69, 59, 0.08);
+  --tag-bg: rgba(20, 20, 15, 0.05);
+  --radius: 6px;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-serif: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 64px; }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.wrap { max-width: 860px; margin: 0 auto; padding: 0 32px; }
+
+/* ---------- Top navigation ---------- */
+.topnav {
+  position: sticky; top: 0; z-index: 50;
+  background: rgba(251, 251, 249, 0.86);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--line);
+}
+.topnav .wrap { display: flex; align-items: center; justify-content: space-between; gap: 16px; height: 56px; }
+.brand { font-family: var(--font-serif); font-size: 19px; font-weight: 600; letter-spacing: -0.01em; color: var(--text); text-decoration: none; white-space: nowrap; }
+.brand span { display: inline-block; min-width: 5.5em; transition: opacity 0.3s ease; }
+.brand:hover { color: var(--accent); }
+.navlinks { display: flex; gap: 4px; margin: 0; padding: 0; list-style: none; }
+.navlinks a { display: block; padding: 6px 10px; border-radius: 6px; font-size: 14px; font-weight: 500; color: var(--muted); text-decoration: none; }
+.navlinks a:hover { color: var(--text); background: var(--tag-bg); }
+.navlinks a.active { color: var(--accent); font-weight: 600; }
+
+/* ---------- Home hero ---------- */
+.hero { display: grid; grid-template-columns: 1fr 132px; gap: 32px; align-items: center; padding: 56px 0 16px; }
+.hero h1 { font-family: var(--font-serif); font-size: 40px; font-weight: 500; letter-spacing: -0.02em; line-height: 1.15; margin: 0 0 6px; }
+.hero h1 .cjk { font-size: 0.7em; font-weight: 400; color: var(--muted); margin-left: 4px; }
+.hero .tagline { margin: 0 0 14px; color: var(--muted); }
+.hero .avatar { width: 132px; height: 132px; border-radius: 50%; object-fit: cover; border: 1px solid var(--line-strong); }
+.links { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.links a, .btn {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 5px 11px; border: 1px solid var(--line-strong); border-radius: 999px;
+  background: var(--surface); color: var(--text);
+  font-size: 13px; font-weight: 500; line-height: 1.4; text-decoration: none;
+}
+.links a:hover, .btn:hover { border-color: var(--accent); color: var(--accent); }
+.links svg { width: 14px; height: 14px; stroke: currentColor; fill: none; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+
+/* ---------- Page body ---------- */
+main { padding: 24px 0 72px; }
+.page-title { font-family: var(--font-serif); font-size: 34px; font-weight: 500; letter-spacing: -0.02em; line-height: 1.2; margin: 24px 0 12px; }
+.page-meta { color: var(--muted); font-size: 14px; margin: 0 0 20px; }
+.content h2 {
+  font-size: 12px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted);
+  margin: 52px 0 16px; padding-bottom: 10px; border-bottom: 1px solid var(--line);
+}
+.content > h2:first-child { margin-top: 20px; }
+.content h1 { font-family: var(--font-serif); font-size: 24px; font-weight: 500; letter-spacing: -0.01em; line-height: 1.3; margin: 8px 0 14px; }
+.content h3 { font-size: 17px; font-weight: 600; letter-spacing: -0.01em; margin: 24px 0 8px; }
+.content h4 { font-size: 15px; font-weight: 600; margin: 18px 0 6px; }
+.content p { margin: 0 0 14px; }
+.content ul, .content ol { padding-left: 22px; margin: 0 0 14px; }
+.content li { margin: 0 0 8px; }
+.content li > p { margin: 0 0 6px; }
+.content a { color: var(--text); text-decoration: underline; text-decoration-color: var(--line-strong); text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.content a:hover { color: var(--accent); text-decoration-color: var(--accent); }
+.content a.btn { color: var(--text); text-decoration: none; margin: 2px 6px 2px 0; }
+.content a.btn:hover { color: var(--accent); }
+.content hr { border: 0; border-top: 1px solid var(--line); margin: 32px 0; }
+.content img { max-width: 100%; height: auto; border-radius: 8px; }
+.content blockquote { margin: 0 0 14px; padding: 2px 0 2px 16px; border-left: 3px solid var(--line-strong); color: var(--muted); }
+.content table { width: 100%; border-collapse: collapse; font-size: 14.5px; margin: 0 0 18px; }
+.content th, .content td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.content th { font-weight: 600; border-bottom-color: var(--line-strong); }
+.content code { font-family: var(--font-mono); font-size: 0.9em; background: var(--tag-bg); padding: 1px 5px; border-radius: 4px; }
+.content pre { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; overflow-x: auto; font-size: 13.5px; }
+.content pre code { background: none; padding: 0; }
+.content details { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 18px; margin: 0 0 12px; }
+.content summary { cursor: pointer; font-weight: 600; }
+.content summary h2 { display: inline; font: inherit; letter-spacing: 0; text-transform: none; color: var(--text); border: 0; margin: 0; padding: 0; }
+.content details[open] summary { margin-bottom: 10px; }
+
+/* ---------- Working papers (research page): plain list, buttons appear when links exist ---------- */
+.content .papers { list-style: none; padding: 0; margin: 0 0 14px; }
+.content .pub { margin: 0 0 22px; }
+.content .pub-title { font-family: var(--font-serif); font-size: 19px; font-weight: 500; letter-spacing: -0.01em; line-height: 1.35; margin: 0 0 4px; }
+.pub-authors { font-size: 15px; color: var(--muted); margin: 0; }
+.pub-authors strong { color: var(--text); font-weight: 600; }
+.pub-status { font-style: italic; }
+.pub-links { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; padding: 0; list-style: none; }
+.content .pub-links a.btn { margin: 0; }
+
+/* ---------- Recent work (homepage) ---------- */
+.content .recent { list-style: none; padding: 0; }
+.content .recent li { margin: 0 0 10px; }
+.recent-meta { color: var(--muted); font-size: 14px; }
+
+/* ---------- Footer ---------- */
+.site-footer { border-top: 1px solid var(--line); padding: 20px 0 40px; font-size: 13px; color: var(--faint); }
+
+@media (max-width: 640px) {
+  .wrap { padding: 0 18px; }
+  .topnav .wrap { height: auto; flex-wrap: wrap; padding-top: 10px; padding-bottom: 8px; }
+  .navlinks { flex-wrap: wrap; }
+  .hero { grid-template-columns: 1fr; gap: 20px; padding-top: 28px; }
+  .hero .avatar { width: 96px; height: 96px; order: -1; }
+  .hero h1 { font-size: 32px; }
+  .page-title { font-size: 28px; }
+}
