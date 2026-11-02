@@ -26,7 +26,7 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | Biography, research interests, education, awards, certifications | `_pages/about.md` | Homepage body. Markdown only. `## Heading` becomes a section label. The "Recent Work" section is `{% include recent.html %}` (first 3 entries of `papers.yml`). |
 | Name, tagline, hero links (email, MSU profile, LinkedIn) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar and ORCID buttons exist in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD); remove the comment markers to show them. Chinese name is hardcoded there too. |
 | Nav greeting words (top left, cycles every 2.4 s) | `_layouts/default.html`, the `words` list in the script at the bottom | Keep "Hello" first. |
-| Working papers (cards with status tag and link buttons) | `_data/papers.yml` | One entry per paper. See section 4. |
+| Working papers (list with status and, when present, link buttons) | `_data/papers.yml` | One entry per paper. See section 4. |
 | Conference presentations, symposia, professional service | `_pages/research.md` | Markdown bullets. Working papers are NOT here; the page includes the cards from `papers.yml`. |
 | Teaching overview page | `_pages/teaching.md` | Links to course pages with years in parentheses. |
 | A course or teaching document | `_teaching/<slug>.md` | One page per course across all years (`## 2026`, `## 2025` sections). Front matter in section 4. |
@@ -73,7 +73,7 @@ Components and how markdown maps to them:
 - `### Heading` is a normal bold subheading (17 px).
 - `[text](url){: .btn}` is a pill button. Paper-card buttons use the same class.
 - `<details markdown="1"><summary>...</summary>` renders as a collapsible card (used on the CCT page).
-- Paper cards (`.pub`) are generated from `_data/papers.yml` by `_includes/papers.html`: outlined status tag, serif title (h3), authors with the owner's name in bold, optional buttons. `_includes/recent.html` shows the first three as a list on the homepage.
+- Working papers (`.pub`) are generated from `_data/papers.yml` by `_includes/papers.html`: serif title (h3), authors with the owner's name in bold, status in italics, and pill buttons only when `links` has entries. No box: the owner decided an empty card draws the eye for nothing; buttons appear by themselves once SSRN or DOI links exist. `_includes/recent.html` shows the first three the same way on the homepage.
 - Hero: name + Chinese name, tagline from `author.bio`, pill links with inline SVG icons, round photo.
 - Nav brand: a greeting that cycles through languages for three passes, then rests; off for visitors who prefer reduced motion. Links home. The only script besides Google Analytics; MathJax loads only on pages with `mathjax: true` in front matter.
 - Inline scripts: no `//` line comments. The `compress` layout joins all lines in production, so a `//` comment would swallow the rest of the script. Use `/* */`.
@@ -176,7 +176,7 @@ Run this before every push and whenever asked to "check" or "audit" the website.
 | Date | Decision | Why |
 |---|---|---|
 | 2026-11-02 | Replaced the Academic Pages / Minimal Mistakes theme with one hand-written stylesheet and three small layouts; markdown content untouched | The stock theme looked generic and fought every styling change. An agent can now restyle anything by editing one file. Inspired by a colleague's single-page site built with an agent in the loop. |
-| 2026-11-02 | Working papers moved from markdown bullets to `_data/papers.yml` | Cards with status tags and link buttons need structure; YAML keeps it editable without HTML. Other research lists stay markdown. |
+| 2026-11-02 | Working papers moved from markdown bullets to `_data/papers.yml`, rendered as a plain list (boxes tried and dropped the same day) | Link buttons need structure; YAML keeps it editable without HTML. Boxes without buttons looked empty; the list grows buttons on its own when links are added. Other research lists stay markdown. |
 | 2026-11-02 | Accent color is a single CSS variable, set to MSU green | Owner may move schools; the color changes in one line. |
 | 2026-11-02 | Repo stays in `~/Documents/Visual Studio Code/` (iCloud-synced Documents) | Moving it gains nothing: Documents is already iCloud; GitHub is the real backup. |
 | 2026-11-02 | Local build on Homebrew ruby@3.3, gems outside the repo | Ruby 4 fails to compile `json`/`racc`/`http_parser.rb` on Apple clang 16. GitHub Pages also runs Ruby 3.3. |

@@ -1,7 +1,7 @@
 {% include base_path %}
 <ul class="recent">
   {% for p in site.data.papers limit: 3 %}
-  <li><span class="pub-tag">{{ p.status }}</span>{{ p.title }} <span class="recent-meta">({{ p.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }}, {{ p.year }})</span></li>
+  <li>{{ p.title }} <span class="recent-meta">({{ p.authors | markdownify | remove: "<p>" | remove: "</p>" | strip }}, {{ p.year }}). <em>{{ p.status }}</em></span></li>
   {% endfor %}
 </ul>
 <p><a href="{{ base_path }}/research/">All research, talks, and service</a></p>
