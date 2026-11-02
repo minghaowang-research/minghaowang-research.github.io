@@ -1,5 +1,5 @@
 # Working papers shown as cards on /research/ (newest or most important first).
-# authors: markdown; bold your own name with **...**.
+# authors: markdown, natural order for everyone ("Minghao Wang, Hang Nguyen, and ..."); bold your own name with **...**.
 # status:  short tag above the title: "Working paper", "Under review", "R&R at <journal>", "Forthcoming at <journal>".
 # links:   list of {label, url}; keep [] until a link exists. Labels to use: SSRN, PDF, Slides, Web appendix.
 #          Example:
@@ -8,13 +8,13 @@
 #            - { label: "PDF",  url: "/files/privacy-regulation.pdf" }
 
 - title: "Data Privacy Regulation, Constrained Promotional Targeting, and Consumer Retail Spending"
-  authors: "**Wang, Minghao**, Hang Nguyen, Forrest V. Morgeson III"
+  authors: "**Minghao Wang**, Hang Nguyen, and Forrest V. Morgeson III"
   year: 2026
   status: "Working paper"
   links: []
 
 - title: "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans"
-  authors: "Nguyen, Hang, Ju-Yeon Lee, and **Minghao Wang**"
+  authors: "Hang Nguyen, Ju-Yeon Lee, and **Minghao Wang**"
   year: 2026
   status: "Under review"
   links: []

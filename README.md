@@ -86,7 +86,7 @@ Working paper (`_data/papers.yml`):
 
 ```yaml
 - title: "Paper Title"
-  authors: "**Wang, Minghao**, Coauthor One, Coauthor Two"   # markdown; bold the owner
+  authors: "**Minghao Wang**, Coauthor One, and Coauthor Two"   # natural order for everyone; bold the owner
   year: 2026
   status: "Under review"      # Working paper | Under review | R&R at <journal> | Forthcoming at <journal>
   links: []                   # or: [{ label: "SSRN", url: "https://ssrn.com/abstract=..." }, { label: "PDF", url: "/files/x.pdf" }]
@@ -95,7 +95,7 @@ Working paper (`_data/papers.yml`):
 Conference presentation (`_pages/research.md`):
 
 ```
-- **Wang, Minghao**, Coauthor (YYYY), "Title", Type, *Conference Name*, City, Country
+- **Minghao Wang**, Coauthor, and Coauthor (YYYY), "Title", Type, *Conference Name*, City, Country
 ```
 
 Course page (`_teaching/<slug>.md`), one page per course for all years:
@@ -124,7 +124,7 @@ The audit checks that each year in parentheses has a `## YYYY` section on the co
 
 Standalone teaching document (philosophy, policy): `layout: archive`, `permalink: /teaching/<slug>`, `categories: [<category>]`, `author_profile: true`.
 
-Owner's name in author lists is always bold. Research identity: marketing strategy, digital marketing, public policy, customer satisfaction, causal inference.
+Author names are in natural order everywhere on the site (First Last, with "and" before the last author); the inverted "Wang, Minghao" form stays in the CV. Owner's name in author lists is always bold. Research identity: marketing strategy, digital marketing, public policy, customer satisfaction, causal inference.
 
 ## 5. Local build, preview, audit
 
