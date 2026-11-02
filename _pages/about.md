@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Biography
-Minghao Wang is a second-year doctoral student (started in Fall 2024) in the Department of Marketing at Michigan State University's Broad College of Business. 
+Minghao Wang is a doctoral student (since Fall 2024) in the Department of Marketing at Michigan State University's Broad College of Business. 
 He brings a unique combination of academic credentials, having completed multiple degrees from top-ranked programs including an MS in Marketing Research from Michigan State University, an MS in Management Business Analytics and Intelligence from Case Western Reserve University, and prior degrees in Psychology and Supply Chain Management with economic minor from Michigan State University. He works with [Prof. Hang Nguyen](https://broad.msu.edu/profile/htnguyen/) and [Prof. Forrest V. Morgeson III](https://broad.msu.edu/profile/morgeso3/).
 
 ## Research Interests

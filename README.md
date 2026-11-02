@@ -150,7 +150,7 @@ Run this before every push and whenever asked to "check" or "audit" the website.
 1. `python3 _tools/site.py audit` passes (no BROKEN, no PROBLEM, no build warnings).
 2. Look at every screenshot in `_audit/` at both widths: nothing clipped or overlapping, hero intact, nav highlights the current page, section labels in order, paper cards render, no raw markdown or Liquid, footer present.
 3. Content cross-checks the script cannot do:
-   - `_pages/about.md` matches the current CV PDF (degrees, awards, certifications, expected graduation year).
+   - `_pages/about.md` matches the current CV PDF (degrees, awards, certifications, expected graduation year). Do not write a year count ("second-year"); it goes stale every August. Say "since Fall 2024".
    - Every working paper in `papers.yml` that has a conference presentation appears in `research.md` with the same title.
    - Counts in `_pages/travel.md` intro match the lists.
    - Years in `teaching.md` parentheses match the course pages (script checks this too).
