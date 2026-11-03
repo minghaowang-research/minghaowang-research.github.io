@@ -105,6 +105,9 @@ def check_consistency():
     for name in ("files/Minghao-Wang-PhD-CV.pdf", "images/profile.png", "assets/css/site.css"):
         if not (ROOT / name).is_file():
             problems.append(f"missing {name}")
+    for dup in ROOT.rglob("* 2.*"):                   # iCloud/Finder duplicates ("site 2.py") must never be committed
+        if ".git" not in dup.parts and "_Archive" not in dup.parts:
+            problems.append(f"duplicate file {dup.relative_to(ROOT)}: archive it, then delete it (iCloud sync copy)")
     for m in re.finditer(r'url:\s*"?([^"\s}]*)', (ROOT / "_data" / "papers.yml").read_text()):
         if not m.group(1):
             problems.append("papers.yml has a link with an empty url")

@@ -91,7 +91,7 @@ Components and how markdown maps to them:
 - `### Heading` is a normal bold subheading (17 px).
 - `[text](url){: .btn}` is a pill button. Paper link buttons use the same class.
 - `<details markdown="1"><summary>...</summary>` renders as a collapsible card (used on the CCT page).
-- Working papers (`.pub`) are generated from `_data/papers.yml` by `_includes/papers.html`: serif title (h3), authors with the owner's name in bold, status in italics, and pill buttons only when `links` has entries. No box: the owner decided an empty card draws the eye for nothing; buttons appear by themselves once SSRN or DOI links exist. `_includes/recent.html` shows the first three the same way on the homepage.
+- Working papers (`.pub`) are generated from `_data/papers.yml` by `_includes/papers.html`: serif title (h3), authors with the owner's name in bold, status in italics, and pill buttons only when `links` has entries. No box: the owner decided an empty card draws the eye for nothing; buttons appear by themselves once SSRN or DOI links exist. `_includes/recent.html` shows the first three the same way on the homepage (title 17 px, authors 15 px).
 - Hero: name + Chinese name, tagline from `author.bio`, pill links (Email, MSU Profile, LinkedIn, GitHub, CV) with inline SVG icons, round photo.
 - Nav brand: a greeting that cycles through languages for three passes, then rests; off for visitors who prefer reduced motion. Links home. The only script besides Google Analytics; MathJax loads only on pages with `mathjax: true` in front matter.
 - Inline scripts: no `//` line comments. The `compress` layout joins all lines in production, so a `//` comment would swallow the rest of the script. Use `/* */`.

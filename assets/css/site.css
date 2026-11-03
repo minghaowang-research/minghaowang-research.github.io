@@ -107,10 +107,8 @@ main { padding: 24px 0 72px; }
 .pub-links { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; padding: 0; list-style: none; }
 .content .pub-links a.btn { margin: 0; }
 
-/* ---------- Recent work (homepage) ---------- */
-.content .recent { list-style: none; padding: 0; }
-.content .recent li { margin: 0 0 10px; }
-.recent-meta { color: var(--muted); font-size: 14px; }
+/* ---------- Recent work (homepage): same list as the research page, slightly smaller title ---------- */
+.content .recent .pub-title { font-size: 17px; }
 
 /* ---------- Footer ---------- */
 .site-footer { border-top: 1px solid var(--line); padding: 20px 0 40px; font-size: 13px; color: var(--faint); }
