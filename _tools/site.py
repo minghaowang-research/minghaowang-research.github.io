@@ -106,7 +106,7 @@ def check_consistency():
         if not (ROOT / name).is_file():
             problems.append(f"missing {name}")
     for dup in ROOT.rglob("* 2.*"):                   # iCloud/Finder duplicates ("site 2.py") must never be committed
-        if ".git" not in dup.parts and "_Archive" not in dup.parts:
+        if not set(dup.parts) & {".git", "_Archive", "_audit", "_site", ".sass-cache"}:   # regenerated or archived folders are fine
             problems.append(f"duplicate file {dup.relative_to(ROOT)}: archive it, then delete it (iCloud sync copy)")
     for m in re.finditer(r'url:\s*"?([^"\s}]*)', (ROOT / "_data" / "papers.yml").read_text()):
         if not m.group(1):
