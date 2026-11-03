@@ -2,20 +2,37 @@
 
 Personal academic website of Minghao Wang (PhD student in Marketing, Michigan State University).
 Jekyll on GitHub Pages, custom single-column design (since 2026-11-02). This file is the operating
-manual for whoever maintains the site next, human or AI agent. Read it before changing anything.
+manual for whoever maintains the site next, human or AI agent (Claude, Codex, Copilot, anyone). Read it before
+changing anything. `AGENTS.md` is the short version that coding agents pick up automatically; this file is the full one.
+
+## 0. Quick start for a new agent or a new machine
+
+1. Clone the repo: `git clone https://github.com/minghaowang-research/minghaowang-research.github.io.git`.
+2. Read this README (sections 1, 2, 4, 6 at least) and `AGENTS.md`.
+3. If you will build locally: `brew install ruby@3.3` then `python3 _tools/site.py install` (section 5). Not required for text edits.
+4. Local trackers (`_CHANGELOG.md`, `_FOLDER_MAP.md`, `CLAUDE.md`) are gitignored and will not be in a fresh clone. Create
+   `_CHANGELOG.md` with the table header below and log from there; `git log` holds the older history.
+   ```
+   | Date | File | Action | Archive name | Note |
+   |---|---|---|---|---|
+   ```
+5. Three rules that never bend: push only when the owner says so; archive before replacing or deleting; run `check` or `audit` before every push.
 
 ## 1. How the site is maintained
 
 The loop is always the same:
 
-1. Edit content or design in this folder (the local git clone).
-2. `python3 _tools/site.py audit` builds the site, checks links and consistency, and screenshots every page into `_audit/`.
-3. Look at the screenshots. Fix what looks wrong. Repeat.
-4. Commit on `master` and push. GitHub Pages rebuilds within a minute or two.
-5. Check the live site once more (screenshot `https://minghaowang-research.github.io/`).
+1. Edit content or design in this folder (the local git clone). Section 2 says which file.
+2. Text-only edit (a paper, a date, a bullet): `python3 _tools/site.py check` (build, links, consistency; no screenshots).
+   Layout change or many pages: `python3 _tools/site.py audit` (the same plus screenshots of every page into `_audit/`), then look at the screenshots.
+3. Fix what is wrong. Repeat.
+4. Commit on `master` and push, after the owner's OK. GitHub Pages rebuilds within a minute or two.
+5. Look at the live page once (`https://minghaowang-research.github.io/` or the page you changed).
+
+The owner works online: no local preview unless they ask for one (`python3 _tools/site.py serve`).
 
 GitHub is the backup: every push is a full off-machine copy. Before any large change, tag the current
-state (`git tag pre-<change>-<date>`) and snapshot the files you will replace into `_Archive/` (see section 8).
+state (`git tag pre-<change>-<date>`), work on a branch, and snapshot the files you will replace into `_Archive/` (see section 8).
 
 Never push without the site owner's OK. Never delete a file without archiving it first.
 
@@ -25,9 +42,9 @@ Never push without the site owner's OK. Never delete a file without archiving it
 |---|---|---|
 | Biography, research interests, education, awards, certifications | `_pages/about.md` | Homepage body. Markdown only. `## Heading` becomes a section label. The "Recent Work" section is `{% include recent.html %}` (first 3 entries of `papers.yml`). |
 | Name, tagline, hero links (email, MSU profile, LinkedIn, GitHub) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar and ORCID buttons exist in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD); remove the comment markers to show them. Chinese name is hardcoded there too. |
-| Nav greeting words (top left, cycles every 2.4 s) | `_layouts/default.html`, the `words` list in the script at the bottom | Keep "Hello" first. |
+| Nav greeting words (top left, cycles every 2.4 s, 30 languages) | `_layouts/default.html`, the `words` list in the script at the bottom | Owner's order: Hello, 你好, Hola, 안녕하세요, こんにちは, Bonjour, then the rest. Keep "Hello" first. |
 | Working papers (list with status and, when present, link buttons) | `_data/papers.yml` | One entry per paper. See section 4. |
-| Conference presentations, symposia, professional service | `_pages/research.md` | Markdown bullets. Working papers are NOT here; the page includes the cards from `papers.yml`. |
+| Conference presentations, symposia, professional service | `_pages/research.md` | Markdown bullets. Working papers are NOT here; the page includes the list from `papers.yml`. |
 | Teaching overview page | `_pages/teaching.md` | Links to course pages with years in parentheses. |
 | A course or teaching document | `_teaching/<slug>.md` | One page per course across all years (`## 2026`, `## 2025` sections). Front matter in section 4. |
 | Tools and software | `_pages/tools.md` | Markdown. `[text](url){: .btn}` makes a pill button. |
@@ -38,12 +55,13 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | Web appendix for a paper | `appendix/<project>/` | Create on first use. URL `/appendix/<project>/<file>`. |
 | Colors, fonts, spacing, components | `assets/css/site.css` | The only stylesheet. Section 3. |
 | Page skeleton: nav, hero slot, footer, fonts | `_layouts/default.html` | Loads `site.css`, `_includes/seo.html`, `_includes/head/custom.html` (favicons, MathJax), `_includes/analytics.html`. |
-| Page body layouts | `_layouts/archive.html` (pages), `_layouts/single.html` (teaching pages, adds the type/venue/year line) | Both render `page-title` + `.content`. |
-| Hero, paper cards, recent list, footer | `_includes/hero.html`, `_includes/papers.html`, `_includes/recent.html`, `_includes/footer.html` | Footer is the copyright line only (owner wants it clean). `sitemap.xml` is generated by jekyll-sitemap and referenced from robots.txt. |
+| Page body layouts | `_layouts/archive.html` (pages), `_layouts/single.html` (teaching pages, adds the type and venue line) | Both render `page-title` + `.content`. |
+| Hero, paper list, recent list, footer | `_includes/hero.html`, `_includes/papers.html`, `_includes/recent.html`, `_includes/footer.html` | Footer is the copyright line only (owner wants it clean). `sitemap.xml` is generated by jekyll-sitemap and referenced from robots.txt. |
 | SEO meta, JSON-LD, Search Console tag | `_includes/seo.html`, `google_site_verification` in `_config.yml` | Never clear the verification value. |
 | Analytics | `_config.yml` `analytics:` (GA4) | |
 | Audit and build tool | `_tools/site.py` | Section 5. |
-| Trackers (local only, gitignored) | `CLAUDE.md`, `_CHANGELOG.md`, `_FOLDER_MAP.md` | Update after every change. |
+| Trackers (local only, gitignored) | `CLAUDE.md`, `_CHANGELOG.md`, `_FOLDER_MAP.md` | Update after every change. Absent in a fresh clone; see section 0. |
+| Agent instructions (committed) | `README.md` (this file), `AGENTS.md` (short version read automatically by Codex, Cursor, Copilot and similar) | Keep both in step. Claude Code reaches this README through the owner's `update-website` skill. |
 | Snapshots | `_Archive/` | Read-only history. `theme_2026-11-02_v1/` holds the old Academic Pages theme. |
 
 Theme leftovers that are no longer loaded by any page: `_sass/`, `assets/css/main.scss`, `assets/css/academicons*.css`,
@@ -71,10 +89,10 @@ Components and how markdown maps to them:
 - `# Page title` comes from front matter `title:` and renders as `.page-title` (serif, 34 px). The homepage shows the hero instead.
 - `## Heading` in content renders as a small uppercase section label with a rule under it. Do not put `---` right before a `##` (double rule). `# Heading` inside content is a serif subtitle (24 px); the page title comes from front matter.
 - `### Heading` is a normal bold subheading (17 px).
-- `[text](url){: .btn}` is a pill button. Paper-card buttons use the same class.
+- `[text](url){: .btn}` is a pill button. Paper link buttons use the same class.
 - `<details markdown="1"><summary>...</summary>` renders as a collapsible card (used on the CCT page).
 - Working papers (`.pub`) are generated from `_data/papers.yml` by `_includes/papers.html`: serif title (h3), authors with the owner's name in bold, status in italics, and pill buttons only when `links` has entries. No box: the owner decided an empty card draws the eye for nothing; buttons appear by themselves once SSRN or DOI links exist. `_includes/recent.html` shows the first three the same way on the homepage.
-- Hero: name + Chinese name, tagline from `author.bio`, pill links with inline SVG icons, round photo.
+- Hero: name + Chinese name, tagline from `author.bio`, pill links (Email, MSU Profile, LinkedIn, GitHub, CV) with inline SVG icons, round photo.
 - Nav brand: a greeting that cycles through languages for three passes, then rests; off for visitors who prefer reduced motion. Links home. The only script besides Google Analytics; MathJax loads only on pages with `mathjax: true` in front matter.
 - Inline scripts: no `//` line comments. The `compress` layout joins all lines in production, so a `//` comment would swallow the rest of the script. Use `/* */`.
 
@@ -162,7 +180,7 @@ Run this before every push and whenever asked to "check" or "audit" the website.
 ## 7. Deploy
 
 - Branch: `master` is the live branch. GitHub Pages builds automatically (Jekyll 3.10 with the `github-pages` gem). No Actions workflow.
-- The 2026-11-02 redesign was built on branch `redesign`; merge it into `master` (fast-forward) once the owner approves, then delete the branch.
+- Large changes (design, structure) go on a branch and are merged into `master` (fast-forward) once the owner approves the result; the branch is then deleted. The 2026-11-02 redesign was done this way.
 - `git add -A && git commit -m "<what changed>" && git push origin master`, only after the owner says push.
 - Verify: `gh api repos/minghaowang-research/minghaowang-research.github.io/pages/builds/latest --jq .status` should be `built`.
 
@@ -181,7 +199,9 @@ Run this before every push and whenever asked to "check" or "audit" the website.
 | 2026-11-02 | Accent color is a single CSS variable, set to MSU green | Owner may move schools; the color changes in one line. |
 | 2026-11-02 | Repo stays in `~/Documents/Visual Studio Code/` (iCloud-synced Documents) | Moving it gains nothing: Documents is already iCloud; GitHub is the real backup. |
 | 2026-11-02 | Local build on Homebrew ruby@3.3, gems outside the repo | Ruby 4 fails to compile `json`/`racc`/`http_parser.rb` on Apple clang 16. GitHub Pages also runs Ruby 3.3. |
-| 2026-11-02 | Nav brand is a cycling greeting instead of the name; hero shows Email, MSU Profile, LinkedIn, CV only | Owner liked the greeting on the colleague's site. Google Scholar and ORCID buttons stay in the template, switched off by the owner's choice. |
+| 2026-11-02 | Nav brand is a cycling greeting instead of the name; hero shows Email, MSU Profile, LinkedIn, GitHub, CV | Owner liked the greeting on the colleague's site. Google Scholar and ORCID buttons stay in the template, switched off by the owner's choice. |
 | 2026-11-02 | Green used sparingly: active nav, hover only; tags outlined; links charcoal | Owner asked for a high-end feel; luxury palettes are near-monochrome with the accent in small doses. |
 | 2026-11-02 | Footer is one copyright line; sitemap generated by jekyll-sitemap (static file removed) | Owner wants it clean; the old static sitemap was stale (8 URLs, May 2026). |
+| 2026-11-02 | Author names in natural order on the site (First Last, "and" before the last); inverted form only in the CV | Reads as prose, not as a reference list; consistent for every paper regardless of who is first author. |
+| 2026-11-02 | `check` (no screenshots) for text-only edits, `audit` for layout changes; no local preview by default | Owner works online and did not want Chrome windows for every small edit. The screenshot pass stays for anything that can break layout. |
 | 2026-11-02 | Audit = script checks + screenshots that the agent must look at | Build logs and link checks miss layout breakage; the screenshot step is what caught the clipped mobile view and the old theme's wasted sidebar. |

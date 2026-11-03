@@ -161,6 +161,7 @@ include:
 exclude:
   - CLAUDE.md
   - README.md
+  - AGENTS.md
   - docker-compose.yaml
   - "*.sublime-project"
   - "*.sublime-workspace"
