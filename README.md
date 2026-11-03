@@ -136,7 +136,8 @@ brew install ruby@3.3
 python3 _tools/site.py install     # once per machine
 python3 _tools/site.py build       # -> _site/
 python3 _tools/site.py serve       # http://localhost:4000, live reload
-python3 _tools/site.py audit       # build + checks + screenshots in _audit/ (gitignored)
+python3 _tools/site.py check       # build + link and consistency checks, no screenshots (text-only edits)
+python3 _tools/site.py audit       # the same plus screenshots in _audit/ (gitignored); after any layout change
 ```
 
 The audit exits 1 if the build logs a warning, an internal link is broken, or a consistency check fails. It also prints the
@@ -147,8 +148,8 @@ check uses 500 px. Screenshots capture a 4500 px tall window, not the full page;
 
 Run this before every push and whenever asked to "check" or "audit" the website.
 
-1. `python3 _tools/site.py audit` passes (no BROKEN, no PROBLEM, no build warnings).
-2. Look at every screenshot in `_audit/` at both widths: nothing clipped or overlapping, hero intact, nav highlights the current page, section labels in order, paper cards render, no raw markdown or Liquid, footer present.
+1. `python3 _tools/site.py audit` passes (no BROKEN, no PROBLEM, no build warnings). For a text-only edit (a paper, a date, a bullet) `check` is enough: same checks, no screenshots; look at the live page after the push instead.
+2. After layout changes, look at every screenshot in `_audit/` at both widths: nothing clipped or overlapping, hero intact, nav highlights the current page, section labels in order, paper cards render, no raw markdown or Liquid, footer present.
 3. Content cross-checks the script cannot do:
    - `_pages/about.md` matches the current CV PDF (degrees, awards, certifications, expected graduation year). Do not write a year count ("second-year"); it goes stale every August. Say "since Fall 2024".
    - Every working paper in `papers.yml` that has a conference presentation appears in `research.md` with the same title.

@@ -4,8 +4,10 @@
   python3 _tools/site.py install   one-time: bundler + gems on Homebrew ruby@3.3
   python3 _tools/site.py build     jekyll build -> _site/
   python3 _tools/site.py serve     live preview at http://localhost:4000
-  python3 _tools/site.py audit     build + internal link check + consistency checks
-                                   + screenshots of every page (1280 and 500 px) in _audit/
+  python3 _tools/site.py check     build + internal link check + consistency checks (no screenshots;
+                                   enough for text-only edits)
+  python3 _tools/site.py audit     the same plus screenshots of every page (1280 and 500 px) in _audit/
+                                   (use after any layout change)
 """
 import functools, html, http.server, os, pathlib, re, shutil, subprocess, sys, threading
 
@@ -155,10 +157,10 @@ def screenshots():
     return shots
 
 
-def audit():
+def audit(shots_wanted=True):
     ok = build()
     missing, problems = check_links(), check_consistency()
-    shots = screenshots()
+    shots = screenshots() if shots_wanted else []
     if shots is None:
         problems.append("Google Chrome not found, no screenshots taken; install Chrome or look at the site in a browser")
         shots = []
@@ -168,11 +170,13 @@ def audit():
         print(f"  BROKEN   {p} -> {h}")
     for p in problems:
         print(f"  PROBLEM  {p}")
-    print("\nNext: open every screenshot in _audit/ and look at it (clipping, overlap, empty sections, "
-          "raw markdown, nav highlight, hero, paper cards) before reporting.")
+    if shots_wanted:
+        print("\nNext: open every screenshot in _audit/ and look at it (clipping, overlap, empty sections, "
+              "raw markdown, nav highlight, hero, paper cards) before reporting.")
     sys.exit(0 if ok and not missing and not problems else 1)
 
 
 if __name__ == "__main__":
     cmd = sys.argv[1] if len(sys.argv) > 1 else "audit"
-    {"install": install, "build": build, "serve": serve, "audit": audit}.get(cmd, lambda: print(__doc__))()
+    {"install": install, "build": build, "serve": serve, "audit": audit,
+     "check": lambda: audit(False)}.get(cmd, lambda: print(__doc__))()
