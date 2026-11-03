@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Tools & Software"
+title: "Software"
 description: "Personal tools and software projects by Minghao Wang, including Scholar Journal Highlighter (Chrome extension) and MSU Menu Emailer."
 permalink: /tools/
 author_profile: true

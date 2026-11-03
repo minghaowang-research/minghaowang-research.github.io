@@ -41,7 +41,7 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | What you want to change | Edit this | Notes |
 |---|---|---|
 | Biography, research interests, education, awards, certifications | `_pages/about.md` | Homepage body. Markdown only. `## Heading` becomes a section label. The "Recent Work" section is `{% include recent.html %}` (first 3 entries of `papers.yml`). |
-| Name, tagline, hero links (email, MSU profile, LinkedIn, GitHub) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar and ORCID buttons exist in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD); remove the comment markers to show them. Chinese name is hardcoded there too. |
+| Name, tagline, hero links (email, MSU profile, LinkedIn, GitHub) | `_config.yml` under `author:` | The hero reads these fields; a blank field hides its button. CV button is fixed to `files/Minghao-Wang-PhD-CV.pdf`. Google Scholar button appears as soon as `googlescholar:` in `_config.yml` has a URL (blank today). ORCID button sits in `_includes/hero.html` inside a Liquid comment, switched off by the owner's choice (the ORCID in `_config.yml` still feeds the JSON-LD). Chinese name is hardcoded there too. |
 | Nav greeting words (top left, cycles every 2.4 s, 30 languages) | `_layouts/default.html`, the `words` list in the script at the bottom | Owner's order: Hello, 你好, Hola, 안녕하세요, こんにちは, Bonjour, then the rest. Keep "Hello" first. |
 | Working papers (list with status and, when present, link buttons) | `_data/papers.yml` | One entry per paper. See section 4. |
 | Conference presentations, symposia, professional service | `_pages/research.md` | Markdown bullets. Working papers are NOT here; the page includes the list from `papers.yml`. |
@@ -49,7 +49,7 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | A course or teaching document | `_teaching/<slug>.md` | One page per course across all years (`## 2026`, `## 2025` sections). Front matter in section 4. |
 | Tools and software | `_pages/tools.md` | Markdown. `[text](url){: .btn}` makes a pill button. |
 | Photography and travel | `_pages/travel.md` | Update the counts in the intro paragraph when lists change. |
-| Top navigation | `_data/navigation.yml` and the `SiteNavigationElement` list in `_includes/seo.html` | Both must match; the audit checks this. |
+| Top navigation | `_data/navigation.yml` and the `SiteNavigationElement` list in `_includes/seo.html` | Both must match; the audit checks this. Labels: Research, Teaching, Software (URL stays /tools/), Travel. |
 | CV PDF, syllabi, other downloads | `files/` | Keep file names stable; links point at them. |
 | Profile photo, favicons | `images/` | `profile.png` is the hero photo (`author.avatar` in `_config.yml`). |
 | Web appendix for a paper | `appendix/<project>/` | Create on first use. URL `/appendix/<project>/<file>`. |
@@ -106,7 +106,8 @@ Working paper (`_data/papers.yml`):
 - title: "Paper Title"
   authors: "**Minghao Wang**, Coauthor One, and Coauthor Two"   # natural order for everyone; bold the owner
   year: 2026
-  status: "Under review"      # Working paper | Under review | R&R at <journal> | Forthcoming at <journal>
+  status: "Under review"      # Working paper | Under review | R&R | Forthcoming (no journal names: owner's choice for now)
+  # abstract: "One paragraph."  # optional; shown behind an "Abstract" toggle when present
   links: []                   # or: [{ label: "SSRN", url: "https://ssrn.com/abstract=..." }, { label: "PDF", url: "/files/x.pdf" }]
 ```
 
@@ -142,7 +143,7 @@ The audit checks that each year in parentheses has a `## YYYY` section on the co
 
 Standalone teaching document (philosophy, policy): `layout: archive`, `permalink: /teaching/<slug>`, `categories: [<category>]`, `author_profile: true`.
 
-Author names are in natural order everywhere on the site (First Last, with "and" before the last author); the inverted "Wang, Minghao" form stays in the CV. Owner's name in author lists is always bold. Research identity: marketing strategy, digital marketing, public policy, customer satisfaction, causal inference.
+Author names are in natural order everywhere on the site (First Last, with "and" before the last author); the inverted "Wang, Minghao" form stays in the CV. Owner's name in author lists is always bold. The biography is in first person (owner's choice 2026-11-02, after a survey of 10 marketing sites: all first person, none with inline school logos, so no logos here). Research identity: marketing strategy, digital marketing, public policy, customer satisfaction, causal inference.
 
 ## 5. Local build, preview, audit
 

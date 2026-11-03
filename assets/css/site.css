@@ -104,6 +104,9 @@ main { padding: 24px 0 72px; }
 .pub-authors { font-size: 15px; color: var(--muted); margin: 0; }
 .pub-authors strong { color: var(--text); font-weight: 600; }
 .pub-status { font-style: italic; }
+.content .pub .abstract { background: none; border: 0; padding: 0; margin: 6px 0 0; }
+.content .pub .abstract summary { font-size: 13px; font-weight: 500; color: var(--muted); }
+.content .pub .abstract p { font-size: 15px; margin: 6px 0 0; }
 .pub-links { display: flex; flex-wrap: wrap; gap: 6px; margin: 10px 0 0; padding: 0; list-style: none; }
 .content .pub-links a.btn { margin: 0; }
 

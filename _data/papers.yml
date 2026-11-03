@@ -1,6 +1,7 @@
 # Working papers shown as cards on /research/ (newest or most important first).
 # authors: markdown, natural order for everyone ("Minghao Wang, Hang Nguyen, and ..."); bold your own name with **...**.
 # status:  short tag above the title: "Working paper", "Under review", "R&R at <journal>", "Forthcoming at <journal>".
+# abstract: optional; one paragraph shown behind an "Abstract" toggle on the research page. Omit until there is one.
 # links:   list of {label, url}; keep [] until a link exists. Labels to use: SSRN, PDF, Slides, Web appendix.
 #          Example:
 #          links:
