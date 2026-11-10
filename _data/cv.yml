@@ -1,0 +1,20 @@
+# Homepage lists (Education, Awards, Certifications), rendered as rows by _includes/cv.html.
+# Each entry: title (dark), place (grey line below), date (right-aligned). Newest first.
+
+education:
+  - { title: "Doctor of Philosophy (Ph.D.) in Marketing", place: "Michigan State University", date: "Expected 2029" }
+  - { title: "Master of Science (M.S.) in Management Business Analytics and Intelligence", place: "Case Western Reserve University", date: "2023" }
+  - { title: "Master of Science (M.S.) in Marketing Research", place: "Michigan State University", date: "2020" }
+  - { title: "Bachelor of Arts (B.A.) in Psychology", place: "Michigan State University", date: "2019" }
+  - { title: "Bachelor of Arts (B.A.) in Psychology", place: "Study Abroad, University of Kent, Canterbury, United Kingdom", date: "Spring 2019" }
+  - { title: "Bachelor of Arts (B.A.) in Supply Chain Management", place: "Michigan State University", date: "2018" }
+
+awards:
+  - { title: "Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence", place: "Michigan State University", date: "2025" }
+  - { title: "MSU Colleges' Online Learning Academy (COLA) Fellowship", place: "Michigan State University", date: "Summer 2025" }
+  - { title: "Broad College of Business Doctoral Fellowship", place: "Michigan State University", date: "2024-2029" }
+
+certifications:
+  - { title: "2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching", place: "Georgia State University Buckhead Center", date: "May 2026" }
+  - { title: "University Graduate Certification in College Teaching in Business", place: "Michigan State University", date: "December 2025" }
+  - { title: "AIB-CIBER Doctoral Academy Certificate Program", place: "Third Cohort", date: "2025-2027" }

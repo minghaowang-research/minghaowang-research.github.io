@@ -27,6 +27,7 @@ editing anything. This file is the short version.
 | Teaching index / a course page | `_pages/teaching.md` / `_teaching/<slug>.md` |
 | Tools, travel | `_pages/tools.md`, `_pages/travel.md` |
 | Hero name, tagline, links | `_config.yml` under `author:` (buttons in `_includes/hero.html`) |
+| Education, awards, certifications on the homepage | `_data/cv.yml` |
 | Greeting words in the nav | `_layouts/default.html`, bottom script |
 | CV PDF and downloads | `files/` |
 | Look and feel | `assets/css/site.css`, layouts in `_layouts/`, includes in `_includes/` |

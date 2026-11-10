@@ -2,19 +2,20 @@
 {% assign a = site.author %}
 <header class="hero">
   <div>
+    <p class="greeting"><span id="greeting">Hello</span></p>
     <h1>{{ a.name }} <span class="cjk" lang="zh">王铭浩</span></h1>
-    <p class="tagline">{{ a.bio }}</p>
+    <p class="tagline"><span class="role">{{ a.bio }}</span>{{ a.affiliation }}</p>
     <ul class="links">
-      {% if a.email %}<li><a href="mailto:{{ a.email }}"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>Email</a></li>{% endif %}
-      {% if a.uri %}<li><a href="{{ a.uri }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>MSU Profile</a></li>{% endif %}
-      {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>Google Scholar</a></li>{% endif %}
+      <li><a class="primary" href="{{ base_path }}/files/Minghao-Wang-PhD-CV.pdf">CV (PDF)</a></li>
+      {% if a.email %}<li><a href="mailto:{{ a.email }}">Email</a></li>{% endif %}
+      {% if a.uri %}<li><a href="{{ a.uri }}" target="_blank" rel="noopener">MSU Profile</a></li>{% endif %}
+      {% if a.googlescholar %}<li><a href="{{ a.googlescholar }}" target="_blank" rel="noopener">Google Scholar</a></li>{% endif %}
       {% comment %} ORCID button kept for later: set the field in _config.yml and remove this comment block to show it.
-      {% if a.orcid %}<li><a href="{{ a.orcid }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>ORCID</a></li>{% endif %}
+      {% if a.orcid %}<li><a href="{{ a.orcid }}" target="_blank" rel="noopener">ORCID</a></li>{% endif %}
       {% endcomment %}
-      {% if a.linkedin %}<li><a href="https://www.linkedin.com/in/{{ a.linkedin }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>LinkedIn</a></li>{% endif %}
-      {% if a.github %}<li><a href="https://github.com/{{ a.github }}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24"><path d="M14 4h6v6"/><path d="M20 4l-9 9"/><path d="M19 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V6a1 1 0 0 1 1-1h5"/></svg>GitHub</a></li>{% endif %}
-      <li><a href="{{ base_path }}/files/Minghao-Wang-PhD-CV.pdf"><svg viewBox="0 0 24 24"><path d="M14 3H6a1 1 0 0 0-1 1v16a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8z"/><path d="M14 3v5h5"/></svg>CV (PDF)</a></li>
+      {% if a.linkedin %}<li><a href="https://www.linkedin.com/in/{{ a.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>{% endif %}
+      {% if a.github %}<li><a href="https://github.com/{{ a.github }}" target="_blank" rel="noopener">GitHub</a></li>{% endif %}
     </ul>
   </div>
-  <img class="avatar" src="{{ base_path }}/images/{{ a.avatar }}" alt="" width="132" height="132">
+  <img class="avatar" src="{{ base_path }}/images/{{ a.avatar }}" alt="" width="150" height="180">
 </header>

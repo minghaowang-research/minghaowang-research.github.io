@@ -19,19 +19,13 @@ My research interests span marketing strategy, digital marketing, public policy,
 {% include recent.html %}
 
 ## Education
-* **Doctor of Philosophy (Ph.D.) in Marketing**, Michigan State University, Expected 2029
-* **Master of Science (M.S.) in Management Business Analytics and Intelligence**, Case Western Reserve University, 2023
-* **Master of Science (M.S.) in Marketing Research**, Michigan State University, 2020
-* **Bachelor of Arts (B.A.) in Psychology**, Michigan State University, 2019
-* **Bachelor of Arts (B.A.) in Psychology**, Study Abroad, University of Kent, Canterbury, United Kingdom, Spring 2019
-* **Bachelor of Arts (B.A.) in Supply Chain Management**, Michigan State University, 2018
+
+{% include cv.html items=site.data.cv.education %}
 
 ## Awards & Fellowships
-* **Donald A. and Shirley M. Taylor Award for Recognition of Research Excellence**, Michigan State University, 2025
-* **MSU Colleges' Online Learning Academy (COLA) Fellowship**, Michigan State University, Summer 2025
-* **Broad College of Business Doctoral Fellowship**, Michigan State University, 2024-2029
+
+{% include cv.html items=site.data.cv.awards %}
 
 ## Certifications & Professional Development
-* **2026 CIBER Pedagogy Workshop - Certificate in Higher Education Teaching**, Georgia State University Buckhead Center, May 2026
-* **University Graduate Certification in College Teaching in Business**, Michigan State University, December 2025
-* **AIB-CIBER Doctoral Academy Certificate Program**, Third Cohort, 2025-2027
+
+{% include cv.html items=site.data.cv.certifications %}

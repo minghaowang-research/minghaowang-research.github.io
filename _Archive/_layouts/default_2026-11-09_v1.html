@@ -1,0 +1,54 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}">
+  <head>
+    <meta charset="utf-8">
+    {% include seo.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ base_path }}/assets/css/site.css">
+    {% include head/custom.html %}
+  </head>
+
+  <body>
+    <nav class="topnav">
+      <div class="wrap">
+        <a class="brand" href="{{ base_path }}/" aria-label="Home"><span id="greeting">Hello</span></a>
+        <ul class="navlinks">
+          {% for link in site.data.navigation.main %}
+            <li><a href="{{ base_path }}{{ link.url }}"{% if page.url contains link.url %} class="active" aria-current="page"{% endif %}>{{ link.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>
+
+    <main class="wrap">
+      {% if page.url == "/" %}{% include hero.html %}{% endif %}
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+    {% include analytics.html %}
+    <script>
+      /* Nav greeting cycles through languages (3 passes, then rests; off when the visitor prefers reduced motion).
+         Edit the list here, keep "Hello" first. No line comments in this block: the compress layout joins lines in production. */
+      (function () {
+        if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { return; }
+        var words = ["Hello", "你好", "Hola", "안녕하세요", "こんにちは", "Bonjour", "Hallo", "Ciao", "Olá", "Hej", "Salut", "नमस्ते", "مرحبا", "Привет", "Γεια σου", "Merhaba", "שלום", "Xin chào", "สวัสดี", "Halo", "Hoi", "Hei", "Ahoj", "Cześć", "Szia", "Kia ora", "Jambo", "Aloha", "Salve", "Dia dhuit"];
+        var el = document.getElementById("greeting"), i = 0, shown = 0;
+        var timer = setInterval(function () {
+          el.style.opacity = "0";
+          setTimeout(function () { i = (i + 1) % words.length; el.textContent = words[i]; el.style.opacity = "1"; }, 300);
+          if (++shown >= words.length * 3) { clearInterval(timer); }
+        }, 2400);
+      })();
+    </script>
+  </body>
+</html>

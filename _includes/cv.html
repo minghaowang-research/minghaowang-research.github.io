@@ -1,0 +1,5 @@
+<ul class="cv">
+  {% for i in include.items %}
+  <li><span class="cv-title">{{ i.title }}</span><span class="cv-date">{{ i.date }}</span><span class="cv-place">{{ i.place }}</span></li>
+  {% endfor %}
+</ul>

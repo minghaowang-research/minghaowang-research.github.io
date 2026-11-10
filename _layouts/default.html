@@ -20,7 +20,7 @@ layout: compress
   <body>
     <nav class="topnav">
       <div class="wrap">
-        <a class="brand" href="{{ base_path }}/" aria-label="Home"><span id="greeting">Hello</span></a>
+        <a class="brand" href="{{ base_path }}/">{{ site.name }}</a>
         <ul class="navlinks">
           {% for link in site.data.navigation.main %}
             <li><a href="{{ base_path }}{{ link.url }}"{% if page.url contains link.url %} class="active" aria-current="page"{% endif %}>{{ link.title }}</a></li>
@@ -37,12 +37,13 @@ layout: compress
     {% include footer.html %}
     {% include analytics.html %}
     <script>
-      /* Nav greeting cycles through languages (3 passes, then rests; off when the visitor prefers reduced motion).
+      /* Homepage greeting (above the name) cycles through languages (3 passes, then rests; off when the visitor prefers reduced motion).
          Edit the list here, keep "Hello" first. No line comments in this block: the compress layout joins lines in production. */
       (function () {
         if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { return; }
         var words = ["Hello", "你好", "Hola", "안녕하세요", "こんにちは", "Bonjour", "Hallo", "Ciao", "Olá", "Hej", "Salut", "नमस्ते", "مرحبا", "Привет", "Γεια σου", "Merhaba", "שלום", "Xin chào", "สวัสดี", "Halo", "Hoi", "Hei", "Ahoj", "Cześć", "Szia", "Kia ora", "Jambo", "Aloha", "Salve", "Dia dhuit"];
         var el = document.getElementById("greeting"), i = 0, shown = 0;
+        if (!el) { return; }
         var timer = setInterval(function () {
           el.style.opacity = "0";
           setTimeout(function () { i = (i + 1) % words.length; el.textContent = words[i]; el.style.opacity = "1"; }, 300);

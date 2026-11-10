@@ -23,11 +23,12 @@ author:
   avatar           : "profile.png"
   name             : "Minghao Wang"
   pronouns         : "He/him/his" 
-  bio              : "PhD Student in Marketing at Michigan State University (MSU)"
+  bio              : "PhD Student in Marketing"   # hero tagline, line 1
+  affiliation      : "Eli Broad College of Business, Michigan State University"   # hero tagline, line 2
   location         : "East Lansing, Michigan"
   employer         : "Michigan State University"
   uri              : "https://broad.msu.edu/profile/wangmi18/"
-  email            : "wangmi18@msu.edu"
+  email            : "wangmi18@broad.msu.edu"
 
   # Academic websites
   arxiv            : # URL
