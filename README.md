@@ -62,7 +62,7 @@ Never push without the site owner's OK. Never delete a file without archiving it
 | Analytics | `_config.yml` `analytics:` (GA4) | |
 | Audit and build tool | `_tools/site.py` | Section 5. |
 | Trackers (local only, gitignored) | `CLAUDE.md`, `_CHANGELOG.md`, `_FOLDER_MAP.md` | Update after every change. Absent in a fresh clone; see section 0. |
-| Agent instructions (committed) | `README.md` (this file), `AGENTS.md` (short version read automatically by Codex, Cursor, Copilot and similar) | Keep both in step. Claude Code reaches this README through the owner's `update-website` skill. |
+| Agent instructions (committed) | `README.md` (this file), `AGENTS.md` (short version read automatically by Codex, Cursor, Copilot and similar) | Keep both in step. Claude Code reaches this README through the local `CLAUDE.md`. |
 | Snapshots | `_Archive/` | Read-only history. `theme_2026-11-02_v1/` holds the old Academic Pages theme. |
 
 The Academic Pages theme leftovers (`_sass/`, theme includes and layouts, `assets/js`, fonts, Docker and npm files) were

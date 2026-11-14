@@ -9,7 +9,7 @@ editing anything. This file is the short version.
 - Never delete or replace a file without first copying it to `_Archive/<folder>/<name>_<YYYY-MM-DD>_v<N>.<ext>`.
 - Before every push run `python3 _tools/site.py check` (text-only edits) or `python3 _tools/site.py audit`
   (layout changes; then open and look at the screenshots in `_audit/`). Fix anything it reports.
-- Content is markdown. Design lives in one file, `assets/css/site.css`; `--accent` is the only color to change for a
+- Content is markdown, plus YAML lists in `_data/` (papers, CV rows, navigation). Design lives in one file, `assets/css/site.css`; `--accent` is the only color to change for a
   new school. No new colors, fonts, inline styles, or scripts. No `//` comments inside inline scripts (production
   build joins lines).
 - Author names in natural order ("Minghao Wang, Hang Nguyen, and ..."), the owner's name in bold. No year counts
@@ -21,14 +21,14 @@ editing anything. This file is the short version.
 
 | Change | File |
 |---|---|
-| Biography, education, awards | `_pages/about.md` |
+| Biography, research interests | `_pages/about.md` |
 | Working papers (status, links) | `_data/papers.yml` |
 | Conferences, service | `_pages/research.md` |
 | Teaching index / a course page | `_pages/teaching.md` / `_teaching/<slug>.md` |
 | Tools, travel | `_pages/tools.md`, `_pages/travel.md` |
 | Hero name, tagline, links | `_config.yml` under `author:` (buttons in `_includes/hero.html`) |
 | Education, awards, certifications on the homepage | `_data/cv.yml` |
-| Greeting words in the nav | `_layouts/default.html`, bottom script |
+| Greeting words (above the name on the homepage) | `_layouts/default.html`, bottom script |
 | CV PDF and downloads | `files/` |
 | Look and feel | `assets/css/site.css`, layouts in `_layouts/`, includes in `_includes/` |
 
