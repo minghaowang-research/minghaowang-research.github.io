@@ -12,7 +12,7 @@ author_profile: true
 # MKT 327 Course Communication Policy - Summer 2025
 ## Asynchronous Online Learning Environment
 
-**Instructor:** Minghao Wang | **Email:** wangmi18@msu.edu  
+**Instructor:** Minghao Wang | **Email:** wangmi18@broad.msu.edu  
 **Note:** This policy is designed for asynchronous online courses.
 
 **Important:** Always refer to the course syllabus first for the most current information. The syllabus may be updated throughout the semester, while this communication policy may not reflect the latest changes.
@@ -120,7 +120,7 @@ This communication policy aligns with:
 ## Questions About This Policy?
 
 **First:** Check this policy, the syllabus, and D2L announcements  
-**Then:** Email [wangmi18@msu.edu](mailto:wangmi18@msu.edu) with specific questions  
+**Then:** Email [wangmi18@broad.msu.edu](mailto:wangmi18@broad.msu.edu) with specific questions  
 **For complex issues:** Schedule office hours appointment
 
 ---

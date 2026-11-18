@@ -14,7 +14,9 @@ author_profile: true
 
 ## Conference Presentations and Invited Talks
 
-- **Minghao Wang**, Hang Nguyen, and Forrest V. Morgeson III (2026), "Privacy Regulation's Unintended Consequences: Evidence from California Consumer Privacy Act", Contributed Presentation, *2026 ISMS Marketing Science Academic Conference*, Carcavelos, Portugal
+- **Minghao Wang**, Hang Nguyen, and Forrest V. Morgeson III (2027), "Data Privacy Regulation, Constrained Promotional Targeting, and Consumer Retail Spending." Competitive Paper, *2027 AMA Winter Academic Conference*, New Orleans, LA, USA.
+
+- **Minghao Wang**, Hang Nguyen, and Forrest V. Morgeson III (2026), "Privacy Regulation's Unintended Consequences: Evidence from California Consumer Privacy Act" (earlier title of the paper above), Contributed Presentation, *2026 ISMS Marketing Science Academic Conference*, Carcavelos, Portugal
 
 - Hang Nguyen, Ju-Yeon Lee, and **Minghao Wang** (2026), "Platform Access Disruption and Ethnic Minority-Owned Businesses: Insights from TikTok Bans." Special Session, *2026 AMA Winter Academic Conference*, Madrid, Spain.
 
